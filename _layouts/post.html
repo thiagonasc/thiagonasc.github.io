@@ -29,6 +29,29 @@ comments: true
         {{ content }}
       </div>
 
+      <hr>
+
+      {% if site.disqus.shortname %}
+      --- DISQUS SHORTNAME CONFIGURADO!<br>
+      {% else %}
+      N - DISQUS NAO CONFIGURADO<br>
+      {% endif %}
+
+      {% if page.comments != false %}
+      --- PAGE COMMENTS HABILITADO = TRUE!<br>
+      {% else %}
+      N - COMENTARIOS INABILITADO<br>
+      {% endif %}
+
+      {% if jekyll.environment == "production" %}
+      --- JEKYLL ENVIROMENT EM PRODUCTION MANNN!<br>
+      {% else %}
+      N - SITE NAO É PRODUCAO<br>
+      {% endif %}
+
+
+
+
       {% if site.disqus.shortname and page.comments != false and jekyll.environment == "production" %}
       {% include disqus_comments.html %}
       {% endif %}

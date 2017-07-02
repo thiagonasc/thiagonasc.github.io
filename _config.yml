@@ -18,8 +18,8 @@ title: ThiagoNasc.com • O fantástico mundo do desenvolvimento web
 email: thiagonasc@gmail.com
 description: "Experiências, estudos e conteúdo interessantes (pessoais e profissionais) sobre desenvolvimento web."
 baseurl: ""
-url: "http://www.thiagonasc.com/"
-google_analytics:	UA-30680813-1
+url: "http://www.thiagonasc.com"
+# google_analytics:	UA-30680813-1
 
 # LINKS
 link:
