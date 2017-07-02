@@ -29,7 +29,7 @@ comments: true
         {{ content }}
       </div>
 
-      {% if site.disqus.shortname and page.comments != false  and jekyll.environment == "production" %}
+      {% if site.disqus.shortname and page.comments != false and jekyll.environment == "production" %}
       {% include disqus_comments.html %}
       {% endif %}
     </article>
