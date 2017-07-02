@@ -13,21 +13,29 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: ThiagoNasc.com • O fantástico mundo do desenvolvimento web
 email: thiagonasc@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Experiências, estudos e conteúdo interessantes (pessoais e profissionais) sobre desenvolvimento web.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.thiagonasc.com/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: thiagonasc
-github_username:  thiagonasc
-google_analytics: UA-30680813-1
+description: "Experiências, estudos e conteúdo interessantes (pessoais e profissionais) sobre desenvolvimento web."
+baseurl: ""
+url: "http://www.thiagonasc.com/"
+google_analytics:	UA-30680813-1
+
+# LINKS
+link:
+ twitter: http://www.twtiter.com/thiagonasc
+ github:	http://www.github.com/thiagonasc
+ facebook: https://www.facebook.com/thiagonascimentooliveira
+ behance:	http://www.behance.net/thiagonasc/
+ slideshare:	http://www.slideshare.net/thiagonasc/
+ linkedin:	http://br.linkedin.com/pub/thiago-nascimento-oliveira/
+ instagram:	http://instagram.com/thiagonasc/
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+ - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -47,4 +55,4 @@ permalink: /:categories/:title
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+ date_format: "%b %-d, %Y"
