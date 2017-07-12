@@ -3,7 +3,7 @@ layout: page
 title: Sobre
 permalink: /sobre/
 img:
- url:	thiago-nascimento-oliveira-foto-1.jpg
+ url:	thiago-nascimento-oliveira-foto-2.jpg
  alt:	Foto de Thiago Nascimento Oliveira
 ---
 
