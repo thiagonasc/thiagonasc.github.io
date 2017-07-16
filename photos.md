@@ -6,6 +6,24 @@ permalink: /photos/
 
 <div class="wrapper">
 
+	<h3>Praça do Centenário</h3>
+
+	<p>Em poucos segundos o canto dos pássaros formam uma canção... como não? Esse lugar respira música, orvalha cultura, revive bons momentos... quem já passou por aqui sabe... é cheiro de nostalgia e sentimento de coisa boa!</p>
+
+</div>
+
+![image-title-here](/assets/imgs/photos/2019-08-09-praca-do-centenario.jpg)
+
+<div class="wrapper">
+	<p>Praça do Centenário<br>Três Pontas (MG)<br>Brasil</p>
+</div>
+
+<br>
+<hr style="margin:100px 0;">
+<br>
+
+<div class="wrapper">
+
 	<h3>Menininha boliviana...</h3>
 
 	<p>Era janeiro de 2010, em uma viagem de mochilão e 3 amigos...</p>
