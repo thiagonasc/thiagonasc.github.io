@@ -6,6 +6,24 @@ permalink: /photos/
 
 <div class="wrapper">
 
+	<h3>Vôo</h3>
+
+	<p>A gente fala tanto de liberdade, e se limita o tempo inteiro.<br>Para tirar os pés do chão, basta um impulso. Voe!</p>
+
+</div>
+
+![image-title-here](/assets/imgs/photos/2011-05-02-voo.jpg)
+
+<div class="wrapper">
+	<p>Três Pontas (MG)<br>Brasil</p>
+</div>
+
+<br>
+<hr style="margin:100px 0;">
+<br>
+
+<div class="wrapper">
+
 	<h3>Praça do Centenário</h3>
 
 	<p>Em poucos segundos o canto dos pássaros formam uma canção... como não? Esse lugar respira música, orvalha cultura, revive bons momentos... quem já passou por aqui sabe... é cheiro de nostalgia e sentimento de coisa boa!</p>
