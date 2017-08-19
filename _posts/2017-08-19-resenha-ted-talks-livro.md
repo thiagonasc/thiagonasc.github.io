@@ -48,7 +48,7 @@ Embora tenha um foco especial a palestrantes, as técnicas apresentadas servem c
 
 # 10 lições importantes retiradas do livro
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3SfCxQ9aKuHaRv" width="100%" height="455px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/thiagonasc/ted-talks-10-lies-importantes-retiradas-do-livro" title="Ted Talks - 10 lições importantes retiradas do livro" target="_blank">Ted Talks - 10 lições importantes retiradas do livro</a> </strong> from <strong><a href="https://www.slideshare.net/thiagonasc" target="_blank">Thiago Nascimento Oliveira</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/L76Q1SAx5grdIg" width="100%" height="455px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/thiagonasc/ted-talks-10-lies-importantes-retiradas-do-livro" title="Ted Talks - 10 lições importantes retiradas do livro" target="_blank">Ted Talks - 10 lições importantes retiradas do livro</a> </strong> from <strong><a href="https://www.slideshare.net/thiagonasc" target="_blank">Thiago Nascimento Oliveira</a></strong> </div>
 
 1. Feita de forma correta, uma palestra é capaz de eletrizar uma sala e transformar a visão de mundo de uma platéia.
 
