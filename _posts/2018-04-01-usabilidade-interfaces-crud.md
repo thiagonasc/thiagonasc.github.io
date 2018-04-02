@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Usabilidade em interfaces CRUD: o guia absolutamente completo"
-date: 2018-03-26 14:06:30.000000000 -03:00
+date: 2018-04-01 14:00:00.000000000 -03:00
 type: post
 published: true
 status: publish
 categories:
-- Livros
-tags: []
+- Usabilidade
+tags: [usabilidade]
 img:
  url:	usabilidade-interfaces-crud.jpg
- alt:	Homem feliz utilizando um computador
+ alt:	"Imagem ilustrativa do título Usabilidade em interfaces CRUD"
 ---
 
 Quem trabalha com desenvolvimento de sistemas está acostumado a lidar com **CRUD**! E por mais que esse acrônimo seja uma constante em nossas vidas, é comum vermos interfaces mal desenvolvidas por aí, comprometendo a experiência do usuário (UX) e consequentemente, o sucesso dos projetos.
