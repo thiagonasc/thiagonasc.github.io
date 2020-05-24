@@ -13,7 +13,7 @@ categories:
 
 ![Livro Sprint colocado sobre uma cabeceira de madeira e duas canetas ao lado](/assets/imgs/livro-sprint/livro-sprint-capa.jpg)
 
-O título do livro **Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias** já é auto explicativo, mas em linhas ainda simples, sabe aquela ideia brilhante de um novo produto ou mesmo a evolução de um serviço? Então, por onde exatamente começar?
+O título do livro **[Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias](https://amzn.to/2LRY6jv){:target="_blank"}** já é auto explicativo, mas em linhas ainda simples, sabe aquela ideia brilhante de um novo produto ou mesmo a evolução de um serviço? Então, por onde exatamente começar?
 
 
 ### A metodologia
@@ -42,3 +42,5 @@ Caso se interesse em aprofundar mais no método, há diversos materiais e ferram
 ### Conclusão
 
 Através de uma leitura leve, o livro **Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias** é uma excelente referência, com exemplos e resultados sólidos aplicados em grandes empresas, cabendo a todos que tenham uma ideia de produto ou mesmo a evolução de um serviço a ser colocado em prática. Já aos que trabalham no desenvolvimento de produtos de software, a leitura se torna obrigatória. É o tipo de livro para ser lido e sempre revisto, já que sua estrutura funciona também como um guia para execução do método. E sobre este, é positivo até quando dá errado, “melhor descobrir em uma semana que depois de meses que seu produto já estiver no mercado e seu dinheiro já tiver ido embora”. 
+
+[Comprar livro na Amazon.](https://amzn.to/2LRY6jv){:target="_blank"}
