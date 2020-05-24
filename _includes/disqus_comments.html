@@ -1,5 +1,6 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
-
+  
+  <hr>
   <div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
@@ -18,9 +19,4 @@
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
-{%- endif -%}
-
-<!-- THIAGONASC - CUSTOMIZAÇÃO -->
-{%- if page.comments !=false and jekyll.enviroment != "production" -%}
-  <p># Aqui virá o DISQUS COMMENTS #</p>
 {%- endif -%}
