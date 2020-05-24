@@ -4,7 +4,7 @@ title: Livros
 permalink: /livros/
 ---
 
-Acompanhe aqui minhas principais leituras em andamento e finalizados. Alguns deles contam com uma breve resenha publicada no blog (os links estão referenciados abaixo).
+Acompanhe aqui minhas principais leituras em andamento e finalizadas. Alguns deles contam com uma breve resenha publicada no blog (os links estão referenciados abaixo).
 
 Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 
