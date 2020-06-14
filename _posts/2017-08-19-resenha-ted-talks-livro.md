@@ -81,3 +81,5 @@ Para finalizar *(spoiler)*, a frase final e profundamente impactante:
 > "O futuro ainda não está escrito. Estamos todos nós coletivamente no processo de escrevê-lo. Há uma página aberta - e um palco vazio - a espero de sua contribuição."
 
 E você? Já leu ou pretende lê-lo?<br>Comente, compartilhe sua ideia!
+
+<a target="_blank" href="https://www.amazon.com.br/gp/product/858057935X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=858057935X&linkCode=as2&tag=thiagonasc-20&linkId=ceb560085dcb14f0a2be8c8e08b35524">Comprar livro na Amazon.</a>
