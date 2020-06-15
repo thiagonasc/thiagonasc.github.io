@@ -54,7 +54,6 @@ Já leu o livro? O que achou? Deixe seu comentário.
 
 <br>
 <hr>
-<br>
 
 Veja também:
 * [Resenha: Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias (Livro)]({% link _posts/2020-05-25-resenha-livro-sprint.md %})

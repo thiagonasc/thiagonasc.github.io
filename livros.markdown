@@ -10,7 +10,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 
 ## Lendo
 
-| <a target="_blank"  href="https://www.amazon.com.br/gp/product/8542211561/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8542211561&linkCode=as2&tag=thiagonasc-20&linkId=01bd6447e0adc0c2750f2de0e3490873"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=BR&ASIN=8542211561&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=thiagonasc-20" ></a><img src="//ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&l=am2&o=33&a=8542211561" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Trabalho 4 horas por semana.**<br>Fuja da rotina, viva onde quiser e fique rico.<br>*Por: Timothy Ferriss*<br><a target="_blank" href="https://amzn.to/2YFN9aO">Comprar</a> |
+| <a target="_blank"  href="https://www.amazon.com.br/gp/product/8542211561/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8542211561&linkCode=as2&tag=thiagonasc-20&linkId=01bd6447e0adc0c2750f2de0e3490873"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=BR&ASIN=8542211561&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=thiagonasc-20" ></a><img src="//ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&l=am2&o=33&a=8542211561" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Trabalhe 4 horas por semana.**<br>Fuja da rotina, viva onde quiser e fique rico.<br>*Por: Timothy Ferriss*<br><a target="_blank" href="https://amzn.to/2YFN9aO">Comprar</a> |
 
 
 ## Lidos
