@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-21T21:37:27-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ThiagoNasc.com</title><subtitle>Experiências, estudos e conteúdo interessantes (pessoais e profissionais) sobre gestão e desenvolvimento web.</subtitle><entry><title type="html">Resenha: Sprint a Sprint: Erros e acertos na transformação cultural de um time ágil (Livro)</title><link href="http://localhost:4000/livros/resenha-livro-sprint-a-sprint" rel="alternate" type="text/html" title="Resenha: Sprint a Sprint: Erros e acertos na transformação cultural de um time ágil (Livro)" /><published>2020-06-14T17:00:00-03:00</published><updated>2020-06-14T17:00:00-03:00</updated><id>http://localhost:4000/livros/resenha-livro-sprint-a-sprint</id><content type="html" xml:base="http://localhost:4000/livros/resenha-livro-sprint-a-sprint">&lt;p&gt;Numa abordagem enxuta, &lt;a href=&quot;https://www.linkedin.com/in/maryprovinciatto/&quot; target=&quot;_blank&quot;&gt;Mary Provinciatto&lt;/a&gt; e &lt;a href=&quot;https://www.linkedin.com/in/paulocaroli/&quot; target=&quot;_blank&quot;&gt;Paulo Caroli&lt;/a&gt;, transcrevem as experiências vivenciadas junto a um time de desenvolvimento ágil, do início do projeto à entrega do produto mínimo viável (MVP), literalmente “&lt;strong&gt;Sprint a Sprint&lt;/strong&gt;”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/livro-sprint-a-sprint/livro-sprint-a-sprint-capa.jpg&quot; alt=&quot;Notebook sobre a mesa com o e-book Sprint a Sprint aberto em sua capa&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;o-livro&quot;&gt;O livro&lt;/h1&gt;
+
+&lt;p&gt;Dividido em 3 partes principais, a primeira aborda os conceitos mais importantes, a segunda resume as experiências práticas vividas durante 6 meses, de forma cronológica, reunindo os problemas mais relevantes e suas recomendações. Por fim, a terceira parte reúne templates e instruções, facilitando a reaplicação pelo leitor.&lt;/p&gt;
+
+&lt;p&gt;Dois aspectos me chamaram muito a atenção.&lt;/p&gt;
+
+&lt;p&gt;O primeiro é que problemas acontecem em todos os times, mesmo com profissionais altamente competentes e… tudo bem! Como diz Mark Manson, “o segredo está em resolver problemas e não em não ter problemas”.&lt;/p&gt;
+
+&lt;p&gt;E segundo, porém não menos importante, a leitura reforça ainda mais minha convicção de que organização, boa comunicação e muita transparência é um forte propulsor a bons resultados em times ágeis.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/livro-sprint-a-sprint/livro-sprint-a-sprint-trecho.jpg&quot; alt=&quot;Notebook sobre a mesa com o e-book Sprint a Sprint aberto em sua capa&quot; /&gt;
+Muito interessante ver a atenção e cuidado na comunicação, desde a linguagem utilizada nas mensagens à visibilidade e organização das agendas.&lt;/p&gt;
+
+&lt;p&gt;Como curiosidade, Mary Provinciatto conta a história de como surgiu o livro &lt;a href=&quot;https://maryprovinciatto.com/como-surgiu-o-livro-sprint-a-sprint/&quot; target=&quot;_blank&quot;&gt;neste post publicado em seu próprio site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;seleção-de-10-frases-e-trechos-do-livro&quot;&gt;Seleção de 10 frases e trechos do livro&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;“Todo time deve fazer uma retrospectiva por semana, a menos que esteja sem tempo. Nesse caso, deve fazer duas”.&lt;/li&gt;
+  &lt;li&gt;O sucesso da empresa depende da boa performance de um time e o grande trabalho é justamente fazer pessoas diferentes, com conhecimentos distintos, trabalharem em direção ao mesmo objetivo: a entrega de um produto!&lt;/li&gt;
+  &lt;li&gt;Não crie funcionalidades para um MVP se você não souber descrever o que espera como resultado e como medi-los.&lt;/li&gt;
+  &lt;li&gt;A ideia por trás de um MVP é ter uma evolução validada e guiada pelos resultados iniciais, com a correção ou a confirmação necessária para orientar os incrementos seguintes.&lt;/li&gt;
+  &lt;li&gt;“A cooperação é o ato de trabalhar com os outros e atuar juntos para realizar um trabalho. Time é uma parceria de pessoas únicas que trazem para fora o melhor de si, e que sabem que todos são maravilhosos como indivíduos, mas são ainda melhores em conjunto. Reunir-se é um começo; manterem-se juntos é um progresso; trabalhar juntos é o sucesso.” Diretiva primária para formação de equipes.&lt;/li&gt;
+  &lt;li&gt;Não importa o quanto você tente utilizar os melhores processos e ferramentas, o sucesso do time e, consequentemente do produto, depende muito mais das pessoas e de suas interações.&lt;/li&gt;
+  &lt;li&gt;Um time sem PO é um barco à deriva. Talvez até chegue em algum lugar, mas ninguém garante que esse é o lugar que deveria alcançar.&lt;/li&gt;
+  &lt;li&gt;Os melhores Scrum Masters são aquelas pessoas que sentem mais satisfação em facilitar o sucesso dos outros do que os próprios.&lt;/li&gt;
+  &lt;li&gt;O time Scrum é auto-organizado, pois não deve existir um líder de equipe que decide quem vai fazer qual tarefa e como. Tarefas e problemas são levantados por todos.&lt;/li&gt;
+  &lt;li&gt;Práticas, técnicas, cerimônias e ferramentas não funcionam sozinhas! As pessoas devem entender para que elas servem e quando utilizá-las.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h1&gt;
+
+&lt;p&gt;Metodologias, práticas, ferramentas e até mesmo software em funcionamento são apenas meios para um objetivo comum: &lt;strong&gt;gerar resultado de valor&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;Recomendo o livro Sprint a Sprint em especial à profissionais de Tecnologia da Informação que ainda não tiveram a experiência prática de vivenciar o ágil e à aqueles que já vivenciam, como uma forma simples e rápida de pegar carona com profissionais experientes como Paulo Carolli, no papel de &lt;em&gt;Agile Coach&lt;/em&gt; e Mary Provinciato, no papel de &lt;em&gt;Scrum Master&lt;/em&gt;, permitindo olhar para fora, conhecer novas abordagens e consolidar outras.&lt;/p&gt;
+
+&lt;p&gt;Já leu o livro? O que achou? Deixe seu comentário.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://amzn.to/3fjgQos&quot;&gt;Comprar livro na Amazon.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Veja também:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/livros/resenha-livro-sprint&quot;&gt;Resenha: Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias (Livro)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/livros/resenha-ted-talks-livro&quot;&gt;Resenha: TED Talks - O guia oficial para falar em público (Livro)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/livros&quot;&gt;Veja a listagem completa de livros.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Numa abordagem enxuta, Mary Provinciatto e Paulo Caroli, transcrevem as experiências vivenciadas junto a um time de desenvolvimento ágil, do início do projeto à entrega do produto mínimo viável (MVP), literalmente “Sprint a Sprint”.</summary></entry><entry><title type="html">Resenha: Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias (livro)</title><link href="http://localhost:4000/livros/resenha-livro-sprint" rel="alternate" type="text/html" title="Resenha: Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias (livro)" /><published>2020-05-24T18:45:00-03:00</published><updated>2020-05-24T18:45:00-03:00</updated><id>http://localhost:4000/livros/resenha-livro-sprint</id><content type="html" xml:base="http://localhost:4000/livros/resenha-livro-sprint">&lt;h4 id=&quot;há-uma-famosa-frase-de-albert-einstein-que-diz-o-maior-grau-de-insanidade-mental-é-querer-resultados-diferentes-fazendo-as-mesmas-coisas-e-é-com-esta-mentalidade-que-devemos-nos-abrir-ao-novo-afinal-modernizar-problemas-antigos-é-apenas-modernizar-isso-não-significa-inovar&quot;&gt;Há uma famosa frase de Albert Einstein que diz: “O maior grau de insanidade mental é querer resultados diferentes fazendo as mesmas coisas” e é com esta mentalidade que devemos nos abrir ao novo, afinal, “modernizar problemas antigos é apenas modernizar, isso não significa inovar”.&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/livro-sprint/livro-sprint-capa.jpg&quot; alt=&quot;Livro Sprint colocado sobre uma cabeceira de madeira e duas canetas ao lado&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O título do livro &lt;strong&gt;&lt;a href=&quot;https://amzn.to/2LRY6jv&quot; target=&quot;_blank&quot;&gt;Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias&lt;/a&gt;&lt;/strong&gt; já é auto explicativo, mas em linhas ainda simples, sabe aquela ideia brilhante de um novo produto ou mesmo a evolução de um serviço? Então, por onde exatamente começar?&lt;/p&gt;
+
+&lt;h3 id=&quot;a-metodologia&quot;&gt;A metodologia&lt;/h3&gt;
+
+&lt;p&gt;Criado pelo designer Jake Knapp enquanto trabalhava no Google e aprimorado na prática junto à sua equipe no Google Ventures (braço da companhia dedicado ao investimento em novos negócios), o Design Sprint é um método aplicável a qualquer oportunidade, problema ou ideia que se deseje  desenvolver e testar de forma rápida e efetiva. Em exatos cinco dias, você terá a oportunidade de definir objetivos claros, validar premissas e transformar discussões em hipóteses que possam ser testadas antes mesmo de iniciar seu real desenvolvimento. É uma maneira simples de tirar suas ideias do papel, criando produtos melhores e de forma mais rápida.&lt;/p&gt;
+
+&lt;p&gt;No vídeo abaixo, o próprio Jake Knapp resume a metodologia em 90 segundos:&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;410&quot; src=&quot;https://www.youtube.com/embed/Z9DTEnoDyPk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;o-livro&quot;&gt;O livro&lt;/h3&gt;
+
+&lt;p&gt;De leitura extremamente simples, o livro é recheado de exemplos reais e bastidores de casos de sucesso que favorecem a imersão e aprendizado. Os capítulos foram divididos através dos dias do sprint, proporcionando uma prazerosa experiência pela linha do tempo,  apreciando a evolução e ainda se encontrando facilmente durante a dinâmica. Ao final, há um robusto checklist com pontos de atenção, materiais e atividades para cada etapa do processo. Com isso, o livro se torna um poderoso guia, muito útil inclusive para consultas logo antes ou durante a prática.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/livro-sprint/livro-sprint-capitulos.jpg&quot; alt=&quot;Livro Sprint aberto ao meio, com uma página à esquerda toda em azul e escrito no centro terça-feira, mostrando o título do capítulo e à direita um resumo do que será abordado&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Há diversas ilustrações que sintetizam a dinâmica e outras que reproduzem os resultados de casos reais aplicados em grandes empresas. Sobre este último ponto, tanto a versão original (em inglês), quanto a traduzida, trazem diversas representações. Confesso que senti vontade de ver as fotografias reais, talvez não as tenham colocado por questão de legibilidade.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/livro-sprint/livro-sprint-quadros.jpg&quot; alt=&quot;Livro Sprint aberto ao meio, mostrando diversas ilustrações representando os resultados das dinâmicas aplicadas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tive a oportunidade de participar de diversos Design Sprints e ainda que o autor considere que “com o livro você tem tudo o que precisa, podendo ser um facilitador sem nenhuma experiência”, digo categoricamente que para resultados expressivos, nada melhor que a prática! E óbvio, afinal, a prática nos leva ao aperfeiçoamento. Mas digo isso com o intuito de enfatizar que as primeiras experiências podem não ter o resultado esperado, no entanto, a cada dinâmica as atividades passam a fazer mais sentido, o processo se torna mais fluído, conciso e consequentemente, os resultados se tornam mais contundentes.&lt;/p&gt;
+
+&lt;p&gt;Caso se interesse em aprofundar mais no método, há diversos materiais e ferramentas interessantes disponíveis no site oficial (&lt;a href=&quot;https://www.thesprintbook.com/&quot; target=&quot;_blank&quot;&gt;thesprintbook.com&lt;/a&gt;), que funciona muito bem como uma extensão do livro.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h3&gt;
+
+&lt;p&gt;Através de uma leitura leve, o livro &lt;strong&gt;Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias&lt;/strong&gt; é uma excelente referência, com exemplos e resultados sólidos aplicados em grandes empresas, cabendo a todos que tenham uma ideia de produto ou mesmo a evolução de um serviço a ser colocado em prática. Já aos que trabalham no desenvolvimento de produtos de software, a leitura se torna obrigatória. É o tipo de livro para ser lido e sempre revisto, já que sua estrutura funciona também como um guia para execução do método. E sobre este, é positivo até quando dá errado, “melhor descobrir em uma semana que depois de meses que seu produto já estiver no mercado e seu dinheiro já tiver ido embora”.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://amzn.to/2LRY6jv&quot; target=&quot;_blank&quot;&gt;Comprar livro na Amazon.&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Há uma famosa frase de Albert Einstein que diz: “O maior grau de insanidade mental é querer resultados diferentes fazendo as mesmas coisas” e é com esta mentalidade que devemos nos abrir ao novo, afinal, “modernizar problemas antigos é apenas modernizar, isso não significa inovar”.</summary></entry><entry><title type="html">Agile Trends Gov 2018: a experiência de participar e palestrar!</title><link href="http://localhost:4000/eventos/agile-trends-gov-2018-eu-fui-e-palestrei" rel="alternate" type="text/html" title="Agile Trends Gov 2018: a experiência de participar e palestrar!" /><published>2018-09-12T21:33:30-03:00</published><updated>2018-09-12T21:33:30-03:00</updated><id>http://localhost:4000/eventos/agile-trends-gov-2018-eu-fui-e-palestrei</id><content type="html" xml:base="http://localhost:4000/eventos/agile-trends-gov-2018-eu-fui-e-palestrei">&lt;h4 id=&quot;participar-de-eventos-com-profissionais-inquietos-pela-busca-do-aperfeiçoamento-profissional-e-pessoal-é-com-certeza-uma-das-formas-mais-eficaz-em-nos-expandir-horizontes-e-mais-ricas-para-absorver-e-compartilhar-experiências&quot;&gt;Participar de eventos com profissionais inquietos pela busca do aperfeiçoamento profissional e pessoal é com certeza uma das formas mais eficaz em nos expandir horizontes e mais ricas para absorver e compartilhar experiências.&lt;/h4&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Dairton Bassi de frente à plateia fazendo a abertura oficial do evento Agile Trends Gov 2018&quot; src=&quot;/assets/imgs/agile-trends-gov-2018/dairton-bassi-abertura-oficial.jpg&quot; /&gt;&lt;small&gt;Abertura oficial do evento por Dairton Bassi, com a palestra Tendências e Inovação no Mundo Real. Foto: Divulgação.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Realizado durante os dias 21 a 24 de agosto em Brasília (DF), o &lt;strong&gt;Agile Trends Gov 2018&lt;/strong&gt;, um dos maiores eventos sobre ágil no Brasil, contou com diversos profissionais renomados, representando órgãos e instituições notáveis, como Agência Nacional da Aviação Civil, Banco do Brasil, Caixa Econômica Federal, IBM, Itamaraty, Ministério Público do Trabalho, Tribunal de Contas da União, Tribunal Superior do Trabalho, Petrobrás, Supremo Tribunal Federal e muitas outras.&lt;/p&gt;
+
+&lt;p&gt;Você pode conferir a programação completa através do site oficial: &lt;a href=&quot;http://www.agiletrendsbr.com/&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.agiletrendsbr.com&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Este ano tive o grande prazer em participar e mais que isso, compartilhar experiências vivenciadas na Fundação de Desenvolvimento Científico e Cultural (FUNDECC), da Universidade Federal de Lavras (UFLA), através da talk “&lt;strong&gt;&lt;a href=&quot;https://drive.google.com/file/d/0B6Iw4V_2TOLpRV9kVWNKYTI0ZlFzYWRyVmdlb3lTSlEzSHFR/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Como entregar mais valor ao cliente utilizando Ordens de Serviço e se mantendo ágil!&lt;/a&gt;&lt;/strong&gt;”, uma breve explicação do surgimento ao processo atual utilizado em contratos com os governos estaduais e federal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Thiago Nascimento segurando o microfone, com as mãos erguidas, palestrando no Agile Trends Gov 2018&quot; src=&quot;/assets/imgs/agile-trends-gov-2018/thiago-nascimento-palestrante.jpg&quot; /&gt;&lt;small&gt;Palestra: Como entregar mais valor ao cliente utilizando Ordens de Serviço e se mantendo ágil.  Foto: Divulgação.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;As palestras &lt;em&gt;(Trend Talks)&lt;/em&gt; eram realizadas em simultâneo no mesmo salão e cada participante, com seu fone de ouvido, sintonizava no assunto de maior interesse ou até mesmo passeava entre as apresentações a fim de experimentar e absorver ao máximo os conteúdos.&lt;/p&gt;
+
+&lt;p&gt;De forma extremamente elegante, a organização absorveu as considerações levantadas pelos participantes e agiu, à medida do possível, moldando o evento de forma a agregar mais valor a todos os presentes. Parabéns à organização pelo espírito ágil durante todo o evento!&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Vários participantes, em pequenos grupos, sentados em suas cadeiras discutindo entre si.&quot; src=&quot;/assets/imgs/agile-trends-gov-2018/momento-epic-fail.jpg&quot; /&gt;&lt;small&gt;Momento #EpicFail, criado de forma ágil para interação e discussão entre os participantes. Foto: Divulgação.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Algumas frases e pensamentos notáveis citadas durante o evento que merecem (e muito) o compartilhamento:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Modernizar problemas antigos é apenas modernizar, isso não significa inovar. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/dairtonbassi&quot; target=&quot;_blank&quot;&gt;Dairton Bassi&lt;/a&gt; / &lt;a href=&quot;http://agiletrendsbr.com/&quot; target=&quot;_blank&quot;&gt;Agile Trends&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Não sobrevivem os mais fortes ou mais inteligentes, sobrevivem aqueles que melhor se adaptam ao ambiente. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/paulocaroli/&quot; target=&quot;_blank&quot;&gt;Paulo Caroli&lt;/a&gt; / &lt;a href=&quot;https://www.thoughtworks.com/&quot; target=&quot;_blank&quot;&gt;ThoughtWorks&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Não é sobre entregar uma fatia do bolo, é sobre entregar o cupcake &lt;em&gt;(Analogia ao MVP por &lt;a href=&quot;https://www.linkedin.com/in/paulocaroli/&quot; target=&quot;_blank&quot;&gt;Paulo Caroli&lt;/a&gt; / &lt;a href=&quot;https://www.thoughtworks.com/&quot; target=&quot;_blank&quot;&gt;ThoughtWorks&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Não se apegue, são raríssimas as vezes em que o produto chegará onde inicialmente imaginado. Muito provavelmente um dos MVP’s atenderá ou fará com que o produto final seja diferente do inicial imaginado. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/paulocaroli/&quot; target=&quot;_blank&quot;&gt;Paulo Caroli&lt;/a&gt; / &lt;a href=&quot;https://www.thoughtworks.com/&quot; target=&quot;_blank&quot;&gt;ThoughtWorks&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;A inovação depende de sua vontade de arriscar. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/paulocaroli/&quot; target=&quot;_blank&quot;&gt;Paulo Caroli&lt;/a&gt; / &lt;a href=&quot;https://www.thoughtworks.com/&quot; target=&quot;_blank&quot;&gt;ThoughtWorks&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Ao falarmos de agilidade, falamos de: transparência, inspeção e adaptação. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/alinefonseca&quot; target=&quot;_blank&quot;&gt;Aline Fonseca&lt;/a&gt; / &lt;a href=&quot;https://www.stone.com.br/&quot; target=&quot;_blank&quot;&gt;Stone Pagamentos&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Qualidade de software começa na especificação. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/edivanmatos/&quot; target=&quot;_blank&quot;&gt;Edivan Matos&lt;/a&gt; / &lt;a href=&quot;http://engesoftware.com.br/&quot; target=&quot;_blank&quot;&gt;Engesoftware Tecnologia&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Além de saber ‘o que fazer’, a equipe de desenvolvimento também precisa saber ‘para quem’ e ‘porque’. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/edivanmatos/&quot; target=&quot;_blank&quot;&gt;Edivan Matos&lt;/a&gt; / &lt;a href=&quot;http://engesoftware.com.br/&quot; target=&quot;_blank&quot;&gt;Engesoftware Tecnologia&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;É natural termos erros, mas erros novos. Se estamos cometendo os mesmos erros do passado, é sinal que algo precisa mudar. &lt;em&gt;(Fishbowl)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;É importante não confundir liberdade com libertinagem. &lt;em&gt;(Fishbowl)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Avaliação de desempenho é sensacional quando o processo é completamente definido e os inputs e outputs são sempre os mesmos, do contrário, você estará esperdiçando seu tempo. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/matheushaddad/&quot; target=&quot;_blank&quot;&gt;Matheus Hadad&lt;/a&gt; e &lt;a href=&quot;https://www.linkedin.com/in/patricia-furtado-94281277/&quot; target=&quot;_blank&quot;&gt;Patrícia Furtado&lt;/a&gt; / &lt;a href=&quot;http://www.webgoal.com.br/&quot; target=&quot;_blank&quot;&gt;Webgoal&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;É justo que muito custe o que muito vale. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/vaz-pmp/&quot; target=&quot;_blank&quot;&gt;Gabriel Vaz&lt;/a&gt; / &lt;a href=&quot;http://www.softway.com.sa/&quot; target=&quot;_blank&quot;&gt;Softway&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Os processos e os resultados nunca irão mudar se as pessoes não mudarem a forma como se comportam. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/leonardo-camargo71/&quot; target=&quot;_blank&quot;&gt;Leonardo Camargo&lt;/a&gt; / [Stefanini(https://stefanini.com/pt-br/){:target=’_blank’})&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Entender a necessidade do cliente vai muito além de entender de funcionalidades, é entender de valor. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/kellenserrano/&quot; target=&quot;_blank&quot;&gt;Kellen Serrano&lt;/a&gt; - &lt;a href=&quot;https://www.labbs.com.br/&quot; target=&quot;_blank&quot;&gt;Labbs - Banco do Brasil&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Pessoas com soft skills performan até 70% melhor se comparado a pessoas com QI’s mais altos. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/wankesleandro/&quot; target=&quot;_blank&quot;&gt;Wankes Leandro&lt;/a&gt; / &lt;a href=&quot;https://www.brasiliaschoolofbusiness.com/&quot; target=&quot;_blank&quot;&gt;Brasília School of Business&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Há uma relação direta da Inteligência Emocional e remuneração. Isso vale para pessoas de todas as indústrias, todos níveis e todas regiões do mundo. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/wankesleandro/&quot; target=&quot;_blank&quot;&gt;Wankes Leandro&lt;/a&gt; / &lt;a href=&quot;https://www.brasiliaschoolofbusiness.com/&quot; target=&quot;_blank&quot;&gt;Brasília School of Business&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Evite usar palavras como: tentar, gostaria, é difícil, nunca e não. Procure utilizar: ainda, experimentar e desafiante. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/wankesleandro/&quot; target=&quot;_blank&quot;&gt;Wankes Leandro&lt;/a&gt; / &lt;a href=&quot;https://www.brasiliaschoolofbusiness.com/&quot; target=&quot;_blank&quot;&gt;Brasília School of Business&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Contratamos por habilidades técnicas e demitimos por habilidades comportamentais. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/diegocia/&quot; target=&quot;_blank&quot;&gt;Diego Ciarrocchi&lt;/a&gt; / &lt;a href=&quot;https://www.itausocial.org.br&quot; target=&quot;_blank&quot;&gt;Itaú Social&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;“O medo é o ladrão dos sonhos.” &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/diegocia/&quot; target=&quot;_blank&quot;&gt;Diego Ciarrocchi&lt;/a&gt; / &lt;a href=&quot;https://www.itausocial.org.br&quot; target=&quot;_blank&quot;&gt;Itaú Social&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Ser percebido vai muito além de fazer. &lt;em&gt;(citado por &lt;a href=&quot;https://www.linkedin.com/in/diegocia/&quot; target=&quot;_blank&quot;&gt;Diego Ciarrocchi&lt;/a&gt; / &lt;a href=&quot;https://www.itausocial.org.br&quot; target=&quot;_blank&quot;&gt;Itaú Social&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Obs: os nomes representam quem fez a citação, não necessariamente o autor da mesma.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Pariticipar do &lt;strong&gt;Agile Trends&lt;/strong&gt; foi mais uma vez uma experiência extremamente enriquecedora. Poder absorver tanto conteúdo em tão pouco tempo e ainda compartilhar experiências com outros profissionais apaixonados pelo mundo ágil é, sem dúvidas, uma excelente forma de se tornar um profissional melhor!&lt;/p&gt;
+
+&lt;p&gt;Acompanhe as novas edições do &lt;strong&gt;Agile Trends&lt;/strong&gt; através do site oficial (&lt;a href=&quot;http://www.agiletrendsbr.com/&quot; target=&quot;_blank&quot;&gt;www.agiletrendsbr.com&lt;/a&gt;) e programe-se para participar!&lt;/p&gt;</content><author><name></name></author><summary type="html">Participar de eventos com profissionais inquietos pela busca do aperfeiçoamento profissional e pessoal é com certeza uma das formas mais eficaz em nos expandir horizontes e mais ricas para absorver e compartilhar experiências.</summary></entry><entry><title type="html">Sillicon Valley Conferece 2018: eu fui! Resenha do evento.</title><link href="http://localhost:4000/eventos/silicon-valley-conference-2018" rel="alternate" type="text/html" title="Sillicon Valley Conferece 2018: eu fui! Resenha do evento." /><published>2018-05-20T11:38:00-03:00</published><updated>2018-05-20T11:38:00-03:00</updated><id>http://localhost:4000/eventos/silicon-valley-conference-2018</id><content type="html" xml:base="http://localhost:4000/eventos/silicon-valley-conference-2018">&lt;p&gt;Representando a &lt;a href=&quot;http://www.fundecc.org.br/&quot; target=&quot;_blank&quot;&gt;Fundação de Desenvolvimento Científico e Cultural (FUNDECC)&lt;/a&gt;, da &lt;a href=&quot;http://www.ufla.br/&quot; target=&quot;_blank&quot;&gt;Universidade Federal de Lavras (UFLA)&lt;/a&gt;, participei junto à &lt;a href=&quot;https://www.linkedin.com/in/francinehudson/&quot; target=&quot;_blank&quot;&gt;Francine Hudson&lt;/a&gt; do &lt;a href=&quot;https://lp.startse.com.br/evento/silicon-valley-conference/&quot; target=&quot;_blank&quot;&gt;Sillicon Valley Conferece 2018&lt;/a&gt;, realizado em São Paulo pela &lt;a href=&quot;https://startse.com/&quot; target=&quot;_blank&quot;&gt;StartSe&lt;/a&gt;, uma jovem empresa com a missão de ser o melhor integrador e o maior agente econômico do ecossistema brasileiro de Startups.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/silicon-valley-conference-2018/thiago-nasc-francine-hudson.jpg&quot; alt=&quot;Thiago Nascimento e Francine Hudson de frente a balcão da StartSe utilizado no credenciamento dos participantes&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;o-evento&quot;&gt;O evento&lt;/h2&gt;
+
+&lt;p&gt;O &lt;a href=&quot;https://lp.startse.com.br/evento/silicon-valley-conference/&quot; target=&quot;_blank&quot;&gt;Sillicon Valley Conferece&lt;/a&gt; é o maior evento de inovação e futuro feito no Brasil sobre o Vale do Silício. Uma excelente oportunidade para experienciar de perto este espírito disruptivo e conhecer os segredos que transformam Startups nas empresas mais valiosas do mundo.&lt;/p&gt;
+
+&lt;h2 id=&quot;estrutura&quot;&gt;Estrutura&lt;/h2&gt;
+
+&lt;p&gt;Com organizadores espalhados por todos os cantos, foi extremamente fácil encontrar o caminho das pedras. O credenciamento inclusive merece destaque: extremamente eficiente!&lt;/p&gt;
+
+&lt;p&gt;O local dispensa comentários, com capacidade superior a 2 mil pessoas, o Golden Hall do &lt;a href=&quot;http://www.wtceventscenter.com.br/&quot; target=&quot;_blank&quot;&gt;WTC Events Center&lt;/a&gt; (São Paulo / SP) dispõe de uma estrutura e arquitetura fantástica, além de ficar estrategicamente localizado em um complexo hoteleiro. Com um palco ‘360º’, quatro enormes telões dispostos logo acima e um som de altíssima qualidade, a sensação de imersão foi incrível!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/silicon-valley-conference-2018/wtc-hall-sao-paulo.jpg&quot; alt=&quot;Estrutura de ferro grande com iluminação colorida, vermelha e azul, um enorme telão sobre os convidados e mais de 2.000 participantes em volta&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Os restaurantes do complexo, localizados no Shopping D&amp;amp;D, infelizmente não suportaram a demanda para o almoço e vários participantes optaram (fui um deles) por locais nas proximidades. Infelizmente não tive uma boa experiência já que a maioria dos restaurantes da região fecham aos finais de semana e os abertos, tinham longas filas de espera. O tempo para almoço foi relativamente curto e acabei perdendo parte de uma apresentação.&lt;/p&gt;
+
+&lt;h2 id=&quot;apresentações&quot;&gt;Apresentações&lt;/h2&gt;
+
+&lt;h4 id=&quot;bem-vindos-ao-vale-do-silíciopor-mauricio-benvenutti-da-startse&quot;&gt;&lt;strong&gt;Bem-vindos ao Vale do Silício&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;Por &lt;a href=&quot;http://www.mauriciobenvenutti.com.br/&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Mauricio Benvenutti&lt;/strong&gt;&lt;/a&gt; da &lt;a href=&quot;http://startse.com/&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;StartSe&lt;/strong&gt;&lt;/a&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;p&gt;Sabe quando você percebe paixão pelo que faz? Foi exatamente assim que o Mauricio Benvenutti nos deu boas vindas ao evento e apresentou com maestria como as empresas estão reinventando a forma de usarmos os produtos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/silicon-valley-conference-2018/mauricio-benvenutti-startse.jpg&quot; alt=&quot;Vários participantes sentados olhando para Mauricio Benvenutti no centro do palco, realizando sua apresentação&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;mobilitypor-ryan-bethencourt-ceo-da-wild-earth-e-partner-da-babel-ventures&quot;&gt;&lt;strong&gt;Mobility&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;Por &lt;a href=&quot;https://www.linkedin.com/in/bethencourt/&quot; target=&quot;_blank&quot;&gt;Ryan Bethencourt&lt;/a&gt;, CEO da &lt;a href=&quot;https://www.wildearthpets.com/&quot; target=&quot;_blank&quot;&gt;Wild Earth&lt;/a&gt; e Partner da &lt;a href=&quot;https://www.babel.ventures/&quot; target=&quot;_blank&quot;&gt;Babel Ventures&lt;/a&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;p&gt;Ryan é um empreendedor de respeito, investidor e inclusive tem como um de seus parceiros o incrível (mito) Jeff Bezos. Ele apresentou seu incrível portfolio de investimentos na área de biotecnologia, as chamadas BioTechs, que pretendem revolucionar nossas vidas. Um exemplo é o &lt;a href=&quot;https://www.babel.ventures/cue&quot; target=&quot;_blank&quot;&gt;Cue&lt;/a&gt;, um dispositivo criado para monitorar informações sobre nossa saúde a nível molecular. Atualmente o dispositivo já possibilita, em alguns minutos, monitorar níveis de 5 indicadores: inflamação, vitamina D, fertilidade, gripe e testosterona.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/silicon-valley-conference-2018/ryan-bethencourt-wild-earth.jpg&quot; alt=&quot;Ryan Bethencourt ao centro do palco, de terno claro, explicando sobre a startup Memphis Meat&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;inteligência-artificial-aipor-paul-bommarito-vp-da-nvidia&quot;&gt;&lt;strong&gt;Inteligência Artificial (AI)&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;Por &lt;a href=&quot;https://www.linkedin.com/in/paulbommarito/&quot; target=&quot;_blank&quot;&gt;Paul Bommarito&lt;/a&gt;, VP da &lt;a href=&quot;http://www.nvidia.com.br/&quot; target=&quot;_blank&quot;&gt;NVIDIA&lt;/a&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;p&gt;O vice-presidente da NVIDIA apresentou a Inteligência Artificial como a próxima era da computação. A empresa, líder na área, trabalha na evolução de plataformas de inteligência artifical e processadores gráficos, tornando-os cada vez mais eficientes, portáteis e acessíveis.&lt;/p&gt;
+
+&lt;p&gt;Atualmente há processadores capazes de avaliarem mais de 7.000 imagens por segundo. Toda essa tecnologia está por trás de grandes de grandes inovações, tais quais os carros autônomos e vários projetos com Deep Learning, utilizados pelas gigantes Alibaba, Amazon, Google, IBM e Microsoft.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/silicon-valley-conference-2018/paul-bommarito-nvidia.jpg&quot; alt=&quot;Paul Bommarito abaixo do telão com slide falando sobre o cérebro dos carros autônomos&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;what-is-innovation-for-silicon-valleypor-cristiano-kruel-head-de-inovação-da-startse&quot;&gt;&lt;strong&gt;What is innovation for Silicon Valley&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;Por &lt;a href=&quot;https://www.linkedin.com/in/cristianokruel/&quot; target=&quot;_blank&quot;&gt;Cristiano Kruel&lt;/a&gt;, head de inovação da &lt;a href=&quot;http://startse.com/&quot; target=&quot;_blank&quot;&gt;StartSe&lt;/a&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;p&gt;O simpático Kruel nos mostrou que inovar é preciso e cada vez mais rápido! Vivemos gerações e eras cada vez mais curtas onde o que era futuro, num piscar de olhos vira passado e o Vale do Silício é um dos grandes, se não o principal, agente de mudança neste cenário.&lt;/p&gt;
+
+&lt;p&gt;Resumido em 5 pontos, nos imergimos no Vale do Silício:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Diversidade Cultural: tenha times globais para se ter um produto com abrangência global.&lt;/li&gt;
+  &lt;li&gt;Ciência de Gestão: há novas formas de pensar e trabalhar representado pelas StartUps, é um novo mindset, aliando know-how, rebeldia e capital, criando produtos inovadores e uma nova (e mais forte) economia.&lt;/li&gt;
+  &lt;li&gt;Modelos de negócios disruptivos: pense diferente, de forma inovadora e com um objetivo comum: evoluir e mundar o mundo.&lt;/li&gt;
+  &lt;li&gt;Tecnologias mágicas: aposte nas possibilidades do impossível, isto é mágico! O futuro tem se mostrado com Inteligência Artificial, Machine Learning, Deep Learning. Aposte nessas tecnologias como a nova eletricidade!&lt;/li&gt;
+  &lt;li&gt;Educação a vida toda: “educação muda pessoas e pessoas mudam o mundo. Nunca pare de estudar e reinventar!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/silicon-valley-conference-2018/cristiano-kruel-startse.jpg&quot; alt=&quot;Cristiano Kruel no centro do palco apresentando um slide sobre mindset e toolset&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;alumni-startse-e-equipe-startsepor-alessandra-morelle-médica-oncologista-no-hopsital-moinhos-de-vento-e-rodrigo-vieira-partner-da-tozzini-freire&quot;&gt;&lt;strong&gt;Alumni StartSe e Equipe StartSe&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;Por &lt;a href=&quot;https://www.linkedin.com/in/alessandra-morelle-932a0616/&quot; target=&quot;_blank&quot;&gt;Alessandra Morelle&lt;/a&gt;, médica oncologista no &lt;a href=&quot;http://www.hospitalmoinhos.org.br/&quot; target=&quot;_blank&quot;&gt;Hopsital Moinhos de Vento&lt;/a&gt; e &lt;a href=&quot;https://www.linkedin.com/in/rvieira2606/&quot; target=&quot;_blank&quot;&gt;Rodrigo Vieira&lt;/a&gt;, partner da &lt;a href=&quot;http://tozzinifreire.com.br/&quot; target=&quot;_blank&quot;&gt;Tozzini Freire&lt;/a&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;p&gt;Relato de dois brilhantes profissionais que vivenciaram o Vale do Silício de perto e uma frase, dita pelo Rodrigo, resume muito bem: “Se não quer ver estrelas, não olhe para o céu.” Ele descreveu o Vale do Silício como um ecosistema absolutamente receptivo a inovações onde todos os ambientes são estrategicamente criados de forma a incentivar e cultivar novas ideias. Onde a transformação é real! Não basta parecer, tem que ser.&lt;/p&gt;
+
+&lt;p&gt;Após a imersão, Rodrigo trouxe um novo propósito para a até então, tradicional empresa de advogados, transformando todo o ecossistema numa organização mais aberta, com linguagem mais simples e direta, mais atônoma e colaborativa. Os ganhos, segundo os relatos, são imensos, uma verdadeira inovação no processo de colaboração, compartilhamento de informação e aproveitamento máximo do potencial riquíssimo da relação inter-geracional.&lt;/p&gt;
+
+&lt;p&gt;Alessandra, médica oncologista, disse que tinha uma inquietação muito grande por acomparanhar os pacientes de uma forma mais ativa no dia a dia. Sempre que comentava sobre esta necessidade era orientada a manter o tradicional modelo de atendimento. Após experienciar o Vale do Silício, por somente uma única semana, mudou sua forma de pensar. Não guardou mais as ideias para si, pelo contrário, resolveu compartilhar e quanto mais se compartilha, mais insights e mais oportunidades. Criou então o aplicativo &lt;a href=&quot;http://tummi.org/&quot; target=&quot;_blank&quot;&gt;Tummi&lt;/a&gt; (nome do Deus Inca da medicina) e vem se reinventando a forma de lidar com seus pacientes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/silicon-valley-conference-2018/alessandra-morelle-tummi.jpg&quot; alt=&quot;Alessandra Morelle de pé explicando sobre seu aplicativo Tummi, enquanto o mesmo é exibido no telão&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;creativitypor-sally-dominguez-pesquisadora-da-stanford-university-e-fundadora-adventures-thinking&quot;&gt;&lt;strong&gt;Creativity&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;Por &lt;a href=&quot;https://www.linkedin.com/in/sallydominguez/&quot; target=&quot;_blank&quot;&gt;Sally Dominguez&lt;/a&gt;, pesquisadora da &lt;a href=&quot;https://www.stanford.edu/&quot; target=&quot;_blank&quot;&gt;Stanford University&lt;/a&gt; e fundadora &lt;a href=&quot;http://www.adventurousthinking.com/&quot; target=&quot;_blank&quot;&gt;Adventures Thinking&lt;/a&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;p&gt;Falando sobre inovação e criatividade, Sally trouxe pensamentos e frases de impacto. Ela é a criadora do &lt;a href=&quot;http://www.adventurousthinking.com/&quot; target=&quot;_blank&quot;&gt;Adventurous Thinking&lt;/a&gt;, uma espécie de processo criativo que promove a inovação, tornando sistemas, produtos e estratégias mais robustas e sustentáveis.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Nós não podemos resolver problemas com o mesmo tipo de pensamento que utilizamos para os criar” Albert Einsten.&lt;/li&gt;
+  &lt;li&gt;A inovação faz conexões inesperadas.&lt;/li&gt;
+  &lt;li&gt;Curiosidade = inovação. Cresça ativando seu potencial de inovação.&lt;/li&gt;
+  &lt;li&gt;“Imaginação é mais importante que conhecimento. O conhecimento é limitado. A imaginação circunda o mundo.” Albert Einstein.&lt;/li&gt;
+  &lt;li&gt;A normalidade é uma ilusão. O que é normal para uma aranha pode ser o caos para uma mosca. Se você enxergar sua vida sob outras perspectivas, terá novas compreensões e possivelmente, uma série de novas soluções.&lt;/li&gt;
+  &lt;li&gt;A criatividade vem antes da necessidade de investimento. Em outras linhas, leio como: tente, faça protótipos, arrisque, aposte! Afinal, “Não há nada aparente em uma lagarta que diga que ela se transformará em uma borboleta” Buckminster Fuller.&lt;/li&gt;
+  &lt;li&gt;É fora da sua zona de conforto que a mágica acontece!&lt;/li&gt;
+  &lt;li&gt;“Cair não é um fracasso. O fracasso vem quando você fica onde você caiu” Socrates.&lt;/li&gt;
+  &lt;li&gt;“Não seja limitado pela sua realidade atual”. Leonardo da Vinci.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mãos à obra?&lt;/p&gt;
+
+&lt;h4 id=&quot;sharing-economypor-diogo-ruiz-ceo-e-fundador-da-bluezup&quot;&gt;&lt;strong&gt;Sharing Economy&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;Por &lt;a href=&quot;https://www.linkedin.com/in/diogoruiz/&quot; target=&quot;_blank&quot;&gt;Diogo Ruiz&lt;/a&gt;, CEO e fundador da &lt;a href=&quot;https://www.bluezup.com.br/&quot; target=&quot;_blank&quot;&gt;Bluezup&lt;/a&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;p&gt;Apresentado como um prodígio da publicidade, afinal, a produtora qual co-fundou ganhou nada mais que 16 lions, incluindo o Titanium, que premia as ideias mais inovadoras e audaciosas da comunicação, Diogo entrou em cena e de forma irreverente contou como sua StartUp, a Bluezup, surgiu. Durante uma viagem a Santiago, resolveu esquiar mas aproveitando as roupas que tinha, só faltou a bota. Como um item tão caro, seja para comprar ou alugar, não deveria ser mais acessível? Dizem que a ocasião faz o ladrão, neste caso, o empreendedor.&lt;/p&gt;
+
+&lt;p&gt;A história cativa e reforça:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Seja inquieto: a cada dia se desafie a ter ideias melhores do que as que você teve ontem;&lt;/li&gt;
+  &lt;li&gt;Seja diferente: use a sua criatividade para melhorar o que não está legal e para fazer acontecer o que parecia impossível.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Através da Bluezup você pode alugar um produto e testá-lo por três dias, sem compromisso. Se gostar, o valor do aluguel vira desconto na compra.&lt;/p&gt;
+
+&lt;h4 id=&quot;sofá-do-valepor-nathália-médici-gerente-de-negócios-na-startse-e-plinio-targa-ceo-da-braincare&quot;&gt;&lt;strong&gt;Sofá do Vale&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;Por &lt;a href=&quot;https://www.linkedin.com/in/nathalialacretamedici/&quot; target=&quot;_blank&quot;&gt;Nathália Médici&lt;/a&gt;, Gerente de Negócios na &lt;a href=&quot;http://startse.com/&quot; target=&quot;_blank&quot;&gt;StartSe&lt;/a&gt; e &lt;a href=&quot;https://www.linkedin.com/in/pliniotarga/&quot; target=&quot;_blank&quot;&gt;Plinio Targa&lt;/a&gt;, CEO da &lt;a href=&quot;http://www.braincare.com.br/&quot; target=&quot;_blank&quot;&gt;Braincare&lt;/a&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;p&gt;Como uma conversa descontraída de sofá, conduzido pela Nathália, conhecemos a inspiradora história de Plinio Targa, que largou uma carreira sólida de executivo para se aventurar no mundo do Vale do Silício, com a inovadora Braincare e seu novo método para monitorar a pressão intra-craniana.&lt;/p&gt;
+
+&lt;p&gt;Plinio nos contou que para o monitoramento, atualmente é necessário fazer um furo na cabeça do paciente e inserir um sensor que capta a informação. Através do avanço tecnológico, a Braincare criou um novo método onde o sensor é apenas encostado na cabeça do paciente, simples como colocar uma fita ou tiara, e a informação é gerada, podendo ser visualizada inclusive em um telefone celular.&lt;/p&gt;
+
+&lt;p&gt;Simplesmente fantástico!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/silicon-valley-conference-2018/plinio-targa-braincare.jpg&quot; alt=&quot;Plínio Targa de pé com a cinta na cabeça, exibindo o resultado da medição em tempo real através de seu celular&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;o-futuro-do-trabalhopor-felipe-lamounier-partner-da-startse&quot;&gt;&lt;strong&gt;O Futuro do Trabalho&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;Por &lt;a href=&quot;https://www.linkedin.com/in/lamounier/&quot; target=&quot;_blank&quot;&gt;Felipe Lamounier&lt;/a&gt;, partner da &lt;a href=&quot;http://startse.com/&quot; target=&quot;_blank&quot;&gt;StartSe&lt;/a&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;p&gt;Há uma canção do Titãs em que diz: “O futuro é hoje, cabe na mão”. Ilustra muito bem a apresentação de Felipe, repleta de dados e informações fantásticas que mostram o impacto do advento tecnológico no futuro dos empregos, destacando a Inteligência Artificial.&lt;/p&gt;
+
+&lt;p&gt;Slide a slide, fomos apresentados aos novos profissionais, máquinas automatizadas que fazem os trabalhos de operários fabris, construtores, arquivistas, estivadores, policiais, seguranças, entregadores, motoristas, trabalhadores agrícolas, advogados, cozinheiros e até músicos.&lt;/p&gt;
+
+&lt;p&gt;Probabilidade dos robôs roubarem o seu trabalho nos prórimos 20 anos:&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/assets/imgs/silicon-valley-conference-2018/keynote-probabilidade-robos.jpg&quot; alt=&quot;Slide mostrando a probabilidade dos robôs roubarem o seu trabalho nos próximos 20 anos&quot; /&gt;&lt;figcaption&gt;Crédito: slide retirado da apresentação (Felipe Lamounier / O fuguro do trabalho)&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Claro que é estranho saber que nós mesmos estamos criamos máquinas que nos substituirão. E aí nos perguntamos: estamos loucos? Entram-se então pontos que as máquinas possivelmente não serão capazes de nos substituir: fazer com amor, ter empatia, ser criativo e ter pensamento crítico.&lt;/p&gt;
+
+&lt;p&gt;É importante pensarmos fora da caixa, ter a mente aberta e saber que essas máquinas, em sua maioria, apenas substituirão atividades que são possíveis de serem substituídas. Dessa forma, precisaremos cada vez mais nos reinventarmos e com isso, teremos novas atividades, novos empregos.&lt;/p&gt;
+
+&lt;p&gt;O Fórum Econômico Mundial estima que 33% dos empregos de 2020 não existem ainda.&lt;/p&gt;
+
+&lt;p&gt;“Inovação é a habilidade de ver a mudança como uma oportunidade, não como uma ameaça.” Steve Jobs&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/silicon-valley-conference-2018/felipe-lamounier-startse.jpg&quot; alt=&quot;Felipe Lamounier no centro do palco apresentando o slide que mostra a probabilidade dos robôs roubarem nosso trabalho nos próximos 20 anos&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;the-future-of-mobilitypor-steven-choi-líder-de-carros-autônomos-no-uber&quot;&gt;&lt;strong&gt;The future of mobility&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;Por &lt;a href=&quot;https://www.linkedin.com/in/choiss/&quot; target=&quot;_blank&quot;&gt;Steven Choi&lt;/a&gt;, líder de carros autônomos no &lt;a href=&quot;https://www.uber.com/&quot; target=&quot;_blank&quot;&gt;Uber&lt;/a&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;p&gt;Chamado ao palco como um dos maiores, para não dizer o maior, conhecedor da área de veículos autônomos, o japa Steven Choi (ex-Google) subiu ao palco para nos mostrar que o futuro dos automóveis autônomos já é realidade!&lt;/p&gt;
+
+&lt;p&gt;Steven mostrou detalhes da tecnologia e a inteligência envolvida nos carros autônomos do Uber que permitem percepções além de nossas possibilidades enquanto humanos. Um exemplo mostrado foi através de sensores, saber se há carros se aproximando na próxima via, o que não seria possível ser percebido a olho nu. Outra tecnologia, a “visualização ML” permite uma percepção periférica 10x maior que a dos humanos.&lt;/p&gt;
+
+&lt;p&gt;Toda a tencologia é testada nos mínimos detalhes e de forma exaustiva para não haver possibilidades de erros.&lt;/p&gt;
+
+&lt;p&gt;Um momento marcante foi após Steven ressaltar que cada vez mais será comum vermos inovações e tecnologias disruptivas mudando nossa forma de interagir com o mundo e nos provou ao pedir para a platéia levantar a mão quem foi ao evento de ônibus, logo depois, de metrô ou trem, dirigindo o próprio veículo e ao fim, quem foi através de Uber e, neste momento, uma maioria esmagadora levantou a mão, comprovando o que foi dito.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/silicon-valley-conference-2018/steven-choi-uber.jpg&quot; alt=&quot;Steven Choi no centro do palco apresentando slide sobre os carros autônomos do Uber&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;longevitypor-carolina-oliveira-fundadora-e-ceo-da-oneskin&quot;&gt;&lt;strong&gt;Longevity&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;Por &lt;a href=&quot;https://www.linkedin.com/in/carolina-reis-oliveira-a69b8a27/&quot; target=&quot;_blank&quot;&gt;Carolina Oliveira&lt;/a&gt;, fundadora e CEO da &lt;a href=&quot;https://www.oneskintechnologies.com/&quot; target=&quot;_blank&quot;&gt;OneSkin&lt;/a&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;p&gt;Da academia para o mercado, de Minas para o Vale do Silício e além, a PhD Carolina Oliveira trabalha na revoução da longevidade através de diversos estudos e sua real aplicação, surgindo a OneSkin.&lt;/p&gt;
+
+&lt;p&gt;Inicialmente o objetivo era reconstruir a pele humana em laboratório de forma substituir os testes em animais e oferecer resultados mais robustos à indústria. Ao vivenciar o Vale do Silício, foi possível entender que a demanda do mercado ia além. Todo o modelo de negócio foi repaginado de forma a se tornar a primeira empresa capaz de quantificar os efeitos rejuvenescedores da pele, utilizando o sequenciamento de DNA. Isto os coloca como a primeira empresa capaz de medir a real eficácia de produtos rejuvenescedores, um mercado poderoso e promisssor. Toda esta tecnologia possibilitou também a expansão para o próprio desenvolvimento de cosméticos rejuvenescedores, originando a OneSking Health.&lt;/p&gt;
+
+&lt;p&gt;É incrível entender como o advento da tecnologia nos possibilitará envelhecer melhor e tão gratificante saber do envolvimento de brasileiros nestes pioneiros projetos.&lt;/p&gt;
+
+&lt;h4 id=&quot;moonshotpor-fábio-teixeira-co-fundador-da-hypercubes&quot;&gt;&lt;strong&gt;Moonshot&lt;/strong&gt;&lt;br /&gt;&lt;small&gt;Por &lt;a href=&quot;https://www.linkedin.com/in/f%C3%A1bio-teixeira-b3923b22/&quot; target=&quot;_blank&quot;&gt;Fábio Teixeira&lt;/a&gt;, co-fundador da &lt;a href=&quot;http://www.hypercubes.global/&quot; target=&quot;_blank&quot;&gt;Hypercubes&lt;/a&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;p&gt;Fechando o evento com uma apresentação brilhante, Fábio nos mostrou que por trás de grandes sucessos no Vale do Silício, há também muito suor derramado. Uma história fantástica de abdicação e superação.&lt;/p&gt;
+
+&lt;p&gt;Fábio lutou muito por uma bolsa na &lt;a href=&quot;https://su.org/&quot; target=&quot;_blank&quot;&gt;Singularity University&lt;/a&gt;, sediada no campus de pesquisas da NASA, na Califórnia, tendo de abrir mão do convívio diário de seu filho, pedalando cerca de 50km/dia para economizar no traslado e ainda morar de forma improvisada na sala de um amigo que lhe cedeu o espaço. Resumiu com uma frase fantástica: “todo mundo quer ir para o céu, mas ninguém deseja morrer” (Everybody wants to go to heaven, but nobody wants to die).&lt;/p&gt;
+
+&lt;p&gt;Toda essa dedicação é para a realização de um grande sonho, projetar ao espaço, literalmente, a HyperCubes, empresa qual fundou, desenvolvedora de satélites assistidos por inteligência artificial capazes de detectar a composição molecular de objetos na Terra, observados do espaço. Uma tecnologia capaz de mudar vários setores da economia, incluindo a produção de alimentos. Segundo o fundador, a tecnologia possibilitará diversos tipos de monitoramento, tendo forte aplicaçao na agricultura de precisão, medindo por exemplo, o nível de fertilidade do solo, doenças, espécies invasivas, necessidades de nutrientes e muitos outros fatores capaz de aumentar significativamente a produção de alimentos com menor impacto ambiental.&lt;/p&gt;
+
+&lt;p&gt;Para fechar com chave de ouro, a máxima: “só podemos melhorar aquilo que podemos medir” (We can only improve what we can measure).&lt;/p&gt;
+
+&lt;h2 id=&quot;alguns-vídeos-de-inovação-apresentados&quot;&gt;Alguns vídeos de inovação apresentados&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Blue River - Tecnologia de precisão no uso de fertilizantes e insumos agrícolas&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/-YCa8RntsRE?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Lime Bike - Compartilhamento de bicicletas georeferenciadas&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/NGVl0czHuOY?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;DRU Drone by Flirtey - Primeiro delivery de pizzas utilizando-se de drones&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/NEW4aXuAEy0?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Starship - O primeiro robô delivery de comidas&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/DW16O6UWtSc?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Moley Robotics - O robô chefe de cozinha&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/KdwfoBbEbBE?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Waymo - Carros autônomos&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/aaOB-ErYq6Y?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Embark - Caminhões autônomos&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/dIbf17-KRDM?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusão-e-insights&quot;&gt;Conclusão e insights&lt;/h2&gt;
+
+&lt;p&gt;Foi fantástico acompanhar brilhantes profissionais contando experiências de onde nascem muitas ideias do amanhã, o Vale do Silício. Me fez realmente pensar fora da caixa e abrir ainda mais os olhos para a inovação.&lt;/p&gt;
+
+&lt;p&gt;Alguns insights marcantes quais não podemos fechar os olhos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;É impressionante como empresas recém criadas valem muito mais que empresas com mais de 50 anos de atuação, esse cenário tem sido cada vez mais comum e a tendência é aumentar.&lt;/li&gt;
+  &lt;li&gt;Esteja atento a estes 3 alicerces mágicos das grandes empresas que tem tomado o mercado com tecnolgias disruptivas: capital, conhecimento e rebeldia.&lt;/li&gt;
+  &lt;li&gt;Entenda a diferença entre “conformidade” e “originalidade”. Vivemos uma espécie de nova geração e precisamos nos reinventar!&lt;/li&gt;
+  &lt;li&gt;Não devemos temer a evolução da tecnologia e sua ‘desempregabilidade’. Na realidade é tudo uma questão de perspectiva, a tecnologia substituirá vários de nossos empregos, porém, essa evolução permitirá a geração de vários outros.&lt;/li&gt;
+  &lt;li&gt;Tecnologias poderosas, que só governos, corporações e bilionários tinham aceso, hoje estão disponíveis a qualquer um. Aproveite!&lt;/li&gt;
+  &lt;li&gt;Hoje você promove um negócio no mundo com os mesmos recursos usados há 10 anos para promovê-lo em sua cidade.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cada vez mais rápido as empresas tem nascido e crescido.&lt;br /&gt;
+Cada vez mais rápido as empresas deixam de estar no cenário.&lt;br /&gt;
+Cada vez mais rápido as pessoas absorvem tecnologias e inovações.&lt;br /&gt;
+Cada vez mais rápido está o custo da transmissão de dados, da computação…etc&lt;br /&gt;
+Quem não se reinventar, morrerá no tempo.&lt;/p&gt;
+
+&lt;p&gt;E você, o que está fazendo para reinventar-se?&lt;/p&gt;</content><author><name></name></author><summary type="html">Representando a Fundação de Desenvolvimento Científico e Cultural (FUNDECC), da Universidade Federal de Lavras (UFLA), participei junto à Francine Hudson do Sillicon Valley Conferece 2018, realizado em São Paulo pela StartSe, uma jovem empresa com a missão de ser o melhor integrador e o maior agente econômico do ecossistema brasileiro de Startups.</summary></entry><entry><title type="html">Usabilidade em interfaces CRUD: o guia completo</title><link href="http://localhost:4000/usabilidade/usabilidade-interfaces-crud" rel="alternate" type="text/html" title="Usabilidade em interfaces CRUD: o guia completo" /><published>2018-04-01T14:00:00-03:00</published><updated>2018-04-01T14:00:00-03:00</updated><id>http://localhost:4000/usabilidade/usabilidade-interfaces-crud</id><content type="html" xml:base="http://localhost:4000/usabilidade/usabilidade-interfaces-crud">&lt;p&gt;Quem trabalha com desenvolvimento de sistemas está acostumado a lidar com &lt;strong&gt;CRUD&lt;/strong&gt;! E por mais que esse acrônimo seja uma constante em nossas vidas, é comum vermos interfaces mal desenvolvidas por aí, comprometendo a experiência do usuário (UX) e consequentemente, o sucesso dos projetos.&lt;/p&gt;
+
+&lt;h2 id=&quot;o-que-é-crud&quot;&gt;O que é CRUD?&lt;/h2&gt;
+
+&lt;p&gt;Para quem não está familiarizado com o termo, segue sua definição:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;CRUD (acrônimo de Create, Read, Update e Delete na língua Inglesa) para as quatro operações básicas utilizadas em bases de dados relacionais (RDBMS) ou em interface para utilizadores para criação, consulta, atualização e destruição de dados.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/CRUD&quot;&gt;Wikipédia&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Em linhas simples, as interfaces &lt;strong&gt;CRUD&lt;/strong&gt; que lhe permitem cadastrar (create), visualizar (read), editar (update) e excluir (delete) registros de um sistema. Simples, não?&lt;/p&gt;
+
+&lt;p&gt;Seguem algumas dicas preciosas para o sucesso de sua interface:&lt;/p&gt;
+
+&lt;h2 id=&quot;cadastrar-create&quot;&gt;Cadastrar &lt;em&gt;(Create)&lt;/em&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-fácil-acesso&quot;&gt;1. Fácil acesso&lt;/h3&gt;
+
+&lt;p&gt;Podemos considerar a funcionalidade ‘Cadastrar’ como a mais importante em uma interface CRUD, afinal, sem ela as demais não teriam utilidade.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Botão de acesso à funcionalidade:&lt;/strong&gt; deve estar facilmente visível e acessível, sem a necessidade de usar a barra de rolagem.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/usabilidade-interfaces-crud/crud-1.jpg&quot; alt=&quot;Exemplo de interface não recomendada, com a necessidade de rolar a página para acessar o botão cadastrar e exemplo de interface recomendada, onde o botão fica disponível sem rolar a página&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Interfaces/telas longas:&lt;/strong&gt; aproveite-se de recursos como (1) disponibilizar um botão no início e outro ao final da página, (2) utilizar botão fixo ao rolar a página e/ou (3) utilizar atalho ‘voltar ao topo’ para facilitar o uso;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-página-ou-modal-qual-utilizar&quot;&gt;2. Página ou modal: qual utilizar?&lt;/h3&gt;
+
+&lt;p&gt;Entende-se como &lt;strong&gt;página&lt;/strong&gt; quando a interface por inteira é alterada e &lt;strong&gt;modal&lt;/strong&gt; quando uma janela sobrepõe a página já aberta, na maioria das vezes preenchendo parcialmente a tela do usuário.&lt;/p&gt;
+
+&lt;p&gt;Formulários complexos e com muitos campos demandam uma alta concentração do usuário, isto implica que sua atenção não deva ser desviada e a utilização de páginas se mostram mais eficazes.&lt;/p&gt;
+
+&lt;p&gt;Formulários simples e com poucos campos demandam menos concentração e tem seu uso de forma rápida, tornando a utilização de janelas (modal) mais recomenda, visto sua melhor fluidez e intuitividade.&lt;/p&gt;
+
+&lt;p&gt;Importante salientar que não existe uma regra ou fórmula que defina a melhor utilização. Aproveite-se de recursos como a prototipação, testes e feedbacks dos usuários a fim de entender e aplicar a melhor estratégia ao seu cenário!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Formulários grandes e complexos:&lt;/strong&gt; prefira a utilização de páginas;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Formulários curtos e simples:&lt;/strong&gt; prefira a utilização de modal.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/usabilidade-interfaces-crud/crud-2.jpg&quot; alt=&quot;Exemplo de interface não recomendada onde o formulário simples ocupa somente parte da página e exemplo de interface recomendada, utilizando uma modal&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-formulários-grandes-eou-muito-complexos&quot;&gt;3. Formulários grandes e/ou muito complexos&lt;/h3&gt;
+
+&lt;p&gt;Para formulários grandes ou muito complexos a utilização de técnicas que facilitem a experiência do usuário é fundamental para o sucesso do projeto. Afinal, perder os dados depois de preencher um a um com toda a atenção é de rancar os cabelos. Quem nunca?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Divida o formulário em etapas:&lt;/strong&gt; categorize e distribua os campos de forma lógica e compreensível;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Torne claro seu posicionamento e progressão:&lt;/strong&gt; o usuário deve entender onde está e onde precisa chegar para finalizar o processo;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/usabilidade-interfaces-crud/crud-3.jpg&quot; alt=&quot;Exemplo de interface não recomendada, com formulário longo em única página e exemplo de interface recomendada, com várias etapas contendo formulários menores e indicação da progressão através de um indicador de etapas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Permita o usuário salvar sua progressão:&lt;/strong&gt; funcionalidades de ‘rascunho’ permitem o usuário salvar sua progressão e finalizá-la mais tarde, item imprescindível a formulários que demandam muito tempo do usuário (isto pode salvá-lo de diversas situações, inclusive perda de informação por falta de internet);&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Garanta o bom funcionamento das teclas de atalho:&lt;/strong&gt; atendendo a heurística flexibilidade e eficiência de uso, devemos prover atalhos - despercebidos a usuários novatos - que podem acelerar e facilitar a interação aos usuários especialistas, de modo que o sistema atenda bem a ambos. Garanta a aplicação dos seguintes recursos:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ordenação dos campos através do atributo &lt;code&gt;tabindex&lt;/code&gt; (HTML);&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;Tab&lt;/code&gt; redireciona ao próximo campo;&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;Shift + Tab&lt;/code&gt; retorna ao campo anterior;&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;Enter&lt;/code&gt; no botão de submissão executa a ação.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;4-permita-cancelar-a-ação-a-qualquer-momento&quot;&gt;4. Permita cancelar a ação a qualquer momento&lt;/h3&gt;
+
+&lt;p&gt;Atendendo a heurística ‘liberdade e controle do usuário’, devemos permitir o cancelamento do cadastro com a mesma - ou quase - facilidade de entrada, muitas vezes o usuário entra em determinada ação por engano ou simplesmente desiste no meio do processo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Confirmação de cancelamento:&lt;/strong&gt; disponha da funcionalidade para evitar cancelamentos indevidos. Sugestão de mensagem: “Você tem certeza que deseja cancelar o cadastro?”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/usabilidade-interfaces-crud/crud-4.jpg&quot; alt=&quot;Exemplo de interface recomendada com funcionalidade de confirmação de cancelamento de cadastro&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;visualizar-read&quot;&gt;Visualizar &lt;em&gt;(Read)&lt;/em&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-listagem-de-registros&quot;&gt;1. Listagem de registros&lt;/h3&gt;
+
+&lt;p&gt;A mais tradicional ‘página de entrada’ de um CRUD é sua listagem de registros.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Título da página:&lt;/strong&gt; deve estar visível sem a necessidade de usar a barra de rolagem. Utilize títulos simples e sem redundância. Exemplo: “Listagem de membros” ao invés de “Listagem de membros cadastrados no sistema”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;O vazio nunca deve estar vazio:&lt;/strong&gt; caso não haja dado cadastrado, exiba uma mensagem informativa no grid como: “Não há registros a serem exibidos”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/usabilidade-interfaces-crud/crud-5.jpg&quot; alt=&quot;Exemplo de interface não recomendada, onde a página não exibe nenhuma informação após o botão de cadastro e interface recomendada, onde após o botão, há a informação de que não há registros a serem exibidos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Limite-se aos dados mais importantes no grid:&lt;/strong&gt; disponha somente os dados relevantes ao usuário e que melhor identifiquem os registros, os demais devem estar disponíveis na visualização dos detalhes. Uma interessante tática é dispor inicialmente o mínimo de dados possível e à medida do uso, verificar a necessidade de mais dados;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sintetize os dados presentes no grid:&lt;/strong&gt; aproveite-se de ícones, cores, abreviações e outros recursos para dispor informações relevantes;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aproveite-se da resolução:&lt;/strong&gt; telas maiores permitem a exibição de mais dados. Permita-se utilizar dados que aparecem somente em telas maiores e esconda-os em telas menores (interfaces responsivas).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/usabilidade-interfaces-crud/crud-6.jpg&quot; alt=&quot;Exemplo de interface não recomendada, sem fim e com diversos registros na tela, ao lado do exemplo de interface recomendada, com poucos registros no grid e logo abaixo a paginação.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ordene os dados:&lt;/strong&gt; verifique a melhor aplicabilidade ao tipo de registro e disponibilize-o inicialmente já ordenado, ainda que possa variar dependendo do tipo de dado, podendo ser:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Alfabética:&lt;/strong&gt; nomes;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Numérica:&lt;/strong&gt; ids e códigos&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cronológica:&lt;/strong&gt; data de cadastro e edição.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Divida os registros em páginas:&lt;/strong&gt; utilizar recursos de paginação evita páginas extensas, de difícil carregamento e organização. Garanta a aplicação dos seguintes recursos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Destacar a página qual o usuário encontra-se;&lt;/li&gt;
+  &lt;li&gt;Mostrar o quantitativo total de páginas;&lt;/li&gt;
+  &lt;li&gt;Facilite o acesso à primeira e última página;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/usabilidade-interfaces-crud/crud-7.jpg&quot; alt=&quot;Exemplo de 3 interfaces, a primeira de um tablet, onde o grid exibe 3 colunas, a segunda de um browser de resolução superior ao tablet, exibindo 1 coluna a mais e por fim, um browser com resolução superior à anterior, exibindo 3 colunas a mais que o tablet&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quantitativo total de registros:&lt;/strong&gt; dado de extremo valor, simples de ser coletado e muitas vezes esquecido de ser disponibilizado ao usuário. Disponha a informação ao final da listagem. Exemplo: Total de 105 registros. O termo ‘registro’ é genérico o suficiente para ser utilizado na maioria dos casos.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-ferramentas-de-filtro-e-pesquisa&quot;&gt;2. Ferramentas de filtro e pesquisa&lt;/h3&gt;
+
+&lt;p&gt;Filtrar e pesquisar, ainda que similares, tem comportamentos diferentes e é importante termos este conhecimento:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Filtro:&lt;/strong&gt; considera-se no estado inicial todos os registros presentes no sistema e os removem de acordo com os critérios selecionados.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pesquisa:&lt;/strong&gt; considera-se no estado inicial vazio (nenhum registro) e exibe os registros de acordo com os critérios selecionados.&lt;/p&gt;
+
+&lt;h2 id=&quot;editar-update&quot;&gt;Editar &lt;em&gt;(Update)&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;As boas práticas de cadastro devem ser reaproveitadas na edição, portanto, a página pode ser reutilizada, com a diferença que os dados virão inicialmente já preenchidos, permitindo sua edição.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Campos não-editáveis devem vir bloqueados:&lt;/strong&gt; mantenha-os visíveis porém não editáveis (bloquados). Quando necessário, explique ao usuário o motivo da impossibilidade de alteração.&lt;/p&gt;
+
+&lt;h2 id=&quot;excluir-delete&quot;&gt;Excluir &lt;em&gt;(Delete)&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;Conforme visto no artigo &lt;a href=&quot;http://thiagonasc.com/usabilidade/usabilidade-excluir-deletar-apagar-remover-ou-cancelar&quot;&gt;Usabilidade: Usabilidade: excluir, deletar, apagar, remover ou cancelar?&lt;/a&gt;, podemos dar o nome a esta ação de várias maneiras. Aplique o que considerar mais adequado e lembre-se de seguir o padrão para todas as páginas!&lt;/p&gt;
+
+&lt;p&gt;Prefiro e recomendo sempre utilizar o termo: &lt;strong&gt;excluir&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mensagem de alerta e ação de confirmação:&lt;/strong&gt; visto a exclusão ser geralmente irreversível, é fundamental que o usuário seja alertado e possua uma ação para confirmação. Exemplo: Tem certeza que deseja exluir o registro definitivamente?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/usabilidade-interfaces-crud/crud-8.jpg&quot; alt=&quot;Exemplo de interface recomendada com funcionalidade de confirmação de exclusão de registro&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mensagens de feedback:&lt;/strong&gt; é fundamental informar o usuário após a conclusão da ação. Aproveite-se, quando necessário, da mensagem de feedback para possibilitar ao usuário desfazer a ação, ainda que o sistema tenha informado ser um processo irreversível. Esse recurso ‘extra’ pode ser extramente útil a vários casos!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/usabilidade-interfaces-crud/crud-9.jpg&quot; alt=&quot;Exemplo de interface recomendada com feedback após a exclusão, informando o usuário que o procedimento foi realizado e uma funcionalidade extra, possibilitando o usuário desfazer o processo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Este artigo é atualizado frequentemente para inserção de novas dicas.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;E você, quais outras boas práticas de usabilidade aplica em sistemas CRUD’s?
+&lt;br /&gt;Compartilhe com a gente!&lt;/p&gt;</content><author><name></name></author><category term="usabilidade" /><summary type="html">Quem trabalha com desenvolvimento de sistemas está acostumado a lidar com CRUD! E por mais que esse acrônimo seja uma constante em nossas vidas, é comum vermos interfaces mal desenvolvidas por aí, comprometendo a experiência do usuário (UX) e consequentemente, o sucesso dos projetos.</summary></entry><entry><title type="html">Resenha: TED Talks - O guia oficial para falar em público (Livro)</title><link href="http://localhost:4000/livros/resenha-ted-talks-livro" rel="alternate" type="text/html" title="Resenha: TED Talks - O guia oficial para falar em público (Livro)" /><published>2017-07-19T12:40:00-03:00</published><updated>2017-07-19T12:40:00-03:00</updated><id>http://localhost:4000/livros/resenha-ted-talks-livro</id><content type="html" xml:base="http://localhost:4000/livros/resenha-ted-talks-livro">&lt;p&gt;É impressionante como algumas pessoas possuem o dom de expressar ideias de forma clara e objetiva, fazendo com que você preste atenção em cada detalhe, do início ao fim. Isso é a arte de falar bem!&lt;/p&gt;
+
+&lt;p&gt;E quando esta ideia precisa ser repassada a um grande público, a tarefa se torna ainda mais difícil, afinal, você precisa atrair os olhares e a atenção de todos.&lt;/p&gt;
+
+&lt;p&gt;Chris Anderson, escritor do livro e Presidente do TED, através de uma escrita super agradável, traz fundamentos e técnicas que farão você entender a importância das palavras certas, na quantidade certa e no momento certo! E isto, tenha certeza, fará toda a diferença!&lt;/p&gt;
+
+&lt;h1 id=&quot;o-livro&quot;&gt;O livro&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/livro-ted-talks-macbook.jpg&quot; alt=&quot;Livro TED Talks sobre uma mesa com um MacBook e uma xícara de café&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chris Anderson acompanhou diversas conferências TED e reuniu neste livro, de forma magistral, detalhes e dicas preciosas das melhores apresentações.&lt;/p&gt;
+
+&lt;p&gt;A leitura é super agradável, simples e objetiva, faz você se sentir em meio as palestras e a todo momento provoca insights importantes.&lt;/p&gt;
+
+&lt;p&gt;Um detalhe interessante é que os exemplos de apresentações mencionadas vêm com a referência, possibilitando que você as assista na íntegra pelo YouTube ou no próprio site do TED.&lt;/p&gt;
+
+&lt;h1 id=&quot;afinal-o-que-é-ted&quot;&gt;Afinal, o que é TED?&lt;/h1&gt;
+
+&lt;p&gt;Em linhas simples, TED é uma série de conferências destinadas à disseminação de ideias, seja qual for o tema, apresentadas em palestras breves, limitadas à 18 minutos.&lt;/p&gt;
+
+&lt;p&gt;O nome TED vem do acrônimo Tecnologia, Entretenimento e Design, temas das primeiras apresentações, que logo, com sucesso do formato, expandiu-se e passou a cobrir qualquer ideia de interesse público.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/ted-palestra.jpg&quot; alt=&quot;Livro TED Talks sobre uma mesa com um MacBook e uma xícara de café&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O que faz o TED, em minha opinião, ser tão especial, é que qualquer ideia que vale a pena ser compartilhada, de uma maneira diferente de amarrar seus sapatos a como sobreviver em um ataque nuclear, em poucos minutos, pode transformar a sua visão de mundo.&lt;/p&gt;
+
+&lt;h1 id=&quot;este-livro-é-realmente-para-mim&quot;&gt;Este livro é realmente para mim?&lt;/h1&gt;
+
+&lt;p&gt;Embora tenha um foco especial a palestrantes, as técnicas apresentadas servem como guia para qualquer fala em público, seja uma aula, uma apresentação na faculdade, uma exposição de proposta no trabalho, durante a venda de um produto e até mesmo, ainda que inconscientemente, em seu dia a dia.&lt;/p&gt;
+
+&lt;p&gt;“Este livro tem um duplo objetivo: primeiro, explicar como se realiza o milagre do ato de falar em público com eficiência; e, segundo, ajudar você a fazê-lo da melhor maneira possível.” (pág.9)&lt;/p&gt;
+
+&lt;h1 id=&quot;10-lições-importantes-retiradas-do-livro&quot;&gt;10 lições importantes retiradas do livro&lt;/h1&gt;
+
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/L76Q1SAx5grdIg&quot; width=&quot;100%&quot; height=&quot;455px&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Feita de forma correta, uma palestra é capaz de eletrizar uma sala e transformar a visão de mundo de uma platéia.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A única coisa de fato importante ao se falar em público não é a autoconfiança, a presença de palco ou aquilo que se acostuma chamar de ‘falar bem’. É ter algo importante a dizer. &lt;em&gt;Esta é a obrigação número um de todo palestrante.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A linguagem só produz sua magia quando compartilhada entre falante e ouvinte.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;O segredo de se escrever bem está na força das palavras cortadas. O sucesso das palestras eficazes está no que se deixa de fora.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Uma ideia é qualquer coisa capaz de mudar a visão de mundo das pessoas&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Nossas ideias fazem de nós o que somos. E quem descobre meios de transmitir suas ideias para a mente de outras pessoas é capaz de criar efeitos propagadores de consequências incalculáveis.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Melhor não usar slide algum a usar slides ruins.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A razão não é uma erva que cresce rápido, mas um carvalho que cresce devagar. Não obstante, suas raízes são fortes e profundas, e, ao crescer, ela pode transformar uma paisagem para sempre.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;É a dimensão humana que transforma informação em inspiração.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;O importante não é estar certo ou em segurança, mas sobretudo ter uma chance incrível de criar algo capaz de gerar novas ideias.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h1&gt;
+
+&lt;p&gt;O &lt;strong&gt;TED Talks - O guia oficial do TED para falar em público&lt;/strong&gt; é um livro recheado de boas técnicas e ideias magistrais para apresentar-se bem e falar com eficácia, itens fundamentais a qualquer pessoa que busca o sucesso! Leitura recomendada!&lt;/p&gt;
+
+&lt;p&gt;Em especial, caso você seja um palestrante ou conferencista, a leitura já se torna mais que obrigatória!&lt;/p&gt;
+
+&lt;p&gt;Para finalizar &lt;em&gt;(spoiler)&lt;/em&gt;, a frase final e profundamente impactante:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“O futuro ainda não está escrito. Estamos todos nós coletivamente no processo de escrevê-lo. Há uma página aberta - e um palco vazio - a espero de sua contribuição.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;E você? Já leu ou pretende lê-lo?&lt;br /&gt;Comente, compartilhe sua ideia!&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.amazon.com.br/gp/product/858057935X/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=858057935X&amp;amp;linkCode=as2&amp;amp;tag=thiagonasc-20&amp;amp;linkId=ceb560085dcb14f0a2be8c8e08b35524&quot;&gt;Comprar livro na Amazon.&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">É impressionante como algumas pessoas possuem o dom de expressar ideias de forma clara e objetiva, fazendo com que você preste atenção em cada detalhe, do início ao fim. Isso é a arte de falar bem!</summary></entry><entry><title type="html">6 passos para você manter seu computador organizado e sustentável</title><link href="http://localhost:4000/produtividade/6-passos-para-voce-manter-seu-computador-organizado-e-sustentavel" rel="alternate" type="text/html" title="6 passos para você manter seu computador organizado e sustentável" /><published>2017-04-26T14:06:30-03:00</published><updated>2017-04-26T14:06:30-03:00</updated><id>http://localhost:4000/produtividade/6-passos-para-voce-manter-seu-computador-organizado-e-sustentavel</id><content type="html" xml:base="http://localhost:4000/produtividade/6-passos-para-voce-manter-seu-computador-organizado-e-sustentavel">&lt;h3&gt;Você se perde em meio a tantos arquivos e pastas em seu computador e nunca consegue encontrar de maneira fácil aquele arquivo importante? Esse artigo foi especialmente criado para você!&lt;/h3&gt;
+&lt;p&gt;Manter o computador organizado e sustentável é uma tarefa super simples desde que siga os passos corretos!&lt;/p&gt;
+&lt;h2&gt;1. Reuna todos os arquivos importantes possíveis em uma única pasta raíz&lt;/h2&gt;
+&lt;p&gt;O primeiro passo para a sustentabilidade na organização de seus arquivos é ter uma pasta raiz, qual chamo de repositório, para arquivar todos os seus arquivos importantes. Isso significa ter a segurança de que seus arquivos valiosos estarão organizados, acessíveis e facilmente armazenáveis em cópias de segurança.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/pasta-raiz.jpg&quot; alt=&quot;Vários ícones representando pastas ligando-se a um ícone central organizado, representando a pasta raíz.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Importante: ter um repositório único não significa necessariamente arquivar todos os arquivos de forma desorganizada dentro de uma mesma pasta. Significa que ter uma pasta raíz que se estratifica em diversas pastas de acordo com sua necessidade de organização.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mãos a obra:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Verifique se você já possui uma pasta raíz, com arquivos somente armazenados por você, se não a possuir, crie-a!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;2. Utilize uma estrutura de pastas funcional e confiável&lt;/h2&gt;
+&lt;p&gt;Dentro de sua pasta raíz (repositório), mencionado no item anterior, crie as pastas de acordo com suas necessidades, não faça economias…&lt;/p&gt;
+&lt;p&gt;Crie uma estrutura de pastas funcional, de forma que a navegação seja facilmente entendível. Com o tempo verá que ficará até divertido encontrar seus arquivos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/organizacao-pastas-exemplo.jpg&quot; alt=&quot;Finder (janela) do Mac mostrando a estrutura de pastas robusta e organizada&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mãos à obra:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Crie primeiramente as pastas em níveis mais genéricos (não economize)&lt;/li&gt;
+	&lt;li&gt;Faça exercícios mentais e mova as pastas que achar necessário para níveis inferiores ou superiores.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;3. Mantenha sua área de trabalho limpa&lt;/h2&gt;
+&lt;p&gt;Um dos erros mais comuns e básicos que cometemos é deixar a área de trabalho (mesa ou desktop) carregada de atalhos e arquivos.&lt;/p&gt;
+&lt;p&gt;Pense: você é mais focado e produtivo quando seu ambiente de trabalho está limpo e organizado, com cada coisa em seus devidos lugares, ou quando está tudo desorganizado, jogado à sua frente? Pois bem, similar à vida real, nossa área de trabalho deve estar limpa e organizada, evitando distrações, nos mantendo focados em nossos objetivos e resultados.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/mesa-baguncada-vs-mesa-organizada.jpg&quot; alt=&quot;Mesa bagunçada ao lado de uma mesa minimalista e organizada.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Particularmente, trato a área de trabalho como uma “mesa real de trabalho”: deixo somente os arquivos que estou trabalhando naquele momento (quando os mesmos ainda não estão organizados em suas devidas pastas dentro de uma estrutura organizada).&lt;/p&gt;
+&lt;p&gt;Lembre-se: os aplicativos estão facilmente acessíveis através de recursos do próprio sistema operacional, como o antigo menu “Iniciar” do Windows ou o “Spotlight” do Mac OS. Não precisando portanto estarem dispostos em sua área de trabalho.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/desktop-thiagonasc.jpg&quot; alt=&quot;Área de trabalho minimalista, sem nenhum atalho ou arquivo&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mãos à obra:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Exclua todos os atalhos possíveis&lt;/li&gt;
+	&lt;li&gt;Exclua todos os arquivos inúteis&lt;/li&gt;
+	&lt;li&gt;Mova todos os arquivos úteis para suas respectivas pastas dentro de seu repositório.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pronto, sua área de trabalho ficou limpa? Próximo passo...&lt;/p&gt;
+&lt;h2&gt;4. Mantenha seus downloads organizados&lt;/h2&gt;
+&lt;p&gt;Outro erro muito comum é deixarmos nossas pastas de downloads cheia de arquivos que baixamos ao longo dos dias. Esses arquivos ocupam espaço em seu disco, tornam seu computador desorganizado e ainda facilita você se confundir arquivos importantes com arquivos inúteis.&lt;/p&gt;
+&lt;p&gt;O primeiro passo é criar uma única pasta de downloads, se você ainda não a possui, crie-a e configure todos os aplicativos possíveis para arquivarem os downloads nela.&lt;/p&gt;
+&lt;p&gt;O segundo passo é mantê-la sempre vazia!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mãos à obra:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Exclua todos os arquivos inúteis&lt;/li&gt;
+	&lt;li&gt;Exclua todos os instaladores de aplicativos possíveis*&lt;/li&gt;
+	&lt;li&gt;Mova todos os arquivos úteis para suas respectivas pastas dentro de seu repositório&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;*Com a internet cada vez mais acessível e aplicativos com atualizações frequentes, a ‘antiga’ prática de armazenar os arquivos de instalação se tornaram desnecessárias (para não dizer inúteis).&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;5. Armazene na nuvem seus arquivos estratégicos&lt;/h2&gt;
+&lt;p&gt;Separe aqueles arquivos mais estratégicos quais precisa acessá-los a qualquer momento e em qualquer lugar e os disponibilize na nuvem. Dessa forma você torna seus documentos facilmente acessíveis no momento que precisa.&lt;/p&gt;
+&lt;p&gt;Chegou no cinema para comprar o ingresso como estudante (meia-entrada) mas esqueceu sua carteirinha? Já aconteceu com você? Pois é… se seus documentos estiverem na nuvem, isto não é mais um problema!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/arquivos-na-nuvem.jpg&quot; alt=&quot;Mão segurando café e um celular, acessando arquivos na nuvem&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Particularmente, digitalizo todos os meus documentos pessoais, de veículos, declarações, certificados (e vários outros) e os armazeno na nuvem. Optei por utilizar o &lt;a href=&quot;https://db.tt/46kSo8Ko&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Dropbox&lt;/a&gt; pela facilidade de uso no computador, na web e em meus dispositivos móveis, como o celular e tablet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mãos à obra:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Crie um repositório na nuvem. Recomendo o Dropbox (&lt;a href=&quot;https://db.tt/46kSo8Ko&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;crie sua conta!&lt;/a&gt;)&lt;/li&gt;
+	&lt;li&gt;Crie uma estrutura de pastas funcional e confiável (rever item anterior)&lt;/li&gt;
+	&lt;li&gt;Armazene seus arquivos estratégicos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;6. Faça backups periodicamente&lt;/h2&gt;
+&lt;p&gt;Este item vem por último mas é tão - ou mais - importante quanto todos! Nada adianta você manter seus arquivos organizados e sustentáveis se não realiza periodicamente uma cópia de segurança.&lt;/p&gt;
+&lt;p&gt;Muitos acham complexa a atividade de realizar o backup por possuirem arquivos espalhados por todo o computador. Porém, caso esteja utilizando o repositório, como dito no próprio artigo, basta copiar sua pasta raíz para um dispositivo externo (seja um pendrive, HD, DVD ou onde preferir) e pronto!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/hd-externo.jpg&quot; alt=&quot;HD externo ligado ao computador realizando backup&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Sugiro que você procure por soluções mais práticas, como o Time Machine (aplicativo nativo do Mac) que basta plugar um HD externo, realizar uma única vez a configuração e pronto! Todas as vezes que o plugar novamente, ele fará backups de forma automática.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mãos à obra:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Não deixe para amanhã, faça seu backup agora mesmo!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;E você? Quais as dicas para manter seu computador organizado e sustentável?&lt;/strong&gt;&lt;br /&gt;
+	Compartilhe com agente, comente, contribua! :D&lt;/p&gt;</content><author><name></name></author><summary type="html">Você se perde em meio a tantos arquivos e pastas em seu computador e nunca consegue encontrar de maneira fácil aquele arquivo importante? Esse artigo foi especialmente criado para você! Manter o computador organizado e sustentável é uma tarefa super simples desde que siga os passos corretos! 1. Reuna todos os arquivos importantes possíveis em uma única pasta raíz O primeiro passo para a sustentabilidade na organização de seus arquivos é ter uma pasta raiz, qual chamo de repositório, para arquivar todos os seus arquivos importantes. Isso significa ter a segurança de que seus arquivos valiosos estarão organizados, acessíveis e facilmente armazenáveis em cópias de segurança. Importante: ter um repositório único não significa necessariamente arquivar todos os arquivos de forma desorganizada dentro de uma mesma pasta. Significa que ter uma pasta raíz que se estratifica em diversas pastas de acordo com sua necessidade de organização. Mãos a obra:</summary></entry><entry><title type="html">Agile Trends 2017: eu fui! Resenha sobre o evento.</title><link href="http://localhost:4000/eventos/agile-trends-2017-eu-fui" rel="alternate" type="text/html" title="Agile Trends 2017: eu fui! Resenha sobre o evento." /><published>2017-04-18T00:16:51-03:00</published><updated>2017-04-18T00:16:51-03:00</updated><id>http://localhost:4000/eventos/agile-trends-2017-eu-fui</id><content type="html" xml:base="http://localhost:4000/eventos/agile-trends-2017-eu-fui">&lt;p&gt;Durante os dias 12 e 13 de abril participei em São Paulo (SP) do &lt;strong&gt;Agile Trends 2017&lt;/strong&gt;, a principal conferência sobre tendências em agilidade do Brasil, reunindo os maiores especialistas e formadores de opinião da área.&lt;/p&gt;
+&lt;p&gt;Há 4 anos imerso em culturas ágeis onde trabalho, foi o primeiro evento qual participo específico do tema e confesso que estava ansioso para ouvir as experiências ‘do mundo de lá’ e compartilhar as ‘do lado de cá’.&lt;/p&gt;
+&lt;p&gt;Estávamos em 4 colegas de trabalho, representando a &lt;a href=&quot;http://www.ufla.br/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;FUNDECC/UFLA&lt;/a&gt;. Nos acomodamos no hotel &lt;a href=&quot;http://www.booking.com/hotel/br/the-landmark-residence.xb.html?aid=1270315&amp;amp;no_rooms=1&amp;amp;group_adults=1&quot;&gt;The Landmark&lt;/a&gt; (e recomendamos!), com excelente localização e bem próximo ao local do evento, no Centro de Convenções Rebouças. Sou suspeito para falar já que gosto tanto de São Paulo, mas ficamos próximos de excelentes restaurantes e ainda do famoso &lt;a href=&quot;http://www.omalleysbar.net/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Pub O’Malley's&lt;/a&gt; (que é claro que não deixamos de beber um chopp gelado por lá).&lt;/p&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; style=&quot;background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 1000px; padding: 0; width: calc(100% - 2px);&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;7&quot;&gt;
+	&lt;div style=&quot;padding: 8px;&quot;&gt;
+		&lt;div style=&quot;background: #F8F8F8; line-height: 0; margin-top: 40px; padding: 50.0% 0; text-align: center; width: 100%;&quot;&gt;&lt;/div&gt;
+		&lt;p style=&quot;margin: 8px 0 0 0; padding: 0 4px;&quot;&gt;&lt;a style=&quot;color: #000; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none; word-wrap: break-word;&quot; href=&quot;https://www.instagram.com/p/BS3uI_KgMMa/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&quot;Nunca desista tentando fazer o que realmente quer, onde há amor e inspiração, nada pode dar errado&quot;! Mais um evento, novas ideias, novos conhecimentos, mais desafios! Agile Trends 2017. #agiletrends #agile #ufla #lemafianos&lt;/a&gt;&lt;/p&gt;
+		&lt;p style=&quot;color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;&quot;&gt;A post shared by Thiago Nascimento Oliveira (@thiagonasc) on &lt;time style=&quot;font-family: Arial,sans-serif; font-size: 14px; line-height: 17px;&quot; datetime=&quot;2017-04-14T15:22:45+00:00&quot;&gt;Apr 14, 2017 at 8:22am PDT&lt;/time&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;script async defer src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Na foto, da esquerda para a direita: Vicente Silva, Antônio Couto, Elias Lasmar e eu (Thiago Nascimento).&lt;/p&gt;
+&lt;p&gt;O evento contou com uma programação extensa e dividida em 4 trilhas por dia, sendo:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Agile Coaching&lt;/li&gt;
+	&lt;li&gt;Agile em Grandes Empresas&lt;/li&gt;
+	&lt;li&gt;Agile UX&lt;/li&gt;
+	&lt;li&gt;Comunidade e Early Adopters&lt;/li&gt;
+	&lt;li&gt;Cultura, Esquipes e Gestão de Pessoas&lt;/li&gt;
+	&lt;li&gt;Data Analytics&lt;/li&gt;
+	&lt;li&gt;DevOps&lt;/li&gt;
+	&lt;li&gt;Gestão de Produtos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cada participante tinha a liberdade em escolher e participar das palestras que mais lhe interessavam, de acordo com as trilhas e disponibilidade.&lt;/p&gt;
+
+&lt;p&gt;Haviam também dinâmicas como o interessante FishBowl, onde o público participa ativamente das discussões e compartilha conhecimentos e experiências entre todos os presentes.&lt;/p&gt;
+
+&lt;h2&gt;Das palestras que participei, destaco:&lt;/h2&gt;
+
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;strong&gt;Design e Agile - Esqueceram de combinar com os russos&lt;/strong&gt;&lt;br /&gt;
+	&lt;strong&gt;Palestrantes:&lt;/strong&gt; Fabrício Dore (McKinsey) e Paola Mouro (McKinsey)&lt;/p&gt;
+	&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;img class=&quot;alignnone wp-image-616 size-full&quot; src=&quot;/assets/imgs/GOPR7478.jpg&quot; alt=&quot;Fabrício Dore e Paola Mouro apresentando Design e Agile&quot; /&gt;&lt;/p&gt;
+	&lt;p style=&quot;padding-left: 30px;&quot;&gt;Use e abuse de artefatos visuais (user journeys, roadmaps, flowmap, quem é quem) nas salas de criação e desenvolvimento, eles estimulam a criatividade, facilitam o entendimento e geram melhores resultados.&lt;/p&gt;
+	&lt;p style=&quot;padding-left: 30px;&quot;&gt;Envolva todos no objetivo da criação, do cliente ao usuário.&lt;/p&gt;
+	&lt;p style=&quot;padding-left: 30px;&quot;&gt;Force o time a chegar a resultados concretos para acelerar o trabalho.&lt;/p&gt;
+	&lt;p style=&quot;padding-left: 30px;&quot;&gt;Envolva o designer ao máximo, quando ele acompanha todo o processo de desenvolvimento, os resultados são otimizados.&lt;/p&gt;
+	&lt;p style=&quot;padding-left: 30px;&quot;&gt;Trabalhe sempre com bibliotecas de design, desde o primeiro dia do projeto.&lt;/p&gt;
+	&lt;p style=&quot;padding-left: 30px;&quot;&gt;Os níveis de maturidade em relação ao envolvimento do time de designer com o time de desenvolvimento:&lt;br /&gt;
+		(1) Throwing grenades: design e desenvolvimento desconexo e desincronizado&lt;br /&gt;
+		(2) Feeding the beast: time de design um passo a frente do time de desenvolvimento&lt;br /&gt;
+		(3) Design facilitations: time de design e time de desenvolvimento conexos e síncronos.&lt;/p&gt;
+		&lt;p&gt;&lt;strong&gt;Agile &amp;amp; UX - O despertar da força&lt;/strong&gt;&lt;br /&gt;
+			&lt;strong&gt;Palestrante:&lt;/strong&gt; Giu Vicente (Softexpert)&lt;/p&gt;
+			&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;img class=&quot;alignnone size-full wp-image-617&quot; src=&quot;/assets/imgs/IMG_3588.jpg&quot; alt=&quot;Giu Vicente e sua apresentação Agile &amp;amp; UX&quot; /&gt;&lt;/p&gt;
+			&lt;p style=&quot;padding-left: 30px;&quot;&gt;User Experience Design precisa abranger todos os aspectos de interação entre um produto e as pessoas (seus usuários).&lt;/p&gt;
+			&lt;p style=&quot;padding-left: 30px;&quot;&gt;A mudança para o Agile dentro das organizações significa mudança de cultura, e cultura não se muda da noite para o dia.&lt;/p&gt;
+			&lt;p style=&quot;padding-left: 30px;&quot;&gt;Frase de impacto: &lt;em&gt;fail fast, learn faster&lt;/em&gt; (falhe rápido, aprenda mais rápido ainda).&lt;/p&gt;
+			&lt;p style=&quot;padding-left: 30px;&quot;&gt;Sempre trabalhe com métricas (data-driven), tomar decisões em cima de dados reais (e não suposições) é sempre mais assertivo.&lt;/p&gt;
+			&lt;p&gt;&lt;strong&gt;Como gerenciar vários projetos dentro de um time ágil&lt;/strong&gt;&lt;br /&gt;
+				&lt;strong&gt;Palestrante: &lt;/strong&gt;Leonardo Monteiro (Globosat)&lt;/p&gt;
+				&lt;p style=&quot;padding-left: 30px;&quot;&gt;Crie um Product Backlog para a &quot;alta gestão&quot; e realize encontros com os mesmos periodicamente, possibilitando-os de forma visual acompanhar o andamento dos projetos e ainda, decidir - de forma conjunta - as prioridades a serem atacadas.&lt;/p&gt;
+				&lt;p style=&quot;padding-left: 30px;&quot;&gt;As prioridades são dadas em razão do &quot;valor vs. complexidade&quot;, sempre alinhadas à visão da organização.&lt;/p&gt;
+				&lt;p&gt;&lt;strong&gt;Design Thinking + Agile = Melhores experiências&lt;/strong&gt;&lt;br /&gt;
+					&lt;strong&gt;Palestrante: &lt;/strong&gt;Gustavo Oliveira (TOTVS)&lt;/p&gt;
+					&lt;p style=&quot;padding-left: 30px;&quot;&gt;Os 4 pilares do Design Thinking na TOTVS: (1) Research, (2) Solution Design, (3) Education &amp;amp; Cultura e (4) Visual Guidance.&lt;/p&gt;
+					&lt;p style=&quot;padding-left: 30px;&quot;&gt;Não entregue &quot;featurites&quot;, entregue valor! As funcionalidades devem vir em razão dos objetivos do produto e não o contrário!&lt;/p&gt;
+					&lt;p style=&quot;padding-left: 30px;&quot;&gt;Design Thinking: interseção entre negócios, tecnologia e pessoas.&lt;/p&gt;
+					&lt;p style=&quot;padding-left: 30px;&quot;&gt;Processo do Diamante Duplo:&lt;br /&gt;
+						(1) Pesquisa: aprenda com as pessoas,&lt;br /&gt;
+						(2) Análise: encontre padrões,&lt;br /&gt;
+						(3) Ideação: gere novas ideias,&lt;br /&gt;
+						(4) Prototipação: teste as ideias, colete &lt;em&gt;feedbacks&lt;/em&gt; e itere constantemente.&lt;/p&gt;
+						&lt;p&gt;&lt;strong&gt;Agile em escala é possível&lt;/strong&gt;&lt;br /&gt;
+							&lt;strong&gt;Palestrante: &lt;/strong&gt;Rodolfo Linhares (IBM)&lt;/p&gt;
+							&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;img class=&quot;alignnone size-full wp-image-618&quot; src=&quot;/assets/imgs/IMG_3606.jpg&quot; alt=&quot;Rodolfo Linhares apresentando Agile em escala é possível&quot; /&gt;&lt;/p&gt;
+							&lt;p style=&quot;padding-left: 30px;&quot;&gt;Princípios 'Agile' da IBM: (1) &lt;em&gt;Clarity over certanty&lt;/em&gt;, (2) &lt;em&gt;Innovation for everyone over selected few&lt;/em&gt;, (3) &lt;em&gt;Course correct over perfection&lt;/em&gt;, (4) &lt;em&gt;Talent density over process density&lt;/em&gt; e (5) &lt;em&gt;Empowered teams over command &amp;amp; control&lt;/em&gt;.&lt;/p&gt;
+							&lt;p style=&quot;padding-left: 30px;&quot;&gt;Autonomia para as equipes estimula a criatividade e maturidade.&lt;/p&gt;
+							&lt;p style=&quot;padding-left: 30px;&quot;&gt;Frase: &lt;em&gt;Find the best team and scale!&lt;/em&gt;&lt;/p&gt;
+							&lt;p&gt;&lt;strong&gt;Desafios e dificuldades na jornada de adoção do ágil em uma organização de grande porte como o Itaú&lt;/strong&gt;&lt;br /&gt;
+								&lt;strong&gt;Palestrante:&lt;/strong&gt; Edson Portilho (Itaú) e Cecilio Cosac Fraguas (Itaú)&lt;/p&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;img class=&quot;alignnone size-full wp-image-619&quot; src=&quot;/assets/imgs/IMG_3607.jpg&quot; alt=&quot;Edson Portilho e Cecilio Cosac apresentando Desafios e dificuldades na jornada de adoção do ágil em uma organização de grande porte como o Itaú&quot; /&gt;&lt;/p&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;Benefícios de times estáveis: (1) trabalham por um propósito único, (2) times são perenes, (3) projeto é encaminhado ao time.&lt;/p&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;Identifique as ilhas de talentos, equipes que aplicam métodos de resultados diferentes das demais equipes e resultam em resultados melhores, e multiplique-as a toda organização.&lt;/p&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;Aprendizados levantados pelos palestrantes: (1) maioria dos casos de sucesso utilizaram-se do conceito de time inteiro, (2) times estáveis possui um propósito único, (3) não é possível ignorar o ambiente, (4) estimule a boa convivência, (5) estimule a liderança e o engajamento, (6) utilize Lean para ajudar nos outros aspectos não cobertos pelo Agile.&lt;/p&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;No debate ao final da palestra, compartilharam os seguintes insights: (1) não se justifica a utilização de SCRUM em times muito pequenos, exemplo disso é a desmotivação em seguir os ritos e sua inefetividade para tão poucos e (2) não se justifica times muito grandes, eles se tornam pretensiosos e os resultados na maioria das vezes são falhos.&lt;/p&gt;
+								&lt;h2&gt;&lt;strong&gt;Outros conhecimentos e insights legais:&lt;/strong&gt;&lt;/h2&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;O que motiva uma pessoa não necessariamente a desmotiva se retirada. E o que a desmotiva, não necessariamente a motiva caso aplicada. Veja mais sobre &quot;A Teoria dos Dois Fatores&quot;, desenvolvida pelo americano Frederick Herzberg, publicada em seu livro “A Motivação para Trabalhar” (&lt;em&gt;The Motivation to Work&lt;/em&gt;).&lt;/p&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;Segundo a discussão, é responsabilidade da organização remover o que &quot;desmotiva&quot; ou torna seus colaboradores &quot;menos produtivos&quot;. Enquanto é responsabilidade do gestor/líder, motivar as pessoas e torná-las mais produtivas.&lt;/p&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;Um líder deve 'personalizar' o seu trabalho para entender as pessoas e saber como motivá-las. E isto é, sem dúvida, um grande desafio!&lt;/p&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;Comando e controle é ambiente/cultura militar. Provavelmente não funcionará bem em times ágeis!&lt;/p&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;&quot;Conheça todas as teorias, domine todas as técnicas, mas ao tocar uma alma humana, seja apenas outra alma humana&quot;. (Carl G. Jung)&lt;/p&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;O momento em que um novo colaborador entra na organização é super importante. Colaboradores em seu primeiro dia de trabalho geralmente estão no seu momento de maior motivação e é o momento em que ele formará sua opinião sobre a empresa. Se ele entra e a casa está desorganizada, os efeitos colaterais podem ser grandes.&lt;/p&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;Não espere o treinamento da empresa, não espere a motivação da empresa, não espere a ação de seu próximo, não espere... Busque o protagonismo, seja líder, seja o agente de mudança!&lt;/p&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;Menos &quot;Work Hard&quot; (trabalho duro) e mais &quot;Work Smart&quot; (trabalho esperto / inteligente).&lt;/p&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;Co-criação é fundamental para o sucesso do projeto!&lt;/p&gt;
+								&lt;p style=&quot;padding-left: 30px;&quot;&gt;Não confunda agilidade com velocidade. Não confunda maratona com 100 metros rasos.&lt;/p&gt;
+								&lt;h2&gt;&lt;strong&gt;Pontos fortes do evento&lt;/strong&gt;&lt;/h2&gt;
+								&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-620&quot; src=&quot;/assets/imgs/IMG_3583.jpg&quot; alt=&quot;Pessoas reunidas na abertura do evento.&quot; /&gt;&lt;/p&gt;
+								&lt;ul&gt;
+									&lt;li&gt;&lt;strong&gt;Local:&lt;/strong&gt; o &lt;a href=&quot;http://www.convencoesreboucas.com.br/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Centro de Convenções Rebouças&lt;/a&gt; além da excelente infra-estrutura, com salas espaçosas e confortáveis, está localizado no coração de São Paulo, na confluência das avenidas Paulista, Rebouças e Dr. Arnaldo, com fácil acesso via metrô, estando a 300m da estação Clínicas.&lt;/li&gt;
+									&lt;li&gt;&lt;strong&gt;Trilhas: &lt;/strong&gt;a divisão dos assuntos em trilhas permitiram que os participantes participassem das talks de acordo com seu interesse. Mesmo durante a apresentação, o participante tinha a liberdade em trocar de sala caso optasse por outra trilha.&lt;/li&gt;
+									&lt;li&gt;&lt;strong&gt;Palestrantes:&lt;/strong&gt; o evento contou, em sua maioria, com palestrantes experientes e que com boa desenvoltura, levaram conteúdos ricos e apresentações bem elaboradas. Um ponto que todo 'bom espectador' anseia!&lt;/li&gt;
+									&lt;li&gt;&lt;strong&gt;Início do evento com Coffee-break:&lt;/strong&gt; apesar de termos tomado café no hotel, vi muita gente feliz por chegar no evento e ainda poder 'fazer uma boquinha' com os comes e bebes disponíveis! Ainda mais em São Paulo (capital) onde a vida é tão corrida e muita gente precisa sair cedo de casa.&lt;/li&gt;
+								&lt;/ul&gt;
+								&lt;h2&gt;&lt;strong&gt;Pontos a serem melhorados do evento&lt;/strong&gt;&lt;/h2&gt;
+								&lt;ul&gt;
+									&lt;li&gt;&lt;strong&gt;Credenciamento: &lt;/strong&gt;mesmo com um contingente relativamente satisfatório empenhados na organização, o atendimento pode ser melhorado. No primeiro dia de evento, já na entrada formou-se uma fila relativamente grande e com baixa vazão. Eu mesmo precisei passar por 3 pessoas até conseguir efetivar meu credenciamento. &lt;em&gt;(Não seria contraditório para um evento de Agile?)&lt;/em&gt;&lt;/li&gt;
+									&lt;li&gt;&lt;strong&gt;Organização e pontualidade: &lt;/strong&gt;algumas apresentações, por razões diversas (em principal, organização) não respeitaram o tempo definido e toda a programação começou a ser comprometida: em vários momentos pode-se perceber participantes que ao tentarem trocar de trilha, não conseguiram realizar a entrada em outra (na maioria por questões de lotação) e não receberam uma assistência da organização. &lt;em&gt;É importante deixar registrado que a organização deu maior atenção à questão no segundo dia, melhorando a pontualidade.&lt;/em&gt;&lt;/li&gt;
+									&lt;li&gt;&lt;b&gt;Evento precedente a um feriado: &lt;/b&gt;em razão do feriado na sexta-feira (e por morarmos longe, no interior de MG), vários colegas deixaram de ir e nós, que formos, tivemos de sair mais cedo na quinta-feira a fim de evitar trânsito, o que nos custou abrir mão da &lt;em&gt;Super Keynote &lt;/em&gt;(ainda assim levamos boas horas no trânsito até conseguir sair da cidade).&lt;/li&gt;
+									&lt;li&gt;&lt;strong&gt;Wi-fi: &lt;/strong&gt;não consegui me conectar às redes encontradas e nem encontrei informações sobre &quot;disponibilidade de Wi-Fi&quot;. Considerando que estávamos em horário comercial e fora do ambiente de trabalho, uma boa conexão à internet para muitos é necessidade. Claro que a rede móvel salva (3G/4G), mas em eventos relacionados à tecnologia, um bom wi-fi é sempre bem-vindo! #ficaadica&lt;/li&gt;
+								&lt;/ul&gt;
+								&lt;h2&gt;Conclusão&lt;/h2&gt;
+								&lt;p&gt;Conhecer as experiências de outros profissionais, entender o cenário de outras organizações, partilhar ideias e práticas com pessoas de todos os cantos do Brasil em um único evento é simplesmente fantástico. O &lt;strong&gt;Agile Trends 2017&lt;/strong&gt; foi um evento que me proporcionou todos esses pontos e valeu muito a participação!&lt;/p&gt;
+								&lt;p&gt;Que venham os próximos...&lt;/p&gt;
+								&lt;p&gt;E você? Foi no &lt;strong&gt;Agile Trends&lt;/strong&gt;? Compartilhe com a gente sua experiência!&lt;/p&gt;</content><author><name></name></author><summary type="html">Durante os dias 12 e 13 de abril participei em São Paulo (SP) do Agile Trends 2017, a principal conferência sobre tendências em agilidade do Brasil, reunindo os maiores especialistas e formadores de opinião da área. Há 4 anos imerso em culturas ágeis onde trabalho, foi o primeiro evento qual participo específico do tema e confesso que estava ansioso para ouvir as experiências ‘do mundo de lá’ e compartilhar as ‘do lado de cá’. Estávamos em 4 colegas de trabalho, representando a FUNDECC/UFLA. Nos acomodamos no hotel The Landmark (e recomendamos!), com excelente localização e bem próximo ao local do evento, no Centro de Convenções Rebouças. Sou suspeito para falar já que gosto tanto de São Paulo, mas ficamos próximos de excelentes restaurantes e ainda do famoso Pub O’Malley's (que é claro que não deixamos de beber um chopp gelado por lá).</summary></entry><entry><title type="html">Lista de presença: suas vantagens, dicas de como fazer e modelo para download</title><link href="http://localhost:4000/geral/lista-de-presenca-vantagens-como-fazer-modelo" rel="alternate" type="text/html" title="Lista de presença: suas vantagens, dicas de como fazer e modelo para download" /><published>2017-03-24T12:00:24-03:00</published><updated>2017-03-24T12:00:24-03:00</updated><id>http://localhost:4000/geral/lista-de-presenca-vantagens-como-fazer-modelo</id><content type="html" xml:base="http://localhost:4000/geral/lista-de-presenca-vantagens-como-fazer-modelo">&lt;p&gt;A ata, conforme visto no artigo “&lt;a href=&quot;http://thiagonasc.com/produtividade/atas-de-reunioes-como-fazer-de-forma-efetiva&quot; target=&quot;_blank&quot;&gt;Ata de Reunião: como fazer de forma efetiva&lt;/a&gt;&quot; é item obrigatório em qualquer reunião, é nela que se reunem todas as informações discutidas, as definições e encaminhamentos realizados durante o ‘evento’. Mas ela não deve estar sozinha, a &lt;strong&gt;Lista de Presença&lt;/strong&gt; ou &lt;strong&gt;Registro de Presença&lt;/strong&gt; (como preferir), é outro item essencial que não deve ser negligenciado.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Vantagens em se utilizar a lista de presença nas reuniões:&lt;/b&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;b&gt;Transmite mais seriedade à reunião:&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;O ato de assinar seu nome em um ‘documento’ faz, muitas vezes até de forma inconsciente, os envolvidos prestarem mais atenção à reunião, dando mais seriedade ao evento e na maioria das vezes, tornando-os mais ativos às discussões. Isso tende a tornar as reuniões mais participativas e consequentemente, mais efetivas.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Facilita a identificação das pessoas:&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Principalmente em reuniões que envolvam pessoas quais ainda não sabemos o nome, a lista de presença é um excelente recurso para facilitar sua identificação. Como diz Dale Carnegie: “o nosso nome é uma das palavras mais doces que podemos escutar” e como técnica fundamental de relação interpessoal, chame-as sempre pelo nome.&lt;/p&gt;
+&lt;p&gt;Aproveite-se portanto deste documento!&lt;/p&gt;
+&lt;p&gt;(Dica: para facilitar, sempre que tiver a possibilidade, peça aos envolvidos que assinem a lista seguindo uma ordem, da direita para esquerda por exemplo, dessa forma ficará fácil identificá-los e chamá-los pelo nome!)&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Comprova a presença dos envolvidos:&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Mesmo que sua Ata de Reunião siga boas diretrizes (ver artigo) e contenha o nome de todos os participantes, algumas vezes ela não será o suficiente para comprovar a presença dos envolvidos.&lt;/p&gt;
+&lt;p&gt;É comum que os mesmos, principalmente ao passar do tempo, esqueçam as tratativas levantadas durante a reunião e contestem tais (até mesmo sua presença).&lt;/p&gt;
+&lt;p&gt;Com a &quot;Ata de Reunião” bem descrita e a &quot;Lista de Presença” contendo sua assinatura, ficará bem mais fácil você resgatar e comprovar o que foi acordado.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Facilita a comunicação pós-reunião:&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;A maioria das reuniões, para não se dizer todas, resultam em definições, encaminhamentos e responsáveis, por isso é imprescindível que a comunicação pós-reunião seja efetiva.&lt;/p&gt;
+&lt;p&gt;Aproveite-se da lista para facilitar a comunicação com os envolvidos uma vez que seus contatos estão presentes na mesma.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Dica:&lt;/strong&gt; sempre que possível, envie os documentos (Ata da Reunião e Lista de Presença) por e-mail assim que finalizar a reunião. Assim, de maneira formal, todos os envolvidos estarão alinhados, de posse dos documentos gerados e hábeis a darem os expedientes necessários sob suas responsabilidades.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ok, estou convencido de que a lista de presença é um documento fundamental para as reuniões, mas como fazê-la?&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Dicas de como fazer uma lista de presença:&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;Os itens que compõem uma &lt;strong&gt;Lista de Presença&lt;/strong&gt; variam de acordo com a necessidade e objetivo da reunião, mas alguns itens devem ser considerados ‘obrigatórios’:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Data&lt;/li&gt;
+  &lt;li&gt;Local&lt;/li&gt;
+  &lt;li&gt;Pauta&lt;/li&gt;
+  &lt;li&gt;Envolvidos (nome completo, contato e assinatura)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Em meu cenário, trabalhando na área de Tecnologia da Informação (TI) e com diversos clientes, os itens que considero necessários e utilizo para contato são: e-mail e telefone.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Modelo para download:&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;Faça o download do modelo de &lt;strong&gt;Lista de Presença&lt;/strong&gt;, personalize e a utilize como desejar!&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;../assets/downloads/lista-de-presenca-modelo.docx&quot;&gt;Baixar modelo de Lista de Presença (lista-de-presenca-modelo.docx)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;E você? Utiliza Lista de Presença em suas reuniões? Quais itens considera necessários?&lt;/p&gt;</content><author><name></name></author><summary type="html">A ata, conforme visto no artigo “Ata de Reunião: como fazer de forma efetiva&quot; é item obrigatório em qualquer reunião, é nela que se reunem todas as informações discutidas, as definições e encaminhamentos realizados durante o ‘evento’. Mas ela não deve estar sozinha, a Lista de Presença ou Registro de Presença (como preferir), é outro item essencial que não deve ser negligenciado. Vantagens em se utilizar a lista de presença nas reuniões: Transmite mais seriedade à reunião: O ato de assinar seu nome em um ‘documento’ faz, muitas vezes até de forma inconsciente, os envolvidos prestarem mais atenção à reunião, dando mais seriedade ao evento e na maioria das vezes, tornando-os mais ativos às discussões. Isso tende a tornar as reuniões mais participativas e consequentemente, mais efetivas. Facilita a identificação das pessoas: Principalmente em reuniões que envolvam pessoas quais ainda não sabemos o nome, a lista de presença é um excelente recurso para facilitar sua identificação. Como diz Dale Carnegie: “o nosso nome é uma das palavras mais doces que podemos escutar” e como técnica fundamental de relação interpessoal, chame-as sempre pelo nome. Aproveite-se portanto deste documento! (Dica: para facilitar, sempre que tiver a possibilidade, peça aos envolvidos que assinem a lista seguindo uma ordem, da direita para esquerda por exemplo, dessa forma ficará fácil identificá-los e chamá-los pelo nome!) Comprova a presença dos envolvidos: Mesmo que sua Ata de Reunião siga boas diretrizes (ver artigo) e contenha o nome de todos os participantes, algumas vezes ela não será o suficiente para comprovar a presença dos envolvidos. É comum que os mesmos, principalmente ao passar do tempo, esqueçam as tratativas levantadas durante a reunião e contestem tais (até mesmo sua presença). Com a &quot;Ata de Reunião” bem descrita e a &quot;Lista de Presença” contendo sua assinatura, ficará bem mais fácil você resgatar e comprovar o que foi acordado. Facilita a comunicação pós-reunião: A maioria das reuniões, para não se dizer todas, resultam em definições, encaminhamentos e responsáveis, por isso é imprescindível que a comunicação pós-reunião seja efetiva. Aproveite-se da lista para facilitar a comunicação com os envolvidos uma vez que seus contatos estão presentes na mesma. Dica: sempre que possível, envie os documentos (Ata da Reunião e Lista de Presença) por e-mail assim que finalizar a reunião. Assim, de maneira formal, todos os envolvidos estarão alinhados, de posse dos documentos gerados e hábeis a darem os expedientes necessários sob suas responsabilidades. Ok, estou convencido de que a lista de presença é um documento fundamental para as reuniões, mas como fazê-la? Dicas de como fazer uma lista de presença: Os itens que compõem uma Lista de Presença variam de acordo com a necessidade e objetivo da reunião, mas alguns itens devem ser considerados ‘obrigatórios’: Data Local Pauta Envolvidos (nome completo, contato e assinatura) Em meu cenário, trabalhando na área de Tecnologia da Informação (TI) e com diversos clientes, os itens que considero necessários e utilizo para contato são: e-mail e telefone. Modelo para download: Faça o download do modelo de Lista de Presença, personalize e a utilize como desejar! Baixar modelo de Lista de Presença (lista-de-presenca-modelo.docx) E você? Utiliza Lista de Presença em suas reuniões? Quais itens considera necessários?</summary></entry><entry><title type="html">Usabilidade: excluir, deletar, apagar, remover ou cancelar?</title><link href="http://localhost:4000/usabilidade/usabilidade-excluir-deletar-apagar-remover-ou-cancelar" rel="alternate" type="text/html" title="Usabilidade: excluir, deletar, apagar, remover ou cancelar?" /><published>2016-11-30T16:19:04-02:00</published><updated>2016-11-30T16:19:04-02:00</updated><id>http://localhost:4000/usabilidade/usabilidade-excluir-deletar-apagar-remover-ou-cancelar</id><content type="html" xml:base="http://localhost:4000/usabilidade/usabilidade-excluir-deletar-apagar-remover-ou-cancelar">&lt;h3&gt;Um breve estudo sobre o melhor termo que represente a funcionalidade.&lt;/h3&gt;
+&lt;p&gt;Uma das operações básicas de qualquer sistema de informação é a funcionalidade de &quot;excluir&quot; um registro, porém, sua nomenclatura é representada comumente de diversas formas: &lt;strong&gt;excluir&lt;/strong&gt;,&lt;strong&gt; deletar&lt;/strong&gt;,&lt;strong&gt; apagar&lt;/strong&gt;,&lt;strong&gt; remover&lt;/strong&gt; e&lt;strong&gt; cancelar.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Afinal, qual a melhor opção?&lt;/p&gt;
+&lt;h2&gt;Entendendo o significado das palavras&lt;/h2&gt;
+&lt;p&gt;Consultando o 'pai dos burros', o famoso &lt;del&gt;e cada vez menos utilizado&lt;/del&gt; &quot;Dicionário&quot;, percebemos que todas elas são sinônimas, isto é, possuem significados semelhantes e com isso, qualquer uma pode ser empregada para representar a ação.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Significado de excluir (&lt;a href=&quot;http://michaelis.uol.com.br/busca?r=0&amp;amp;f=0&amp;amp;t=0&amp;amp;palavra=excluir&quot;&gt;Michaellis&lt;/a&gt; / &lt;a href=&quot;https://www.google.com.br/search?espv=2&amp;amp;q=define%3Aexcluir&quot;&gt;Google&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Significado de deletar (&lt;a href=&quot;http://michaelis.uol.com.br/busca?r=0&amp;amp;f=0&amp;amp;t=0&amp;amp;palavra=deletar&quot;&gt;Michaellis&lt;/a&gt; / &lt;a href=&quot;https://www.google.com.br/search?espv=2&amp;amp;q=define%3A+deletar&quot;&gt;Google&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Significado de apagar (&lt;a href=&quot;http://michaelis.uol.com.br/busca?r=0&amp;amp;f=0&amp;amp;t=0&amp;amp;palavra=apagar&quot;&gt;Michaellis&lt;/a&gt; / &lt;a href=&quot;https://www.google.com.br/search?espv=2&amp;amp;q=define%3A+apagar&amp;amp;oq=define&quot;&gt;Google)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Significado de remover (&lt;a href=&quot;http://michaelis.uol.com.br/busca?r=0&amp;amp;f=0&amp;amp;t=0&amp;amp;palavra=remover&quot;&gt;Michaellis&lt;/a&gt; / &lt;a href=&quot;https://www.google.com.br/search?espv=2&amp;amp;q=define%3Aremover&quot;&gt;Google&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Significado de cancelar (&lt;a href=&quot;http://michaelis.uol.com.br/busca?r=0&amp;amp;f=0&amp;amp;t=0&amp;amp;palavra=cancelar&quot;&gt;Michaellis&lt;/a&gt; / &lt;a href=&quot;https://www.google.com.br/search?espv=2&amp;amp;q=define%3Acancelar&quot;&gt;Google&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aprofundando-se no estudo dos significados e etimologias desses termos, em consideração a sua utilização na terminologia tecnológica (para sistemas de informação), podemos simplificar em 3 grupos de significados diferentes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;(1) Excluir, deletar, apagar:&lt;/strong&gt; fazer desaparecer, sumir, extinguir, suprimir;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;(2) Remover:&lt;/strong&gt; mover novamente, transportar de um ponto para outro, colocar fora do caminho, afastar;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;(3) Cancelar:&lt;/strong&gt; tornar nulo, sem efeito, sem valor, interromper temporariamente ou definitivamente, suspender;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Verificando o termo utilizado nos principais sistemas&lt;/h2&gt;
+&lt;p&gt;Os sistemas operacionais (SO's) devem ser considerados os melhores exemplos para definirmos a terminologia adequada, visto que, &lt;del&gt;todos&lt;/del&gt; a maioria dos usuários para utilizarem seu sistema farão uso antes de um SO.&lt;/p&gt;
+&lt;p&gt;Levando-se em conta portanto os SO's mais utilizados (segundo a &lt;a href=&quot;https://pt.wikipedia.org/wiki/Sistema_operativo&quot;&gt;Wikipedia&lt;/a&gt;), em suas versões mais atuais, temos as seguintes representações:*&lt;/p&gt;
+&lt;p&gt;&lt;img title=&quot;UI do Windows, Linux, Mac OS&quot; src=&quot;/assets/imgs/sistemas-operacionais.jpg&quot; alt=&quot;Usabilidade: botão excluir registro nos diversos SO's (Windows, Mac OS e Linux)&quot; /&gt;&lt;/p&gt;
+&lt;em&gt;*as representações da opção &quot;excluir&quot; ao clicar com o botão direito (do mouse) sobre um arquivo em cada Sistema Operacional.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Windows:&lt;/strong&gt; excluir;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Linux:&lt;/strong&gt; mover para a lixeira;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mac OS:&lt;/strong&gt; mover para o lixo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Examinando alguns dos mais populares sistemas, temos as seguintes utilizações:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Excluir:&lt;/strong&gt; Microsoft Office, Adobe CC, Facebook, Gmail, Messenger, Instagram, Twitter, YouTube, Google Drive;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Apagar:&lt;/strong&gt; WhatsApp, Messenger;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Remover:&lt;/strong&gt; Facebook, Google Drive;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Fonte de acesso:&lt;/strong&gt; (1) Web: Facebook, Dropbox, Gmail, WhatsApp, Twitter, YouTube; (2) Mac OS: Microsoft Office, Adobe CC; (3) iOS: Messenger, Instagram;&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Aplicações recomendadas&lt;/h2&gt;
+&lt;p&gt;Voltando aos 3 grupos de significados descritos no início do artigo (Entendendo o significado das palavras), seguem as aplicações de uso mais recomendadas para cada:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;(1) Excluir, deletar, apagar:&lt;/strong&gt; quando se deseja que determinado dado deixe de existir no sistema.&lt;br /&gt;&lt;strong&gt;Exemplo de uso:&lt;/strong&gt; excluir um contato telefônico de sua agenda no celular. Após a ação (excluir), o dado não estará mais acessível.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;(2) Remover:&lt;/strong&gt; quando se deseja &quot;mover&quot; o dado do local onde está situado, ainda que o mesmo permaneça a existir (de alguma forma) no sistema;&lt;br /&gt;&lt;strong&gt;Exemplo de uso: &lt;/strong&gt;remover o contato telefônico de um grupo de comunicação no celular. Após a ação, o contato é 'removido' do grupo, ou seja, deixa de estar situado no grupo porém o mesmo permanece presente em sua agenda no celular.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;(3) Cancelar:&lt;/strong&gt; quando se deseja que o dado não seja mais válido, isto é, sua existência permanece porém não possui mais validade no sistema;&lt;br /&gt;&lt;strong&gt;Exemplo de uso: &lt;/strong&gt;cancelar pedido realizado em site de compras. Após a execução de cancelamento, o dado (pedido) permanece disponível para acesso/consulta no sistema porém o mesmo não possui mais validade.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Conclusão&lt;/h2&gt;
+&lt;p&gt;Os termos &lt;strong&gt;excluir&lt;/strong&gt;, &lt;strong&gt;deletar&lt;/strong&gt;, &lt;strong&gt;apagar&lt;/strong&gt;, &lt;strong&gt;remover&lt;/strong&gt; e &lt;strong&gt;cancelar&lt;/strong&gt; são sinônimos, portanto a utilização de qualquer um deles deve atingir seu objetivo, porém, prezando pelas boas práticas de experiência do usuário (UX) e usabilidade, levando-se em conta a etimologia dos termos e padrões de uso, recomendo a utilização do termo &quot;&lt;strong&gt;Excluir&lt;/strong&gt;&quot; como o mais adequado.&lt;/p&gt;
+&lt;p&gt;Lembre-se da distinção dos 3 grupos onde &lt;strong&gt;excluir&lt;/strong&gt;, &lt;strong&gt;remover&lt;/strong&gt; e &lt;strong&gt;cancelar&lt;/strong&gt; podem, de forma adequada, representar diferentes ações.&lt;/p&gt;</content><author><name></name></author><summary type="html">Um breve estudo sobre o melhor termo que represente a funcionalidade. Uma das operações básicas de qualquer sistema de informação é a funcionalidade de &quot;excluir&quot; um registro, porém, sua nomenclatura é representada comumente de diversas formas: excluir, deletar, apagar, remover e cancelar. Afinal, qual a melhor opção? Entendendo o significado das palavras Consultando o 'pai dos burros', o famoso e cada vez menos utilizado &quot;Dicionário&quot;, percebemos que todas elas são sinônimas, isto é, possuem significados semelhantes e com isso, qualquer uma pode ser empregada para representar a ação. Significado de excluir (Michaellis / Google) Significado de deletar (Michaellis / Google) Significado de apagar (Michaellis / Google) Significado de remover (Michaellis / Google) Significado de cancelar (Michaellis / Google) Aprofundando-se no estudo dos significados e etimologias desses termos, em consideração a sua utilização na terminologia tecnológica (para sistemas de informação), podemos simplificar em 3 grupos de significados diferentes: (1) Excluir, deletar, apagar: fazer desaparecer, sumir, extinguir, suprimir; (2) Remover: mover novamente, transportar de um ponto para outro, colocar fora do caminho, afastar; (3) Cancelar: tornar nulo, sem efeito, sem valor, interromper temporariamente ou definitivamente, suspender; Verificando o termo utilizado nos principais sistemas Os sistemas operacionais (SO's) devem ser considerados os melhores exemplos para definirmos a terminologia adequada, visto que, todos a maioria dos usuários para utilizarem seu sistema farão uso antes de um SO. Levando-se em conta portanto os SO's mais utilizados (segundo a Wikipedia), em suas versões mais atuais, temos as seguintes representações:* *as representações da opção &quot;excluir&quot; ao clicar com o botão direito (do mouse) sobre um arquivo em cada Sistema Operacional. Windows: excluir; Linux: mover para a lixeira; Mac OS: mover para o lixo. Examinando alguns dos mais populares sistemas, temos as seguintes utilizações: Excluir: Microsoft Office, Adobe CC, Facebook, Gmail, Messenger, Instagram, Twitter, YouTube, Google Drive; Apagar: WhatsApp, Messenger; Remover: Facebook, Google Drive; Fonte de acesso: (1) Web: Facebook, Dropbox, Gmail, WhatsApp, Twitter, YouTube; (2) Mac OS: Microsoft Office, Adobe CC; (3) iOS: Messenger, Instagram; Aplicações recomendadas Voltando aos 3 grupos de significados descritos no início do artigo (Entendendo o significado das palavras), seguem as aplicações de uso mais recomendadas para cada:</summary></entry></feed>
