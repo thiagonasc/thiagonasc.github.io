@@ -12,7 +12,6 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 
 | <a href="https://www.amazon.com.br/Curva-Segredos-Grandes-Investidores-Aprender/dp/8582850123/ref=as_li_ss_il?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=fora+da+curva&qid=1603069935&sr=8-1&linkCode=li2&tag=thiagonasc-20&linkId=c3f0650619e12518ebd494843ca72a2e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8582850123&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&l=li2&o=33&a=8582850123" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Fora da Curva.**<br>Os segredos dos grandes investidores do Brasil e o que você pode aprender com eles.<br>*Por: (vários autores)*<br><a target="_blank" href="https://amzn.to/37p7wPv">Comprar</a> |
 
-
 ## Lidos
 
 ### 2020:
