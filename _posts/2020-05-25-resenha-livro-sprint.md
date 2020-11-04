@@ -43,4 +43,8 @@ Caso se interesse em aprofundar mais no método, há diversos materiais e ferram
 
 Através de uma leitura leve, o livro **Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias** é uma excelente referência, com exemplos e resultados sólidos aplicados em grandes empresas, cabendo a todos que tenham uma ideia de produto ou mesmo a evolução de um serviço a ser colocado em prática. Já aos que trabalham no desenvolvimento de produtos de software, a leitura se torna obrigatória. É o tipo de livro para ser lido e sempre revisto, já que sua estrutura funciona também como um guia para execução do método. E sobre este, é positivo até quando dá errado, “melhor descobrir em uma semana que depois de meses que seu produto já estiver no mercado e seu dinheiro já tiver ido embora”. 
 
-[Comprar livro na Amazon.](https://amzn.to/2LRY6jv){:target="_blank"}
+<br>
+
+| <a target="_blank"  href="https://www.amazon.com.br/gp/product/8551001523/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8551001523&linkCode=am2&tag=thiagonasc-20&linkId=3af0c3d47023d1da948cf8401174f924"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=BR&ASIN=8551001523&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=thiagonasc-20" ></a><img src="//ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&l=am2&o=33&a=8551001523" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Sprint.**<br>O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias<br>*Por: Jake Knapp, John Zeratsky, Braden Kowitz* <br> <a target="_blank" href="https://www.amazon.com.br/gp/product/8551001523/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8551001523&linkCode=as2&tag=thiagonasc-20&linkId=d35a62c65bd24e83f5aaf5c402e7498f">🛒 Comprar na Amazon</a> |
+
+[» Ver todos os livros e resenhas](/livros)
