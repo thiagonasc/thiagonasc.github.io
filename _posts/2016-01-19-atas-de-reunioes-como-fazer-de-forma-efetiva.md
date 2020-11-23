@@ -13,7 +13,7 @@ img:
  alt:	Homem digitando texto em notebook
 ---
 
-| ⚠️ **Este artigo possui uma atualização:** [Ata de reunião: como fazer de forma efetiva e ágil. (Atualizado!)](ata-de-reuniao-como-fazer-atualizado). *Publicada em 19 de janeiro de 2016.*	
+| ⚠️ **Este artigo possui uma atualização:** [Ata de reunião: como fazer de forma efetiva e ágil. (Atualizado!)](ata-de-reuniao-como-fazer-atualizado). *Publicada em 21 de novembro de 2020.*	
 
 #### Toda reunião deve ser claramente registrada para que os envolvidos fiquem alinhados dos propósitos, definições e afazeres, assegurando assim sua efetividade..
 
@@ -66,4 +66,4 @@ Facilitando o uso das recomendações feitas no artigo, disponibilizo um modelo 
 
 <br>
 
-| ⚠️ **Este artigo possui uma atualização:** [Ata de reunião: como fazer de forma efetiva e ágil. (Atualizado!)](ata-de-reuniao-como-fazer-atualizado). *Publicada em 19 de janeiro de 2016.*	
+| ⚠️ **Este artigo possui uma atualização:** [Ata de reunião: como fazer de forma efetiva e ágil. (Atualizado!)](ata-de-reuniao-como-fazer-atualizado). *Publicada em 21 de novembro de 2020.*	
