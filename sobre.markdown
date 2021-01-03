@@ -4,9 +4,12 @@ title: Sobre
 permalink: /sobre/
 ---
 
-Prazer, Thiago Nascimento.
+Prazer, **Thiago Nascimento**.
 
-Account Manager na [dti digital](http://www.dtidigital.com.br), em Belo Horizonte / MG.
+Transformando ideias em produtos.<br>
+Um eterno apaixonado por interfaces que funcionam e interações que satisfazem.
+
+Innovation Partner em <a href="https://www.youxgroup.com.br/" target="_blank">YouX Group</a>.
 
 Bacharel em Sistemas de Informação pela Universidade Federal de Lavras (UFLA)<br>
 Master Business Administration em Gestão de Projetos pela Universidade de São Paulo (USP/Esqalq)<br>

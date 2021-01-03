@@ -1,0 +1,64 @@
+I"�<h3 id="um-breve-estudo-sobre-omelhortermo-querepresente-a-funcionalidade">Um breve estudo sobre o melhor termo que represente a funcionalidade.</h3>
+
+<p>Uma das operações básicas de qualquer sistema de informação é a funcionalidade de “excluir” um registro, porém, sua nomenclatura é representada comumente de diversas formas: <strong>excluir</strong>, <strong>deletar</strong>, <strong>apagar</strong>, <strong>remover</strong>e<strong>cancelar.</strong></p>
+
+<p>Afinal, qual a melhor opção?</p>
+
+<h2>Entendendo o significado das palavras</h2>
+
+<p><img src="/assets/imgs/usabilidade-botao-excluir/botao-excluir.jpg" alt="Mulher digitando em um computador sobre a mesa e ao lado, uma xícara de chá e um caderno de anotações aberto com uma caneta sobreposta." /></p>
+
+<p>Consultando o ‘pai dos burros’, o famoso <del>e cada vez menos utilizado</del> ”Dicionário”, percebemos que todas elas são sinônimas, isto é, possuem significados semelhantes e com isso, qualquer uma pode ser empregada para representar a ação.</p>
+
+<ul>
+  <li>Excluir: <a href="http://michaelis.uol.com.br/busca?r=0&amp;f=0&amp;t=0&amp;palavra=excluir">Michaellis</a> / <a href="https://www.google.com.br/search?espv=2&amp;q=define%3Aexcluir">Google</a></li>
+  <li>Deletar: <a href="http://michaelis.uol.com.br/busca?r=0&amp;f=0&amp;t=0&amp;palavra=deletar">Michaellis</a> / <a href="https://www.google.com.br/search?espv=2&amp;q=define%3A+deletar">Google</a></li>
+  <li>Apagar: <a href="http://michaelis.uol.com.br/busca?r=0&amp;f=0&amp;t=0&amp;palavra=apagar">Michaellis</a> / <a href="https://www.google.com.br/search?espv=2&amp;q=define%3A+apagar&amp;oq=define">Google</a></li>
+  <li>Remover: <a href="http://michaelis.uol.com.br/busca?r=0&amp;f=0&amp;t=0&amp;palavra=remover">Michaellis</a> / <a href="https://www.google.com.br/search?espv=2&amp;q=define%3Aremover">Google</a></li>
+  <li>Cancelar: <a href="http://michaelis.uol.com.br/busca?r=0&amp;f=0&amp;t=0&amp;palavra=cancelar">Michaellis</a> / <a href="https://www.google.com.br/search?espv=2&amp;q=define%3Acancelar">Google</a></li>
+</ul>
+
+<p>Aprofundando-se no estudo dos significados e etimologias desses termos, em consideração a sua utilização na terminologia tecnológica (para sistemas de informação), podemos simplificar em 3 grupos de significados diferentes:</p>
+
+<ul>
+  <li><strong>(1) Excluir, deletar, apagar:</strong> fazer desaparecer, sumir, extinguir, suprimir;</li>
+  <li><strong>(2) Remover:</strong>mover novamente, transportar de um ponto para outro, colocar fora do caminho, afastar;</li>
+  <li><strong>(3) Cancelar:</strong>tornar nulo, sem efeito, sem valor, interromper temporariamente ou definitivamente, suspender;</li>
+</ul>
+<h2>Verificando o termo utilizado nos principais sistemas</h2>
+
+<p>Os sistemas operacionais (SO’s) devem ser considerados os melhores exemplos para definirmos a terminologia adequada, visto que, <del>todos</del> a maioria dos usuários para utilizarem seu sistema farão uso antes de um SO.</p>
+
+<p>Levando-se em conta portanto os SO’s mais utilizados (segundo a <a href="https://pt.wikipedia.org/wiki/Sistema_operativo">Wikipedia</a>), em suas versões mais atuais, temos as seguintes representações:*</p>
+
+<p><img title="UI do Windows, Linux, Mac OS" src="/assets/imgs/sistemas-operacionais.jpg" alt="Usabilidade: botão excluir registro nos diversos SO's (Windows, Mac OS e Linux)" />
+<em>*as representações da opção “excluir” ao clicar com o botão direito (do mouse) sobre um arquivo em cada Sistema Operacional.</em></p>
+
+<ul>
+  <li><strong>Windows:</strong> excluir;</li>
+  <li><strong>Linux:</strong> mover para a lixeira;</li>
+  <li><strong>Mac OS:</strong> mover para o lixo.</li>
+</ul>
+
+<p>Examinando alguns dos mais populares sistemas, temos as seguintes utilizações:</p>
+
+<ul>
+  <li><strong>Excluir:</strong> Microsoft Office, Adobe CC, Facebook, Gmail, Messenger, Instagram, Twitter, YouTube, Google Drive;</li>
+  <li><strong>Apagar:</strong> WhatsApp, Messenger;</li>
+  <li><strong>Remover:</strong> Facebook, Google Drive;</li>
+</ul>
+
+<p><em><strong>Fonte de acesso:</strong> (1) Web: Facebook, Dropbox, Gmail, WhatsApp, Twitter, YouTube; (2) Mac OS: Microsoft Office, Adobe CC; (3) iOS: Messenger, Instagram;</em></p>
+<h2>Aplicações recomendadas</h2>
+
+<p>Voltando aos 3 grupos de significados descritos no início do artigo (Entendendo o significado das palavras), seguem as aplicações de uso mais recomendadas para cada:</p>
+<ul>
+  <li><strong>(1) Excluir, deletar, apagar:</strong> quando se deseja que determinado dado deixe de existir no sistema.<br /><strong>Exemplo de uso:</strong>excluir um contato telefônico de sua agenda no celular. Após a ação (excluir), o dado não estará mais acessível.* <strong>(2) Remover:</strong> quando se deseja “mover” o dado do local onde está situado, ainda que o mesmo permaneça a existir (de alguma forma) no sistema;<br /><strong>Exemplo de uso: </strong>remover o contato telefônico de um grupo de comunicação no celular. Após a ação, o contato é ‘removido’ do grupo, ou seja, deixa de estar situado no grupo porém o mesmo permanece presente em sua agenda no celular.* <strong>(3) Cancelar:</strong> quando se deseja que o dado não seja mais válido, isto é, sua existência permanece porém não possui mais validade no sistema;<br /><strong>Exemplo de uso: </strong>cancelar pedido realizado em site de compras. Após a execução de cancelamento, o dado (pedido) permanece disponível para acesso/consulta no sistema porém o mesmo não possui mais validade.</li>
+</ul>
+
+<h2>Conclusão</h2>
+
+<p>Os termos <strong>excluir</strong>, <strong>deletar</strong>, <strong>apagar</strong>, <strong>remover</strong>e <strong>cancelar</strong>são sinônimos, portanto a utilização de qualquer um deles deve atingir seu objetivo, porém, prezando pelas boas práticas de experiência do usuário (UX) e usabilidade, levando-se em conta a etimologia dos termos e padrões de uso, recomendo a utilização do termo “<strong>Excluir</strong>” como o mais adequado.</p>
+
+<p>Lembre-se da distinção dos 3 grupos onde <strong>excluir</strong>, <strong>remover</strong>e <strong>cancelar</strong> podem, de forma adequada, representar diferentes ações.</p>
+:ET
