@@ -62,7 +62,8 @@ plugins:
 #####################################################
 
 google_analytics: UA-30680813-1
-google_analytics_ga4: G-258668467
+google_analytics_ga4: G-0T15MRTY12
+
 permalink: /:categories/:title
 
 link:
