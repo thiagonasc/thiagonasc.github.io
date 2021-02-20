@@ -70,6 +70,6 @@ Podemos dizer que o campo **confirmar senha** não é de todo inútil, no entant
 
 ## Referências e leituras complementares
 
-* [Stop Password Masking (Nielsen Norman Group)](https://www.nngroup.com/articles/stop-password-masking/)
-* [Why the confirm password field must die (UX Movement)](https://uxmovement.com/forms/why-the-confirm-password-field-must-die/)
-* [How to stop passwords causing users to abandon your form (Zuko)](https://www.zuko.io/blog/password-advice-for-online-forms)
+* [Stop Password Masking (Nielsen Norman Group)](https://www.nngroup.com/articles/stop-password-masking/){:target="_blank"}
+* [Why the confirm password field must die (UX Movement)](https://uxmovement.com/forms/why-the-confirm-password-field-must-die/){:target="_blank"}
+* [How to stop passwords causing users to abandon your form (Zuko)](https://www.zuko.io/blog/password-advice-for-online-forms){:target="_blank"}
