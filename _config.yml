@@ -23,6 +23,7 @@ email: thiagonasc@gmail.com
 description: "Experiências, estudos e conteúdo interessantes (pessoais e profissionais) sobre gestão e desenvolvimento web."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.thiagonasc.com"
+author: "Thiago Nascimento"
 
 # twitter_username:   thiagonasc
 # github_username:    thiagonasc
@@ -34,6 +35,7 @@ url: "http://www.thiagonasc.com"
 theme: minima
 plugins:
   - jekyll-feed
+rss: rss
 
 # Exclude from processing.
 # The following items will not be processed, by default.

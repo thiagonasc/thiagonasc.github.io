@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Sobre
-permalink: /sobre/
+layout: 	page
+title: 		Sobre
+permalink: 	/sobre/
 ---
 
 Prazer, **Thiago Nascimento**.
