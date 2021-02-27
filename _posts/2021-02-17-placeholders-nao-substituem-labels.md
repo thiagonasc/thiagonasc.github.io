@@ -104,7 +104,7 @@ Alguns exemplos clássicos:
 * ***placeholders*** são exibidos em cinza claro, por padrão, fornecendo contraste insuficiente a muitos usuários com baixa sensibilidade ou acuidade visual;
 * a falta de ***labels*** diminui o espaçamento entre os campos, reduz as áreas de clique e por consequência, dificultam os acessos aos campos corretos.
 
-Há um artigo da *Smashing Magazine* que defende a **não utilização** do ***placeholder*** e explica os motivos em detalhes ([acessar artigo](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)).
+Há um artigo da *Smashing Magazine* que defende a **não utilização** do ***placeholder*** e explica os motivos em detalhes ([acessar artigo](https://www.smashingmagazine.com/2018/06/placeholder-attribute/){:target="_blank"}).
 
 ## Quero simplificar e usar somente um!
 
