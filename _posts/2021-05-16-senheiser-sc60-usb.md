@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Review: Headset Senheiser Impact SC 60, vale a pena?'
-date: 2021-05-15 12:00:00 -03:00
+date: 2021-05-16 14:00:00 -03:00
 type: post
 published: true
 status: publish
