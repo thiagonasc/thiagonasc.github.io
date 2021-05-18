@@ -13,7 +13,7 @@ categories:
 
 ![Conjunto de 5 ícones comumente utilizados em players de música e vídeo: voltar, pausar, stop, play e avançar.](/assets/imgs/botao-stop/botoes-players.jpg)
 
-A maioria de nós lembraremos que praticamente todos os controles remotos físcos contavam minimamente com os botões **Play** (reproduzir) e **Stop** (parar).
+A maioria de nós lembraremos que praticamente todos os controles remotos físicos contavam minimamente com os botões **Play** (reproduzir) e **Stop** (parar).
 
 Ainda neste passado não tão distante *(rs)*, com dispositivos mais analógicos, como as vitrolas que tocavam discos de vinil ou videoscassetes que rodavam fitas VHS, o botão **STOP** era imensamente útil e necessário: era a forma de se desconectar mecanicamente da mídia.
 
@@ -22,7 +22,7 @@ Esse mesmo recurso fora então naturalmente levado para as interfaces digitais, 
 ![Conjunto de 5 ícones comumente utilizados em players de música e vídeo: voltar, pausar, stop, play e avançar.](/assets/imgs/botao-stop/screenshot-player-winamp.jpg)
 *<small>Acima vemos o saudoso **Winamp** e seu botão **stop**, um dos players de música mais populares do passado, lançado em 1997. (Imagem: Softonic)</small>*
 
-No entanto, na era das mídias digitais e *streamings*, a mecânica do **STOP** simplesmente passou a não ter mais grande utilidade. E digo grande pois sua função em si não acabou mas foi inteligentemente substituída.
+No entanto, na era das mídias digitais e *streamings*, a mecânica do **STOP** simplesmente passou a não ter mais grande utilidade. E digo grande, pois sua função em si não acabou mas foi inteligentemente substituída.
 
 Acredito que neste ponto você deva se perguntar, assim como me perguntei: mas afinal, como eu paro uma reprodução?
 

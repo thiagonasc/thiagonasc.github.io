@@ -14,7 +14,7 @@ categories:
 
 ![Thiago Nascimento, autor do site, sentado diante de um computador, utilizando o headset da Senheiser SC-60 enquanto olha para o lado e sorri durante chamada](/assets/imgs/review-headset-senheiser/thiago-nascimento-headset-senheiser.jpg)
 
-Vivendo o novo normal, onde o *home-office* não só se tornou realidade para muitos mas também uma necessidade, quem trabalha constantemente em videoconferências reconhecerá a importância de uma chamada com qualidade.
+Vivendo o novo normal, quando o *home-office* não só se tornou realidade para muitos, mas também uma necessidade, quem trabalha constantemente em videoconferências reconhecerá a importância de uma chamada com qualidade.
 
 Sendo minha realidade, somado ao fato de facilitar constantemente dinâmicas remotas com diversos profissionais, senti a necessidade de aprimorar minhas chamadas.
 
@@ -62,13 +62,13 @@ O controle bem como seus botões são bem construídos, trazendo segurança dura
 
 ![Close nos detalhes da construção do falante, segurado por uma mão e fundo branco](/assets/imgs/review-headset-senheiser/headset-senheiser-sc60-8.jpg)
 
-Não sou especialista em áudio e portanto, as considerações abaixo se resumem a experiências pessoais levantadas durante o uso do *headset*.
+Não sou especialista em áudio e, portanto, as considerações abaixo se resumem a experiências pessoais levantadas durante o uso do *headset*.
 
 É notável o cuidado na equalização dos falantes com agudos e médios bem equilibrados, e graves leves, tornando os diálogos muito prazerosos, com falas bastante nítidas. Ouvir uma boa música também é perfeitamente aceitável. Claro que se comparado à fones mais robustos (voltados para músicas), sentirá a falta de graves mais presentes.
 
 Outro ponto apreciável é o bom "volume" que os falantes entregam (para referência, utilizo normalmente abaixo de 50% do total). Essa característica supre a deficiência no isolamento de sons externos, uma vez que sua estrutura é desenhada para não encobrir (abafar) a orelha.
 
-Ainda sobre os falantes, o *headset* conta com a tecnologia **ActiveGard** que garante proteção contra lesões acústicas causadas por explosões repentinas de som. Esse é o tipo de característica que nem percebemos na maioria do tempo mas ficamos felizes ao saber que estamos protegidos (rs).
+Ainda sobre os falantes, o *headset* conta com a tecnologia **ActiveGard** que garante proteção contra lesões acústicas causadas por explosões repentinas de som. Esse é o tipo de característica que nem percebemos na maioria do tempo, mas ficamos felizes ao saber que estamos protegidos (rs).
 
 O microfone (para mim, o ponto alto do *headset*) conta com uma excelente tecnologia de cancelamento de ruídos, filtrando boa parte dos indesejáveis sons de fundo. Característica importantíssima para a boa qualidade das chamadas.
 
