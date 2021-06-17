@@ -2,6 +2,87 @@
 layout:		page
 title:		Livros
 permalink:	/livros/
+
+livro:
+ 
+ lendo:
+  1:
+   titulo: "Ikigai"
+   subtitulo: "Os cinco passos para encontrar seu propósito de vida e ser mais feliz."
+   autor: "Ken Mogi"
+   url: "https://amzn.to/3zmQkWi"
+   img-asin: "8582467311"
+  2:
+   titulo: "A Startup Enxuta"
+   subtitulo: "Como usar a inovação contínua para criar negócios radicalmente bem-sucedidos."
+   autor: "Eric Ries"
+   url: "https://amzn.to/2ROZg5M"
+   img-asin: "8543108624"
+ lidos-2021:
+  1:
+   titulo: "Simplificando coisas que parecem complicadas"
+   subtitulo: "O guia do tipo faça você mesmo para descobrir e consertar problemas de usabilidade."
+   autor: "Steve Krug"
+   url: "https://amzn.to/3c6JTNZ"
+   img-asin: "8576084511"
+  2:
+   titulo: "Essencialismo"
+   subtitulo: "A busca disciplinada por menos."
+   autor: "Greg McKeown"
+   url: "https://amzn.to/390Fklb"
+   img-asin: "8543102146"
+ 
+ lidos-2020:
+  1:
+   titulo: "Fora da Curva"
+   subtitulo: "Os segredos dos grandes investidores do Brasil e o que você pode aprender com eles."
+   autor: "Vários atores"
+   url: "https://amzn.to/3viGEsz"
+   img-asin: "8582850123"
+  2:
+   titulo: "Trabalhe 4 horas por semana"
+   subtitulo: "Fuja da rotina, viva onde quiser e fique rico."
+   autor: "Timothy Ferriss"
+   url: "https://amzn.to/3wxyIVC"
+   img-asin: "8542211561"
+   resenha: livro-trabalhe-4-horas-por-semana
+  3:
+   titulo: "Sprint a Sprint"
+   subtitulo: "Erros e acertos na transformação cultural de um time ágil."
+   autor: "Mary Provinciatto, Paulo Caroli"
+   url: "https://amzn.to/3pMZsiB"
+   img-asin: "6586660009"
+   resenha: resenha-livro-sprint-a-sprint
+  4:
+   titulo: "Sprint"
+   subtitulo: "O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias."
+   autor: "Jake Knapp, John Zeratsky, Braden Kowitz"
+   url: "https://amzn.to/3gm40JM"
+   img-asin: "8551001523"
+   resenha: resenha-livro-sprint
+  5:
+   titulo: "O poder da inteligência emocional"
+   subtitulo: "Como liderar com sensibilidade e eficiência."
+   autor: "Daniel Goleman, Annie McKee, Richard Boyatzis"
+   url: "https://amzn.to/3pMG9Ws"
+   img-asin: "8547000631"
+
+ lidos-outros:
+  1:
+   titulo: "TED Talks"
+   subtitulo: "O guia oficial do TED para falar em público."
+   autor: "Chris Anderson"
+   url: https://amzn.to/35i2Fxg
+   img-asin: 858057935X
+   resenha: resenha-ted-talks-livro
+
+  # 1:
+  #  titulo: "titulo"
+  #  subtitulo: "subtitulo"
+  #  autor: "autor"
+  #  url: "url"
+  #  img-asin: "asin"
+
 ---
 
 Acompanhe aqui minhas principais leituras em andamento e finalizadas. Alguns deles contam com uma breve resenha publicada no blog (os links estão abaixo).
@@ -10,23 +91,88 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 
 ## Lendo
 
-| <a href="https://www.amazon.com.br/startup-enxuta-Eric-Ries/dp/8543108624?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=startup+enxuta&qid=1613860981&sr=8-1&linkCode=li2&tag=thiagonasc-20&linkId=3fa6e0eee332d2f2ff2fb9227c0cd4c5&language=pt_BR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8543108624&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&language=pt_BR&l=li2&o=33&a=8543108624" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **A Startup Enxuta**<br>Como usar a inovação contínua para criar negócios radicalmente bem-sucedidos.<br>*Por: Eric Ries*<br><a target="_blank" href="https://amzn.to/3dtG06p">Comprar na Amazon</a> |
+<div class="row row-cols-1 row-cols-md-4">
+	{% for livro in page.livro.lendo %}
+	<div class="feature col py-4">
+		<div class="feature-icon">
+			<a href="{{ livro[1].url }}" target="_blank">
+				<img class="rounded" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
+			</a>
+		</div><br>
+		<h5 class="card-title">
+			{{ livro[1].titulo }}<br>
+			<small class="text-muted">{{ livro[1].autor }}</small>
+		</h5>
+		<p>{{ livro[1].subtitulo }}</p>
+		{%- if livro[1].resenha -%}<a href="{{ livro[1].resenha }}" class="icon-link">Ler resenha »</a><br>{%- endif -%}
+		<a href="{{ livro[1].url }}" class="icon-link" target="_blank">Ver na Amazon »</a>
+	</div>
+	{% endfor %}
+</div>
 
 ## Lidos
 
+<br>
+
 ### 2021
 
-| <a href="https://www.amazon.com.br/Simplificando-Coisas-que-Parecem-Complicadas/dp/8576084511/ref=as_li_ss_il?pd_rd_w=tORmh&pf_rd_p=d0535571-aad7-4770-ae2d-9b992292ca3c&pf_rd_r=4Z8BPE5SHAMTF1JZANB1&pd_rd_r=9b5b948f-bf91-4e14-be28-1c6329694608&pd_rd_wg=H3C5m&pd_rd_i=8576084511&psc=1&linkCode=li2&tag=thiagonasc-20&linkId=015f2fc938c479024b6f03a746270204&language=pt_BR" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8576084511&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&language=pt_BR&l=li2&o=33&a=8576084511" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Simplificando coisas que parecem complicadas**<br>O guia do tipo faça você mesmo para descobrir e consertar problemas de usabilidade.<br>*Por: Steve Krug*<br><a target="_blank" href="https://amzn.to/3c6JTNZ">Comprar na Amazon</a> |
-| <a href="https://www.amazon.com.br/Essencialismo-Greg-Mckeown/dp/8543102146/ref=as_li_ss_il?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=essencialismo&qid=1609690634&sr=8-1&linkCode=li2&tag=thiagonasc-20&linkId=7ef68ea5f7eb44db4de953e962286cb0&language=pt_BR" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8543102146&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&language=pt_BR&l=li2&o=33&a=8543102146" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Essencialismo**<br>A busca disciplinada por menos.<br>*Por: Greg McKeown*<br><a target="_blank" href="https://amzn.to/390Fklb">Comprar na Amazon</a> |
+<div class="row row-cols-1 row-cols-md-4">
+	{% for livro in page.livro.lidos-2021 %}
+	<div class="feature col py-4">
+		<div class="feature-icon">
+			<a href="{{ livro[1].url }}" target="_blank">
+				<img class="rounded" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
+			</a>
+		</div><br>
+		<h5 class="card-title">
+			{{ livro[1].titulo }}<br>
+			<small class="text-muted">{{ livro[1].autor }}</small>
+		</h5>
+		<p>{{ livro[1].subtitulo }}</p>
+		{%- if livro[1].resenha -%}<a href="{{ livro[1].resenha }}" class="icon-link">Ler resenha »</a><br>{%- endif -%}
+		<a href="{{ livro[1].url }}" class="icon-link" target="_blank">Ver na Amazon »</a>
+	</div>
+	{% endfor %}
+</div>
 
 ### 2020
 
-| <a href="https://www.amazon.com.br/Curva-Segredos-Grandes-Investidores-Aprender/dp/8582850123/ref=as_li_ss_il?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=fora+da+curva&qid=1603069935&sr=8-1&linkCode=li2&tag=thiagonasc-20&linkId=c3f0650619e12518ebd494843ca72a2e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8582850123&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&l=li2&o=33&a=8582850123" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Fora da Curva**<br>Os segredos dos grandes investidores do Brasil e o que você pode aprender com eles.<br>*Por: (vários autores)*<br><a target="_blank" href="https://amzn.to/37p7wPv">Comprar na Amazon</a> |
-| <a target="_blank"  href="https://www.amazon.com.br/gp/product/8542211561/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8542211561&linkCode=as2&tag=thiagonasc-20&linkId=01bd6447e0adc0c2750f2de0e3490873"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=BR&ASIN=8542211561&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=thiagonasc-20" ></a><img src="//ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&l=am2&o=33&a=8542211561" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Trabalhe 4 horas por semana**<br>Fuja da rotina, viva onde quiser e fique rico.<br>*Por: Timothy Ferriss*<br><a target="_blank" href="https://amzn.to/2YFN9aO">Comprar na Amazon</a> • [Ler resenha](livro-trabalhe-4-horas-por-semana)|
-| <a target="_blank"  href="https://www.amazon.com.br/gp/offer-listing/B087N2LKXB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087N2LKXB&linkCode=am2&tag=thiagonasc-20&linkId=24530f29207c14bd6b67a3d69a33b2d9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=BR&ASIN=B087N2LKXB&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=thiagonasc-20" ></a><img src="//ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&l=am2&o=33&a=B087N2LKXB" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Sprint a Sprint**<br>Erros e acertos na transformação cultural de um time ágil<br>*Por: Mary Provinciatto, Paulo Caroli*<br><a target="_blank" href="https://www.amazon.com.br/gp/product/B087N2LKXB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087N2LKXB&linkCode=as2&tag=thiagonasc-20&linkId=5543007d05c8086cfbcd14677644354e">Comprar na Amazon</a> • [Ler resenha](resenha-livro-sprint-a-sprint)|
-| <a target="_blank"  href="https://www.amazon.com.br/gp/product/8551001523/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8551001523&linkCode=am2&tag=thiagonasc-20&linkId=3af0c3d47023d1da948cf8401174f924"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=BR&ASIN=8551001523&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=thiagonasc-20" ></a><img src="//ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&l=am2&o=33&a=8551001523" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Sprint**<br>O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias<br>*Por: Jake Knapp, John Zeratsky, Braden Kowitz* <br> <a target="_blank" href="https://www.amazon.com.br/gp/product/8551001523/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8551001523&linkCode=as2&tag=thiagonasc-20&linkId=d35a62c65bd24e83f5aaf5c402e7498f">Comprar na Amazon</a> • [Ler resenha](resenha-livro-sprint) |
-| <a target="_blank"  href="https://www.amazon.com.br/gp/offer-listing/B07D3XSVLH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07D3XSVLH&linkCode=am2&tag=thiagonasc-20&linkId=18ca44966ab348c3d9b31237f3f7b1d0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=BR&ASIN=B07D3XSVLH&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=thiagonasc-20" ></a><img src="//ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&l=am2&o=33&a=B07D3XSVLH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **O poder da inteligência emocional**<br>Como liderar com sensibilidade e eficiência <br> *Por: Daniel Goleman, Annie McKee, Richard Boyatzis* <br> <a target="_blank" href="https://www.amazon.com.br/gp/product/B07D3XSVLH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07D3XSVLH&linkCode=as2&tag=thiagonasc-20&linkId=d32b48118f4d458206e425dc58568886">Comprar na Amazon</a> |
+<div class="row row-cols-1 row-cols-md-4">
+	{% for livro in page.livro.lidos-2020 %}
+	<div class="feature col py-4">
+		<div class="feature-icon">
+			<a href="{{ livro[1].url }}" target="_blank">
+				<img class="rounded" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
+			</a>
+		</div><br>
+		<h5 class="card-title">
+			{{ livro[1].titulo }}<br>
+			<small class="text-muted">{{ livro[1].autor }}</small>
+		</h5>
+		<p>{{ livro[1].subtitulo }}</p>
+		{%- if livro[1].resenha -%}<a href="{{ livro[1].resenha }}" class="icon-link">Ler resenha »</a><br>{%- endif -%}
+		<a href="{{ livro[1].url }}" class="icon-link" target="_blank">Ver na Amazon »</a>
+	</div>
+	{% endfor %}
+</div>
 
-### Demais anos:
+### Outros anos
 
-| <a target="_blank"  href="https://www.amazon.com.br/gp/product/858057935X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=858057935X&linkCode=as2&tag=thiagonasc-20&linkId=6ac163b2bec5670cacfd59c255af7bf7"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=BR&ASIN=858057935X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=thiagonasc-20" ></a><img src="//ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&l=am2&o=33&a=858057935X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Ted Talks**<br>O Guia Oficial do Ted Para Falar em Público <br> *Por: Chris Anderson* <br> <a target="_blank" href="https://www.amazon.com.br/gp/product/858057935X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=858057935X&linkCode=as2&tag=thiagonasc-20&linkId=ceb560085dcb14f0a2be8c8e08b35524">Comprar na Amazon</a> • [Ler resenha](resenha-ted-talks-livro) |
+<div class="row row-cols-1 row-cols-md-4">
+	{% for livro in page.livro.lidos-outros %}
+	<div class="feature col py-4">
+		<div class="feature-icon">
+			<a href="{{ livro[1].url }}" target="_blank">
+				<img class="rounded" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
+			</a>
+		</div><br>
+		<h5 class="card-title">
+			{{ livro[1].titulo }}<br>
+			<small class="text-muted">{{ livro[1].autor }}</small>
+		</h5>
+		<p>{{ livro[1].subtitulo }}</p>
+		{%- if livro[1].resenha -%}<a href="{{ livro[1].resenha }}" class="icon-link">Ler resenha »</a><br>{%- endif -%}
+		<a href="{{ livro[1].url }}" class="icon-link" target="_blank">Ver na Amazon »</a>
+	</div>
+	{% endfor %}
+</div>

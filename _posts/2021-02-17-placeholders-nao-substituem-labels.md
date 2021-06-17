@@ -13,7 +13,7 @@ categories:
 
 ## Diferenciando o *placeholder* de um *label* em formulários
 
-![Livro Trabalhe 4 Horas por semana erguido por uma mão](/assets/imgs/placeholder/placeholders-e-labels-demonstracao.jpg)
+![Livro Trabalhe 4 Horas por semana erguido por uma mão](/assets/imgs/placeholder/placeholders-e-labels-demonstracao.jpg){:.img-fluid.rounded}
 
 ***Label**: [elemento]* representa o rótulo ou etiqueta, como em sua tradução literal, de um determinado campo na interface.
 
@@ -27,7 +27,7 @@ Esse detalhe por si só é suficiente para entendermos que **placeholders não s
 
 Imagine você se deparando com a seguinte interface:
 
-![DESCRICAO](/assets/imgs/placeholder/formulario-sem-labels.jpg)
+![DESCRICAO](/assets/imgs/placeholder/formulario-sem-labels.jpg){:.img-fluid.rounded}
 
 **Pergunta:** o <ins>telefone comercial</ins> a ser atualizado se refere à qual dos campos na imagem acima?
 

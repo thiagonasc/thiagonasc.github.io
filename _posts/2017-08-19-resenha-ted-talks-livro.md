@@ -19,9 +19,9 @@ E quando esta ideia precisa ser repassada a um grande público, a tarefa se torn
 
 Chris Anderson, escritor do livro e Presidente do TED, através de uma escrita super agradável, traz fundamentos e técnicas que farão você entender a importância das palavras certas, na quantidade certa e no momento certo! E isto, tenha certeza, fará toda a diferença!
 
-# O livro
+## O livro
 
-![Livro TED Talks sobre uma mesa com um MacBook e uma xícara de café](/assets/imgs/livro-ted-talks-macbook.jpg)
+![Livro TED Talks sobre uma mesa com um MacBook e uma xícara de café](/assets/imgs/livro-ted-talks-macbook.jpg){:.img-fluid.rounded}
 
 Chris Anderson acompanhou diversas conferências TED e reuniu neste livro, de forma magistral, detalhes e dicas preciosas das melhores apresentações.
 
@@ -29,24 +29,24 @@ A leitura é super agradável, simples e objetiva, faz você se sentir em meio a
 
 Um detalhe interessante é que os exemplos de apresentações mencionadas vêm com a referência, possibilitando que você as assista na íntegra pelo YouTube ou no próprio site do TED.
 
-# Afinal, o que é TED?
+## Afinal, o que é TED?
 
 
 Em linhas simples, TED é uma série de conferências destinadas à disseminação de ideias, seja qual for o tema, apresentadas em palestras breves, limitadas à 18 minutos.
 
 O nome TED vem do acrônimo Tecnologia, Entretenimento e Design, temas das primeiras apresentações, que logo, com sucesso do formato, expandiu-se e passou a cobrir qualquer ideia de interesse público.
 
-![Livro TED Talks sobre uma mesa com um MacBook e uma xícara de café](/assets/imgs/ted-palestra.jpg)
+![Livro TED Talks sobre uma mesa com um MacBook e uma xícara de café](/assets/imgs/ted-palestra.jpg){:.img-fluid.rounded}
 
 O que faz o TED, em minha opinião, ser tão especial, é que qualquer ideia que vale a pena ser compartilhada, de uma maneira diferente de amarrar seus sapatos a como sobreviver em um ataque nuclear, em poucos minutos, pode transformar a sua visão de mundo.
 
-# Este livro é realmente para mim?
+## Este livro é realmente para mim?
 
 Embora tenha um foco especial a palestrantes, as técnicas apresentadas servem como guia para qualquer fala em público, seja uma aula, uma apresentação na faculdade, uma exposição de proposta no trabalho, durante a venda de um produto e até mesmo, ainda que inconscientemente, em seu dia a dia.
 
 "Este livro tem um duplo objetivo: primeiro, explicar como se realiza o milagre do ato de falar em público com eficiência; e, segundo, ajudar você a fazê-lo da melhor maneira possível." (pág.9)
 
-# 10 lições importantes retiradas do livro
+## 10 lições importantes retiradas do livro
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/L76Q1SAx5grdIg" width="100%" height="455px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 
@@ -70,7 +70,7 @@ Embora tenha um foco especial a palestrantes, as técnicas apresentadas servem c
 
 10. O importante não é estar certo ou em segurança, mas sobretudo ter uma chance incrível de criar algo capaz de gerar novas ideias.	
 
-# Conclusão
+## Conclusão
 
 O **TED Talks - O guia oficial do TED para falar em público** é um livro recheado de boas técnicas e ideias magistrais para apresentar-se bem e falar com eficácia, itens fundamentais a qualquer pessoa que busca o sucesso! Leitura recomendada!
 

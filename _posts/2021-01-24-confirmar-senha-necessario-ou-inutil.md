@@ -11,7 +11,7 @@ categories:
 
 #### O objetivo essencial do campo **confirmar senha**, utilizado massivamente em formulários de cadastro e redefinição de senha, é garantir que o usuário tenha informado a senha correta evitando problemas em seu acesso.
 
-![Livro Trabalhe 4 Horas por semana erguido por uma mão](/assets/imgs/confirmar-senha/form-confirmar-senha.jpg)
+![Livro Trabalhe 4 Horas por semana erguido por uma mão](/assets/imgs/confirmar-senha/form-confirmar-senha.jpg){:.img-fluid.rounded}
 
 Isso acontece principalmente pelo fato do campo **senha** ser mascarado, isto é, mostrar asteriscos (ou bullets) ao invés dos caracteres reais enquanto o usuário digita.
 
@@ -23,7 +23,7 @@ O campo **confirmar senha** minimiza porém não extingue a possibilidade do usu
 
 Parece estranho à primeira vista mas é fácil entender: com sistemas nos pedindo senhas cada vez mais seguras, combinadno letras, números e caracteres especiais, podemos digitar algo seguindo uma lógica e repeti-la sem perceber que algo foi digitado errado. Fato comum principalmente em celulares onde muitas vezes maiúsculas e minúsculas se alternam no teclado sem percebermos ou mesmo alguma alteração feita pelo próprio corretor ortográfico.
 
-![Livro Trabalhe 4 Horas por semana erguido por uma mão](/assets/imgs/confirmar-senha/form-confirmar-senha-maiusculas.jpg)
+![Livro Trabalhe 4 Horas por semana erguido por uma mão](/assets/imgs/confirmar-senha/form-confirmar-senha-maiusculas.jpg){:.img-fluid.rounded}
 
 _Obs: é comum também vermos formulários que permitem o usuário utilizar comandos de colar (ctrl+v) no campo de confirmação de senha. O que o torna <strike>incoerente</strike> ineficiente, visto que submeter o usuário digitar novamente a senha é ação essencial do campo e parte fundamental da validação._
 
@@ -37,7 +37,7 @@ Sem cadastro, sem senha, sem conversão. **O que não melhora o problema**.
 
 A opção mais defendida por especialistas e também oportunamente mais simples é: **remover o campo confirmar senha** e **adicionar a funcionalidade mostrar senha** no campo primário (senha).
 
-![Livro Trabalhe 4 Horas por semana erguido por uma mão](/assets/imgs/confirmar-senha/form-confirmar-senha-solucao.jpg)
+![Livro Trabalhe 4 Horas por semana erguido por uma mão](/assets/imgs/confirmar-senha/form-confirmar-senha-solucao.jpg){:.img-fluid.rounded}
 
 Algo curioso neste estudo foi perceber que mascarar senhas mais prejudica a usabilidade que necessariamente aumenta a segurança.
 
@@ -65,8 +65,8 @@ Sendo assim, desconsideremos o formato híbrido como uma boa opção.
 
 Podemos dizer que o campo **confirmar senha** não é de todo inútil, no entanto, formulários podem ser mais efetivos sem sua utilização considerando a adição da funcionalidade **mostrar senha** no campo primário (senha).
 
-*Concorda ou discorda de algum ponto do artigo? Contribua!
-<br>Ficarei honrado em receber seu comentário!.*
+*Concorda ou discorda de algum ponto do artigo? Contribua!<br>
+Ficarei honrado em receber seu comentário!.*
 
 ## Referências e leituras complementares
 

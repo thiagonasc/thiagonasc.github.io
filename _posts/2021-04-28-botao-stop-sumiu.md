@@ -11,7 +11,7 @@ categories:
 
 #### Um dos botões mais comuns e utilizados em interfaces no passado se tornou um item extremamente raro, difícil de ser encontrado.
 
-![Conjunto de 5 ícones comumente utilizados em players de música e vídeo: voltar, pausar, stop, play e avançar.](/assets/imgs/botao-stop/botoes-players.jpg)
+![Conjunto de 5 ícones comumente utilizados em players de música e vídeo: voltar, pausar, stop, play e avançar.](/assets/imgs/botao-stop/botoes-players.jpg){:.img-fluid.rounded}
 
 A maioria de nós lembraremos que praticamente todos os controles remotos físicos contavam minimamente com os botões **Play** (reproduzir) e **Stop** (parar).
 
@@ -19,7 +19,7 @@ Ainda neste passado não tão distante *(rs)*, com dispositivos mais analógicos
 
 Esse mesmo recurso fora então naturalmente levado para as interfaces digitais, basta procurar um *printscreen* antigo de qualquer *player* e o encontrará.
 
-![Conjunto de 5 ícones comumente utilizados em players de música e vídeo: voltar, pausar, stop, play e avançar.](/assets/imgs/botao-stop/screenshot-player-winamp.jpg)
+![Conjunto de 5 ícones comumente utilizados em players de música e vídeo: voltar, pausar, stop, play e avançar.](/assets/imgs/botao-stop/screenshot-player-winamp.jpg){:.img-fluid.rounded}
 *<small>Acima vemos o saudoso **Winamp** e seu botão **stop**, um dos players de música mais populares do passado, lançado em 1997. (Imagem: Softonic)</small>*
 
 No entanto, na era das mídias digitais e *streamings*, a mecânica do **STOP** simplesmente passou a não ter mais grande utilidade. E digo grande, pois sua função em si não acabou mas foi inteligentemente substituída.
@@ -32,7 +32,7 @@ O mais curioso é respoder que não mais através do botão **STOP**!
 
 Em uma rápida conferência, podemos constatar que as principais plataformas de música (Spotify, Deezer, YouTube Music, Amazon Music, Apple Music) e vídeo (Netflix, YouTube, Amazon Prime, Disney+, Apple TV+, HBO GO) simplesmente não contam com o botão.
 
-![Conjunto de 5 ícones comumente utilizados em players de música e vídeo: voltar, pausar, stop, play e avançar.](/assets/imgs/botao-stop/interfaces-players.jpg)
+![Conjunto de 5 ícones comumente utilizados em players de música e vídeo: voltar, pausar, stop, play e avançar.](/assets/imgs/botao-stop/interfaces-players.jpg){:.img-fluid.rounded}
 
 A evolução e otimização das interfaces, indo muito além da simplificação, passou a substituir o botão **STOP** pelo simples **voltar** ou mesmo **fechar**. É assim que usamos!
 

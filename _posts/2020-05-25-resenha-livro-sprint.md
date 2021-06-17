@@ -11,10 +11,9 @@ categories:
 
 #### Há uma famosa frase de Albert Einstein que diz: “O maior grau de insanidade mental é querer resultados diferentes fazendo as mesmas coisas” e é com esta mentalidade que devemos nos abrir ao novo, afinal, "modernizar problemas antigos é apenas modernizar, isso não significa inovar”.
 
-![Livro Sprint colocado sobre uma cabeceira de madeira e duas canetas ao lado](/assets/imgs/livro-sprint/livro-sprint-capa.jpg)
+![Livro Sprint colocado sobre uma cabeceira de madeira e duas canetas ao lado](/assets/imgs/livro-sprint/livro-sprint-capa.jpg){:.img-fluid.rounded}
 
 O título do livro **[Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias](https://amzn.to/2LRY6jv){:target="_blank"}** já é auto explicativo, mas em linhas ainda simples, sabe aquela ideia brilhante de um novo produto ou mesmo a evolução de um serviço? Então, por onde exatamente começar?
-
 
 ### A metodologia
 
@@ -29,11 +28,11 @@ No vídeo abaixo, o próprio Jake Knapp resume a metodologia em 90 segundos:
 
 De leitura extremamente simples, o livro é recheado de exemplos reais e bastidores de casos de sucesso que favorecem a imersão e aprendizado. Os capítulos foram divididos através dos dias do sprint, proporcionando uma prazerosa experiência pela linha do tempo,  apreciando a evolução e ainda se encontrando facilmente durante a dinâmica. Ao final, há um robusto checklist com pontos de atenção, materiais e atividades para cada etapa do processo. Com isso, o livro se torna um poderoso guia, muito útil inclusive para consultas logo antes ou durante a prática.
 
-![Livro Sprint aberto ao meio, com uma página à esquerda toda em azul e escrito no centro terça-feira, mostrando o título do capítulo e à direita um resumo do que será abordado](/assets/imgs/livro-sprint/livro-sprint-capitulos.jpg)
+![Livro Sprint aberto ao meio, com uma página à esquerda toda em azul e escrito no centro terça-feira, mostrando o título do capítulo e à direita um resumo do que será abordado](/assets/imgs/livro-sprint/livro-sprint-capitulos.jpg){:.img-fluid.rounded}
 
 Há diversas ilustrações que sintetizam a dinâmica e outras que reproduzem os resultados de casos reais aplicados em grandes empresas. Sobre este último ponto, tanto a versão original (em inglês), quanto a traduzida, trazem diversas representações. Confesso que senti vontade de ver as fotografias reais, talvez não as tenham colocado por questão de legibilidade.
 
-![Livro Sprint aberto ao meio, mostrando diversas ilustrações representando os resultados das dinâmicas aplicadas](/assets/imgs/livro-sprint/livro-sprint-quadros.jpg)
+![Livro Sprint aberto ao meio, mostrando diversas ilustrações representando os resultados das dinâmicas aplicadas](/assets/imgs/livro-sprint/livro-sprint-quadros.jpg){:.img-fluid.rounded}
 
 Tive a oportunidade de participar de diversos Design Sprints e ainda que o autor considere que "com o livro você tem tudo o que precisa, podendo ser um facilitador sem nenhuma experiência", digo categoricamente que para resultados expressivos, nada melhor que a prática! E óbvio, afinal, a prática nos leva ao aperfeiçoamento. Mas digo isso com o intuito de enfatizar que as primeiras experiências podem não ter o resultado esperado, no entanto, a cada dinâmica as atividades passam a fazer mais sentido, o processo se torna mais fluído, conciso e consequentemente, os resultados se tornam mais contundentes.
 
@@ -46,5 +45,7 @@ Através de uma leitura leve, o livro **Sprint - O método usado no Google para 
 <br>
 
 | <a target="_blank"  href="https://www.amazon.com.br/gp/product/8551001523/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8551001523&linkCode=am2&tag=thiagonasc-20&linkId=3af0c3d47023d1da948cf8401174f924"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=BR&ASIN=8551001523&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=thiagonasc-20" ></a><img src="//ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&l=am2&o=33&a=8551001523" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Sprint.**<br>O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias<br>*Por: Jake Knapp, John Zeratsky, Braden Kowitz* <br> <a target="_blank" href="https://www.amazon.com.br/gp/product/8551001523/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8551001523&linkCode=as2&tag=thiagonasc-20&linkId=d35a62c65bd24e83f5aaf5c402e7498f">🛒 Comprar na Amazon</a> |
+
+<br>
 
 [» Ver todos os livros e resenhas](/livros)

@@ -48,7 +48,7 @@ Vou à frente do carro para não errar e a digo pausadamente.
 
 A ligação é encerrada em exatos 3 minutos e 52 segundos.
 
-![Figura dividida ao meio, sendo a primeira metade mostrando o SMS e a segunda uma mão segurando o celular, na página da Porto Seguro aberta para acompanhamento do serviço](/assets/imgs/cx-porto-seguro-auto/cx-porto-seguro-auto-mobile.jpg)
+![Figura dividida ao meio, sendo a primeira metade mostrando o SMS e a segunda uma mão segurando o celular, na página da Porto Seguro aberta para acompanhamento do serviço](/assets/imgs/cx-porto-seguro-auto/cx-porto-seguro-auto-mobile.jpg){:.img-fluid.rounded}
 *À esquerda o SMS recebido com o link e à direita a página qual somos direcionados.*
 
 A previsão inicial de 60 minutos, mostrada na página, logo é ajustada para 30 minutos. À partir de então, funciona similar à um cronômetro, atualizado temporariamente.
@@ -69,7 +69,7 @@ Seu Medeiros começa então a mexer em seu celular, me solicita a senha enviada,
 
 Medeiros então finaliza o procedimento e logo recebo um novo SMS. Dessa vez, o link para visualizar o laudo.
 
-![Figura dividida ao meio, sendo a primeira metade mostrando o SMS e a segunda uma mão segurando o celular com o laudo da assistência aberta](/assets/imgs/cx-porto-seguro-auto/cx-porto-seguro-auto-laudo.jpg)
+![Figura dividida ao meio, sendo a primeira metade mostrando o SMS e a segunda uma mão segurando o celular com o laudo da assistência aberta](/assets/imgs/cx-porto-seguro-auto/cx-porto-seguro-auto-laudo.jpg){:.img-fluid.rounded}
 
 Agradeço-o a presteza e atenção enquanto parte para continuar sua rotina de atendimento.
 

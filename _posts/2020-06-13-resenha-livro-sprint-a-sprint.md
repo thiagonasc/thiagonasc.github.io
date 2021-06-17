@@ -12,7 +12,7 @@ categories:
 
 Numa abordagem enxuta, [Mary Provinciatto](https://www.linkedin.com/in/maryprovinciatto/){:target="_blank"} e [Paulo Caroli](https://www.linkedin.com/in/paulocaroli/){:target="_blank"}, transcrevem as experiências vivenciadas junto a um time de desenvolvimento ágil, do início do projeto à entrega do produto mínimo viável (MVP), literalmente "**Sprint a Sprint**".
 
-![Notebook sobre a mesa com o e-book Sprint a Sprint aberto em sua capa](/assets/imgs/livro-sprint-a-sprint/livro-sprint-a-sprint-capa.jpg)
+![Notebook sobre a mesa com o e-book Sprint a Sprint aberto em sua capa](/assets/imgs/livro-sprint-a-sprint/livro-sprint-a-sprint-capa.jpg){:.img-fluid.rounded}
 
 # O livro
 
@@ -24,7 +24,7 @@ O primeiro é que problemas acontecem em todos os times, mesmo com profissionais
 
 E segundo, porém não menos importante, a leitura reforça ainda mais minha convicção de que organização, boa comunicação e muita transparência é um forte propulsor a bons resultados em times ágeis.
 
-![Notebook sobre a mesa com o e-book Sprint a Sprint aberto em sua capa](/assets/imgs/livro-sprint-a-sprint/livro-sprint-a-sprint-trecho.jpg)
+![Notebook sobre a mesa com o e-book Sprint a Sprint aberto em sua capa](/assets/imgs/livro-sprint-a-sprint/livro-sprint-a-sprint-trecho.jpg){:.img-fluid.rounded}
 Muito interessante ver a atenção e cuidado na comunicação, desde a linguagem utilizada nas mensagens à visibilidade e organização das agendas.
 
 Como curiosidade, Mary Provinciatto conta a história de como surgiu o livro [neste post publicado em seu próprio site](https://maryprovinciatto.com/como-surgiu-o-livro-sprint-a-sprint/){:target="_blank"}.
@@ -55,7 +55,7 @@ Já leu o livro? O que achou? Deixe seu comentário.
 | <a target="_blank"  href="https://www.amazon.com.br/gp/offer-listing/B087N2LKXB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087N2LKXB&linkCode=am2&tag=thiagonasc-20&linkId=24530f29207c14bd6b67a3d69a33b2d9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=BR&ASIN=B087N2LKXB&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=thiagonasc-20" ></a><img src="//ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&l=am2&o=33&a=B087N2LKXB" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Sprint a Sprint.**<br>Erros e acertos na transformação cultural de um time ágil<br>*Por: Mary Provinciatto, Paulo Caroli*<br><a target="_blank" href="https://www.amazon.com.br/gp/product/B087N2LKXB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087N2LKXB&linkCode=as2&tag=thiagonasc-20&linkId=5543007d05c8086cfbcd14677644354e">🛒 Comprar na Amazon</a> |
 
 
-Veja também:
+#### Veja também:
 
 [» Resenha: Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias (Livro)]({% link _posts/2020-05-25-resenha-livro-sprint.md %})
 

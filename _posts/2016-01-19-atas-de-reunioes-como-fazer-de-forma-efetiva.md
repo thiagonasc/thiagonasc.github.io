@@ -13,7 +13,14 @@ img:
  alt:	Homem digitando texto em notebook
 ---
 
-| ⚠️ **Este artigo possui uma atualização:** [Ata de reunião: como fazer de forma efetiva e ágil. (Atualizado!)](ata-de-reuniao-como-fazer-atualizado). *Publicada em 21 de novembro de 2020.*	
+<div class="card">
+  <div class="card-header">
+    ⚠️ <strong>Este artigo possui uma atualização:</strong><br>
+    <a href="{{ ata-de-reuniao-como-fazer-atualizado }}">Ata de reunião: como fazer de forma efetiva e ágil. (Atualizado!)</a>.<br>
+    Publicada em 21 de novembro de 2020.
+  </div>
+</div>
+<br>
 
 #### Toda reunião deve ser claramente registrada para que os envolvidos fiquem alinhados dos propósitos, definições e afazeres, assegurando assim sua efetividade..
 
@@ -36,23 +43,19 @@ Enfim, inúmeras razões óbvias afirmam a importância das atas. Caso ser um bo
 
 Independentemente da reunião, alguns itens são essenciais no cabeçalho de uma ata:
 
-
-  * **Data e hora (ou período): **itens indispensáveis para a organização
-  * **Local:** facilitará a recordação futura
-  * **Pauta:** descrição resumida do que se trata a reunião, facilitando sua identificação
-  * **Envolvidos:** identificação dos presentes com o nome e quando necessário, organização, cargo, email, telefone e outros dados
+* **Data e hora (ou período):** itens indispensáveis para a organização
+* **Local:** facilitará a recordação futura
+* **Pauta:** descrição resumida do que se trata a reunião, facilitando sua identificação
+* **Envolvidos:** identificação dos presentes com o nome e quando necessário, organização, cargo, email, telefone e outros dados
 
 É claro que não existe um modelo mágico perfeito para todas as atas. Cada profissional, área ou até mesmo o próprio objetivo da reunião em si pode fazer com que alterações se façam necessárias.
 
-
 Visando os objetivos principais de uma ata e sua efetividade, utilizo e recomendo a seguinte organização no corpo da ata:
 
-
-  * **Objetivos:** toda reunião deve ser preparada e possuir objetivos para se tornar efetiva, trabalhe portanto os itens que deseja executar na reunião e ao longo da mesma, utilize-os para manter o foco dos envolvidos em sua execução - este é o único item que deve estar obrigatoriamente preparado antes da reunião;
-  * **Acompanhamento:** no decorrer da reunião vários assuntos deverão ser discutidos, apresentações realizadas, arquivos e documentos entregues, é portanto importante que todas essas ações sejam registradas - quando possível, de forma cronológica;
-  * **Definições:** muitas reuniões são realizadas com o objetivo de definições, estas também devem estar adequadamente registradas com o intuito de consolidar tais aos envolvidos e, futuramente, servir de memória para resgate de informações;
-  * **Afazeres:** ao longo da reunião, algumas atividades ainda a serem executadas serão levantadas, e, visando a facilidade no expediente, recomenda-se que sejam relatadas separadamente e quando possível, identificando o responsável e prazo por sua execução.
-
+* **Objetivos:** toda reunião deve ser preparada e possuir objetivos para se tornar efetiva, trabalhe portanto os itens que deseja executar na reunião e ao longo da mesma, utilize-os para manter o foco dos envolvidos em sua execução - este é o único item que deve estar obrigatoriamente preparado antes da reunião;
+* **Acompanhamento:** no decorrer da reunião vários assuntos deverão ser discutidos, apresentações realizadas, arquivos e documentos entregues, é portanto importante que todas essas ações sejam registradas - quando possível, de forma cronológica;
+* **Definições:** muitas reuniões são realizadas com o objetivo de definições, estas também devem estar adequadamente registradas com o intuito de consolidar tais aos envolvidos e, futuramente, servir de memória para resgate de informações;
+* **Afazeres:** ao longo da reunião, algumas atividades ainda a serem executadas serão levantadas, e, visando a facilidade no expediente, recomenda-se que sejam relatadas separadamente e quando possível, identificando o responsável e prazo por sua execução.
 
 <img src="{{ site.baseurl }}/assets/imgs/modelo-exemplo.jpg" alt="Modelo de ata exemplo" />
 
@@ -62,8 +65,12 @@ Importante ressaltar que as considerações levantadas neste artigo são resulta
 
 Facilitando o uso das recomendações feitas no artigo, disponibilizo um modelo de ata a ser utilizado em word e abaixo uma exemplificação de uso da mesma:
 
-<a href="../assets/downloads/ata-reuniao-modelo.docx">Baixar modelo de ata em branco (ata-reuniao-modelo.docx)</a>
+<a class="btn btn-success" href="../assets/downloads/ata-reuniao-modelo.docx">Baixar modelo de ata em branco (ata-reuniao-modelo.docx)</a>
 
-<br>
-
-| ⚠️ **Este artigo possui uma atualização:** [Ata de reunião: como fazer de forma efetiva e ágil. (Atualizado!)](ata-de-reuniao-como-fazer-atualizado). *Publicada em 21 de novembro de 2020.*	
+<div class="card">
+  <div class="card-header">
+    ⚠️ <strong>Este artigo possui uma atualização:</strong><br>
+    <a href="{{ ata-de-reuniao-como-fazer-atualizado }}">Ata de reunião: como fazer de forma efetiva e ágil. (Atualizado!)</a>.<br>
+    Publicada em 21 de novembro de 2020.
+  </div>
+</div>
