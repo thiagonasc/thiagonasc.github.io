@@ -2,17 +2,15 @@
   <div class="container border-top">
     
     <div class="row mt-5">
-      <div class="col-md-4">
-
+      <div class="col-md-6">
         <a class="link-dark text-decoration-none" href="{{ "/" | relative_url }}" aria-label="Bootstrap">
           <span class="fs-4">{{ site.title | escape }}</span>
         </a>
         <p class="text-muted">
           {{- site.description | escape -}}</p>
         </p>
-
       </div>
-      <div class="col-md-3 offset-md-2">
+      <div class="col-md-2 offset-md-1">
         <h5>Site</h5>
         {%- if page_paths -%}
         <ul class="list-unstyled text-small">
@@ -38,10 +36,10 @@
     </div>
 
     <div class="row my-4">
-      <div class="col-6">
+      <div class="col-9">
         <small class="text-muted">&copy; 2013-2021 • Desenvolvido com ♥ utilizando <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> e <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a></small>
       </div>
-      <div class="col-6 text-end">
+      <div class="col-3 text-end">
         <a href="#topo">Voltar ao topo ↑</a>
       </div>
     </div>
