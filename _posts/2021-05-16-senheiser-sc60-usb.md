@@ -12,7 +12,7 @@ categories:
 
 #### Fone de ouvido com microfone para quem exige uma solução de comunicação robusta e profissional: áudio de alta definição, microfone com cancelamento de ruídos e conector USB.
 
-![Thiago Nascimento, autor do site, sentado diante de um computador, utilizando o headset da Senheiser SC-60 enquanto olha para o lado e sorri durante chamada](/assets/imgs/review-headset-senheiser/thiago-nascimento-headset-senheiser.jpg){:.img-fluid.rounded}{:.img-fluid.rounded}
+![Thiago Nascimento, autor do site, sentado diante de um computador, utilizando o headset da Senheiser SC-60 enquanto olha para o lado e sorri durante chamada](/assets/imgs/review-headset-senheiser/thiago-nascimento-headset-senheiser.jpg){:.img-fluid.rounded}
 
 Vivendo o novo normal, quando o *home-office* não só se tornou realidade para muitos, mas também uma necessidade, quem trabalha constantemente em videoconferências reconhecerá a importância de uma chamada com qualidade.
 
