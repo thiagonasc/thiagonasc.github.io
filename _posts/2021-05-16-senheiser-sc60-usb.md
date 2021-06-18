@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Review: Headset Senheiser Impact SC 60, vale a pena?'
+title: 'Review: Headset Sennheiser Impact SC 60, vale a pena?'
 date: 2021-05-16 14:00:00 -03:00
 type: post
 published: true
@@ -12,7 +12,7 @@ categories:
 
 #### Fone de ouvido com microfone para quem exige uma solução de comunicação robusta e profissional: áudio de alta definição, microfone com cancelamento de ruídos e conector USB.
 
-![Thiago Nascimento, autor do site, sentado diante de um computador, utilizando o headset da Senheiser SC-60 enquanto olha para o lado e sorri durante chamada](/assets/imgs/review-headset-senheiser/thiago-nascimento-headset-senheiser.jpg){:.img-fluid.rounded}
+![Thiago Nascimento, autor do site, sentado diante de um computador, utilizando o headset da Sennheiser SC-60 enquanto olha para o lado e sorri durante chamada](/assets/imgs/review-headset-sennheiser/thiago-nascimento-headset-sennheiser.jpg){:.img-fluid.rounded}
 
 Vivendo o novo normal, quando o *home-office* não só se tornou realidade para muitos, mas também uma necessidade, quem trabalha constantemente em videoconferências reconhecerá a importância de uma chamada com qualidade.
 
@@ -20,15 +20,15 @@ Sendo minha realidade, somado ao fato de facilitar constantemente dinâmicas rem
 
 Outro fator decisivo foi que nem sempre estamos em uma sala exclusiva e sozinhos. Seja na empresa ou mesmo em casa, dividiremosem em algum momento o espaço com alguém. E ainda há a possibilidade da outra pessoa também estar em chamada, na maioria dos dias, meu caso!
 
-Assim investi no *headset* **Senheiser Impact SC 60 USB ML**.
+Assim investi no *headset* **Sennheiser Impact SC 60 USB ML**.
 
 E antes que se pergunte, a preferência pelo modelo ao invés de um *headset gamer* (opção mais comum) se deu em razão do objetivo: uso exclusivo para videoconferências. Enquanto os *gamers* primam a qualidade sonora dos jogos, com graves robustos, o modelo em questão enfatiza a experiência de uma conversação limpa, com vozes bem definidas e naturais.
 
 ### Design e Conforto
 
-![Mão segurando o Headset Senheiser SC-60 de frente a um fundo branco](/assets/imgs/review-headset-senheiser/headset-senheiser-sc60-1.jpg){:.img-fluid.rounded}
+![Mão segurando o Headset Sennheiser SC-60 de frente a um fundo branco](/assets/imgs/review-headset-sennheiser/headset-sennheiser-sc60-1.jpg){:.img-fluid.rounded}
 
-Constituído por hastes finas de plástico, o **Senheiser SC-60** pode até parecer frágil, mas basta manuseá-lo para sentir a qualidade e durabilidade do material.
+Constituído por hastes finas de plástico, o **Sennheiser SC-60** pode até parecer frágil, mas basta manuseá-lo para sentir a qualidade e durabilidade do material.
 
 Essa mesma espessura é o que faz seu visual chamar pouca atenção - muito diferente da maioria dos *headsets gamers* - e ser extremamente leve! Característica fundamental para um bom conforto.
 
@@ -38,7 +38,7 @@ Os alto-falantes são levemente inclináveis para um melhor encaixe às orelhas 
 
 Falando em embalagem, esse tipo de equipamento por ser destinado principalmente ao uso corporativo, é distribuído em caixas de papelão cru e um plástico simples envolvendo os itens: *headset*, guia rápido e instruções de segurança. Mesmo formato utilizado em modelos concorrentes como **Plantronics** e **Jabra**.
 
-![Mão segurando a embalagem do Headset Senheiser: um plástico simples envolvendo todos os itens e a frente, um adesivo branco com escritos simples, em preto, com características do produto](/assets/imgs/review-headset-senheiser/headset-senheiser-sc60-6.jpg){:.img-fluid.rounded}
+![Mão segurando a embalagem do Headset Sennheiser: um plástico simples envolvendo todos os itens e a frente, um adesivo branco com escritos simples, em preto, com características do produto](/assets/imgs/review-headset-sennheiser/headset-sennheiser-sc60-6.jpg){:.img-fluid.rounded}
 
 O *headset* pode ser utilizado de ambos os lados uma vez que o microfone é rotacionável, inclusive, não há marcação indicativa entre 'direito' ou 'esquerdo' nos falantes (ainda que a posição original seja utilizar o microfone à esquerda).
 
@@ -46,13 +46,13 @@ O *headset* pode ser utilizado de ambos os lados uma vez que o microfone é rota
 
 O cabo conta com 2,1 metros de extensão e sua conexão é feita através de **USB *Plug and Play***. Como o próprio nome diz, é plugar e usar, simples assim! (rs)
 
-![Headset apoiado sobre uma mesa de madeira, mostrando com bom zoom detalhes do controle e cabo USB](/assets/imgs/review-headset-senheiser/headset-senheiser-sc60-7.jpg){:.img-fluid.rounded}
+![Headset apoiado sobre uma mesa de madeira, mostrando com bom zoom detalhes do controle e cabo USB](/assets/imgs/review-headset-sennheiser/headset-sennheiser-sc60-7.jpg){:.img-fluid.rounded}
 
 O controle de chamadas, integrado ao cabo, conta com **4 botões pré-configurados**:(1) atender/desligar chamada, (2) aumentar volume, (3) abaixar volume, (4) ativar/desativar mudo. Há também **2 leds indicativos** nos botões das extremidades, sendo: (1) verde constante, indicando chamada ativa e (2) vermelho intermitente, indicando microfone mudo.
 
 Vale destacar que o *headset* funciona normalmente como qualquer tradicional fone com microfone, podendo ser utilizado em todas ocasiões. No entanto, os comandos de chamadas como atender e desligar funcionarão especialmente em plataformas de comunicação unificada, uma espécie de protocolo utilizado pelas principais aplicações como Teams, Skype, Zoom, Webex entre outros. Obs: os recursos (mais convencionais) de aumentar e abaixar volume, bem como ativar e desativar mudo, interagem diretamente com o próprio Sistema Operacional.
 
-![Close em mão segurando o controle, mostrando os leads indicativos de chamada (verde) e mudo (vermelho) ligados](/assets/imgs/review-headset-senheiser/headset-senheiser-sc60-5.jpg){:.img-fluid.rounded}
+![Close em mão segurando o controle, mostrando os leads indicativos de chamada (verde) e mudo (vermelho) ligados](/assets/imgs/review-headset-sennheiser/headset-sennheiser-sc60-5.jpg){:.img-fluid.rounded}
 
 Essa última inclusive (ativar/desativar mudo), a quem participa de muitas chamadas, sabe o quanto é irritante ter de acessar a aplicação entre as diversas abertas, encontrar a opção e só então ativar/desativar o mudo. Executar essa mesma ação ao simples clique de um botão físico é simplesmente libertador (e eficiente)!
 
@@ -60,7 +60,7 @@ O controle bem como seus botões são bem construídos, trazendo segurança dura
 
 ### Qualidade do som e microfone (experiência)
 
-![Close nos detalhes da construção do falante, segurado por uma mão e fundo branco](/assets/imgs/review-headset-senheiser/headset-senheiser-sc60-8.jpg){:.img-fluid.rounded}
+![Close nos detalhes da construção do falante, segurado por uma mão e fundo branco](/assets/imgs/review-headset-sennheiser/headset-sennheiser-sc60-8.jpg){:.img-fluid.rounded}
 
 Não sou especialista em áudio e, portanto, as considerações abaixo se resumem a experiências pessoais levantadas durante o uso do *headset*.
 
@@ -72,7 +72,7 @@ Ainda sobre os falantes, o *headset* conta com a tecnologia **ActiveGard** que g
 
 O microfone (para mim, o ponto alto do *headset*) conta com uma excelente tecnologia de cancelamento de ruídos, filtrando boa parte dos indesejáveis sons de fundo. Característica importantíssima para a boa qualidade das chamadas.
 
-![Headset apoiado sobre mesa de madeira, mostrando os detalhes do falante e sua espuma, bem como o microfone levemente erguido](/assets/imgs/review-headset-senheiser/headset-senheiser-sc60-3.jpg){:.img-fluid.rounded}
+![Headset apoiado sobre mesa de madeira, mostrando os detalhes do falante e sua espuma, bem como o microfone levemente erguido](/assets/imgs/review-headset-sennheiser/headset-sennheiser-sc60-3.jpg){:.img-fluid.rounded}
 
 Vale dizer também que a captação é muito bem direcionada, basta distanciar o microfone da boca para que a voz fique distante (bem ao fundo) ou até mesmo inaudível.
 
@@ -90,12 +90,12 @@ Obs: quanto à nitidez da voz, cheguei a receber voluntariamente feedbacks posit
 
 Vale dizer que ao final das primeiras semanas de uso prolongado, senti incômodos na cartilagem da orelha, no entanto, não chegaram a incomodar ao nível de parar de usá-lo. Leves ajustes de reposicionamento foram suficientes.
 
-A **Senheiser** oferece também uma garantia de 2 anos em todos os fones de ouvido, o que traz mais tranquilidade na compra visto o preço.
+A **Sennheiser** oferece também uma garantia de 2 anos em todos os fones de ouvido, o que traz mais tranquilidade na compra visto o preço.
 
-Para quem exige uma solução de comunicação robusta e profissional, o **Headset Senheiser SC-60** vale a pena!
+Para quem exige uma solução de comunicação robusta e profissional, o **Headset Sennheiser SC-60** vale a pena!
 
 * Veja as especificações técnicas através do [site oficial](https://www.eposaudio.com/en/us/enterprise/products/sc-60-usb-ml-headset-1000551#id-66u-tech-specs-36138_6){:target="_blank"}.
-* [🛒 Headset Senheiser Impact SC-60 (ver na Amazon)](https://www.amazon.com.br/Sennheiser-USB-504547-microfone-cancelamento/dp/B00E67UV9S?&linkCode=ll1&tag=thiagonasc-20&linkId=9141f8efdd30bc98e97fbd6101663573&language=pt_BR&ref_=as_li_ss_tl){:target="_blank"}
+* [🛒 Headset Sennheiser Impact SC-60 (ver na Amazon)](https://www.amazon.com.br/Sennheiser-USB-504547-microfone-cancelamento/dp/B00E67UV9S?&linkCode=ll1&tag=thiagonasc-20&linkId=9141f8efdd30bc98e97fbd6101663573&language=pt_BR&ref_=as_li_ss_tl){:target="_blank"}
 
 <hr>
 <p class="small text-muted"><strong>Transparência:</strong> este <em>review</em> não é patrocinado por qualquer empresa ou marca. Foi criado com o objetivo de compartilhar a experiência de uso. O site apenas receberá uma comissão caso você compre através dos links disponíveis e você não pagará nada a mais por isso.</p>
