@@ -94,11 +94,11 @@ A **Sennheiser** oferece também uma garantia de 2 anos em todos os fones de ouv
 
 Para quem exige uma solução de comunicação robusta e profissional, o **Headset Sennheiser SC-60** vale a pena!
 
-* Veja as especificações técnicas através do [site oficial](https://www.eposaudio.com/en/us/enterprise/products/sc-60-usb-ml-headset-1000551#id-66u-tech-specs-36138_6){:target="_blank"}.
-* [🛒 Headset Sennheiser Impact SC-60 (ver na Amazon)](https://www.amazon.com.br/Sennheiser-USB-504547-microfone-cancelamento/dp/B00E67UV9S?&linkCode=ll1&tag=thiagonasc-20&linkId=9141f8efdd30bc98e97fbd6101663573&language=pt_BR&ref_=as_li_ss_tl){:target="_blank"}
+* Especificações Técnicas: [Site Oficial](https://www.eposaudio.com/en/us/enterprise/products/sc-60-usb-ml-headset-1000551#id-66u-tech-specs-36138_6){:target="_blank"}.
+* Comprar na Amazon: [Headset Sennheiser Impact SC-60](https://www.amazon.com.br/Sennheiser-USB-504547-microfone-cancelamento/dp/B00E67UV9S?&linkCode=ll1&tag=thiagonasc-20&linkId=9141f8efdd30bc98e97fbd6101663573&language=pt_BR&ref_=as_li_ss_tl){:target="_blank"}
 
-<hr>
-<p class="small text-muted"><strong>Transparência:</strong> este <em>review</em> não é patrocinado por qualquer empresa ou marca. Foi criado com o objetivo de compartilhar a experiência de uso. O site apenas receberá uma comissão caso você compre através dos links disponíveis e você não pagará nada a mais por isso.</p>
-<hr>
-
+<div class="my-5">
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=thiagonasc-20&language=pt_BR&marketplace=amazon&region=BR&placement=B00E67UV9S&asins=B00E67UV9S&linkId=4c12887ddd7d304581a728517f80b484&show_border=true&link_opens_in_new_window=true"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=thiagonasc-20&language=pt_BR&marketplace=amazon&region=BR&placement=B01K6TU90U&asins=B01K6TU90U&linkId=2034d0a90badea4c2bcee172558ea928&show_border=true&link_opens_in_new_window=true"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=thiagonasc-20&language=pt_BR&marketplace=amazon&region=BR&placement=B0746QVT69&asins=B0746QVT69&linkId=167c81d33eb7d6802b12905f0e6f5273&show_border=true&link_opens_in_new_window=true"></iframe>
+</div>
+
+<p class="my-5 small text-muted"><strong>Transparência:</strong> este <em>review</em> não é patrocinado por qualquer empresa ou marca. Foi criado com o objetivo de compartilhar a experiência de uso. O site apenas receberá uma comissão caso você compre através dos links disponíveis e você não pagará nada a mais por isso.</p>

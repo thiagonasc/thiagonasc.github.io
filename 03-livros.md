@@ -4,7 +4,6 @@ title:		Livros
 permalink:	/livros/
 
 livro:
- 
  lendo:
   1:
    titulo: "Ikigai"
