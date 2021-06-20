@@ -20,7 +20,7 @@ Uma das formas eficazes de se manter a mente tranquila é organizar toda a ‘tr
 
 Quando se tira todo esse peso da cabeça e o coloca em um local de fácil acesso, você libera sua mente para descansar ou até mesmo pensar em novos planos e projetos.
 
-<img src="{{ site.baseurl }}/assets/imgs/mente-limpa.jpg" alt="Representação de uma mente cheia de tralhas e outra vazia, com as tralhas depositadas em um repositório" />
+![Representação de uma mente cheia de tralhas e outra vazia, com as tralhas depositadas em um repositório](/assets/imgs/mente-limpa.jpg){:.img-fluid.rounded}
 
 No início, para guardar essas ‘tralhas de informações’, utilizava o próprio 'Editor de Textos' do Mac ou 'Bloco de Notas' do Windows por sua praticidade - abrir um desses aplicativos não leva um segundo - e facilidade de uso - formatação simples e direta, salvos em arquivos minúsculos de poucos kilobytes.
 
@@ -30,7 +30,7 @@ Como exemplo, imagine que para cada nota de reunião você crie um arquivo txt n
 
 Pois então comecei a busca pelo aplicativo ideal que pudesse me auxiliar no arquivamento e organização de todas essas tralhas. Eis que entra em cena o Evernote.
 
-<img src="{{ site.baseurl }}/assets/imgs/evernote-interface.jpg" alt="Screenshot do Evernote mostrando várias anotações" />
+![Screenshot do Evernote mostrando várias anotações](/assets/imgs/evernote-interface.jpg){:.img-fluid.rounded}
 
 À primeira vista, um aplicativo amigável, que une a praticidade em ser leve, a facilidade de uso por sua formatação simples e o principal - atendendo à demanda - a funcionalidade de manter em um único repositório todas as anotações, de forma organizada e de fácil acesso. Bingo!
 

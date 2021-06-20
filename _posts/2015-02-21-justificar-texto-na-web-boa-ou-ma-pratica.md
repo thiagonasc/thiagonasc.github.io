@@ -21,13 +21,13 @@ Diversas vezes ouço de clientes: “Poderia justificar os textos do site por fa
 
 O texto justificado insere espaçamentos entre as palavras de forma a preencher as colunas de forma homogênea.
 
-<img src="{{ site.baseurl }}/assets/imgs/justificado-1.gif" alt="Imagem comparando texto alinhado à esquerda e justificado."/>
+![Imagem comparando texto alinhado à esquerda e justificado.](/assets/imgs/justificado-1.gif){:.img-fluid.rounded}
 
 ## Quando o texto justificado é uma boa prática?
 
 No caso de impressos, o uso desse ‘recurso’ facilita a organização e legibilidade do material criando grandes blocos visuais de conteúdos.
 
-<img src="{{ site.baseurl }}/assets/imgs/justificado-2.gif" alt="Jornal Folha de São Paulo e Revista Istoé utilizando-se de textos justificados em suas páginas"/>
+![Jornal Folha de São Paulo e Revista Istoé utilizando-se de textos justificados em suas páginas](/assets/imgs/justificado-2.gif){:.img-fluid.rounded}
 
 É importante levar em conta que os softwares para materiais impressos utilizam-se de vários recursos (espaçamento diferente entre as palavras e letras, uso de hífen quebrando as palavras ao meio, balanceamento de fontes mais finas ou largas) que evitam os grandes espaços em branco entre as palavras.
 
@@ -35,7 +35,7 @@ No caso de impressos, o uso desse ‘recurso’ facilita a organização e legib
 
 Nossos olhos se comportam de forma diferente no caso da leitura em sites. Ler em dispositivos digitais, como os monitores de computador, é muito mais difícil e menos cômodo que ler em materiais impressos.
 
-<img src="{{ site.baseurl }}/assets/imgs/justificado-3.gif" alt="Diferença entre a leitura no computador e no papel, utilizando-se do dedo para referenciar."/>
+![Diferença entre a leitura no computador e no papel, utilizando-se do dedo para referenciar.](/assets/imgs/justificado-3.gif){:.img-fluid.rounded}
 
 Na web, seu fluxo de leitura e posicionamento acontece naturalmente com os olhos, você não utiliza o dedo para se posicionar - às vezes nos aproveitamos do ponteiro do mouse, mas ainda assim não é tão efetivo - e por mais que imperceptível, a tela pisca intermitentemente causando desconfortos.
 
@@ -45,7 +45,7 @@ Os grandes blocos uniformes tornam sua tarefa de ir à próxima linha mais difí
 
 As fontes são especialmente desenhadas levando em conta milimetricamente o espaçamento entre as letras e palavras de forma a oferecer uma leitura e um visual agradável. Ao justificar, toda essa 'atenção’ é descartada.
 
-<img src="{{ site.baseurl }}/assets/imgs/anatomy-of-type.jpg" alt="Detalhes da anatomia de uma tipografia"/>
+![Detalhes da anatomia de uma tipografia](/assets/imgs/anatomy-of-type.jpg){:.img-fluid.rounded}
 <em>Imagem: <a href="http://typophile.com/" target="_blank">TypoHile</a></em>
 
 ## Conclusão

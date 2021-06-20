@@ -21,7 +21,8 @@ Nos empenhamos em desenvolver interfaces agradáveis, intuitivas e funcionais. N
 
 A <strong>Acessibilidade Web</strong> permite que pessoas com qualquer tipo de deficiência ou necessidade especial possam utilizar a web sem diferenças, como qualquer outro usuário. Permite que todos possam perceber, entender, navegar, interagir e contribuir para a Web.
 
-<img alt="Acessibilidade: usuário com deficiências físicas sentado em uma cadeira de rodas, utilizando um notebook conectado à internet." src="{{ site.baseurl }}/assets/imgs/acessibilidade-cadeirarodas.jpg"/><em>Foto: Divulgação - Raul Krauthausen</em>
+![Acessibilidade: usuário com deficiências físicas sentado em uma cadeira de rodas, utilizando um notebook conectado à internet.](/assets/imgs/acessibilidade-cadeirarodas.jpg){:.img-fluid.rounded}
+<em>Foto: Divulgação - Raul Krauthausen</em>
 
 São técnicas que definem desde o tipo e cor de fonte utilizada até detalhes minuciosos como textos descritivos de imagens, possibilitando que o cego entenda uma ilustração inserida em um texto, legendas que permitem o surdo interpretar a narração de um vídeo e links facilitados para que um deficiente físico possa acessá-lo sem dificuldades.
 <blockquote>
@@ -33,7 +34,8 @@ São técnicas que definem desde o tipo e cor de fonte utilizada até detalhes m
 
 Estar acessível significa possibilitar seu acesso, estar facilmente ao alcance e isso se refere à mim, à você, à qualquer usuário, independentemente de suas deficiências ou dificuldades.
 
-<img alt="Acessibilidade: criança sorridente em uma biblioteca utilizando um iPad para aprendizado." src="{{ site.baseurl }}/assets/imgs/apple-acessibility2-copy.jpg"/><em>Foto: Divulgação - Apple</em>
+![Acessibilidade: criança sorridente em uma biblioteca utilizando um iPad para aprendizado.](/assets/imgs/apple-acessibility2-copy.jpg){:.img-fluid.rounded}
+<em>Foto: Divulgação - Apple</em>
 
 Significa portanto que acessibilidade é sim para o cego, para o surdo, para o mudo, para o deficiente físico, mas também para uma criança com sua linguagem em desenvolvimento, para um idoso com mobilidade reduzida, para um usuário de óculos com dificuldades de leitura, para um analfabeto e até robôs de busca (sim, seu site é lido por robôs, como o do Google por exemplo, para que possa ser referenciado em motores de pesquisa, isto é, se seu projeto estiver de fato acessível a eles).
 ## Acessibilidade Web para diferentes dispositivos
@@ -42,7 +44,8 @@ Significa portanto que acessibilidade é sim para o cego, para o surdo, para o m
 
 O celular smartphone por exemplo traz a comodidade de ser móvel, pequeno e leve, permitindo que estejamos com ele sempre às mãos e conectados. Ao mesmo tempo, sua tela é menor que a de um computador, a digitação e navegação no dispositivo é geralmente realizada através de toques na tela, dentre outras várias características.
 
-<img alt="Pessoa utilizando um smartphone." src="{{ site.baseurl }}/assets/imgs/smartphone-user.jpg"/>
+![Pessoa utilizando um smartphone.](/assets/imgs/smartphone-user.jpg){:.img-fluid.rounded}
+
 
 Considerar essas diferenças e necessidades é o que torna seu projeto acessível, proporcionando uma boa experiência aos usuários, independentemente do dispositivo utilizado.
 
@@ -54,7 +57,8 @@ Para Web, as tecnologias assistivas abrangem os ampliadores de tela, leitores de
 
 Ao projetar seu site é importante conhecer como essas ferramentas funcionam e como seus usuários as utilizam.
 
-<img alt="Acessibilidade: mulher cega, usando óculos escuros e abraçada a uma bengala utiliza seu smartphone em meio a natureza." src="{{ site.baseurl }}/assets/imgs/apple-acessibility3-copy.jpg"/><em>Foto: Divulgação - Apple</em>
+![Acessibilidade: mulher cega, usando óculos escuros e abraçada a uma bengala utiliza seu smartphone em meio a natureza.](/assets/imgs/apple-acessibility3-copy.jpg){:.img-fluid.rounded}
+<em>Foto: Divulgação - Apple</em>
 
 Um usuário cego, por exemplo, ao navegar utilizando leitores de tela é informado sobre a presença de uma imagem em meio a um texto, mas essa imagem só poderá ser interpretada caso tenha um texto alternativo que a descreva - utilizando técnicas apropriadas.
 ## Conclusão

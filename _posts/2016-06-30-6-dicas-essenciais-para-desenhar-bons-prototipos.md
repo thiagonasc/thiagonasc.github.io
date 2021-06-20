@@ -34,7 +34,7 @@ Os itens básicos e obrigatórios no ambiente para se prototipar são o espaço 
 
 Recomenda-se que tenha uma mesa grande livre para poder espalhar seus materiais, deixando-os visíveis e fáceis de serem manuseados. Outro ponto importante é com este espaço poder espalhar as várias folhas já desenhadas a fim de facilitar a visibilidade dos protótipos.
 
-<img src="{{ site.baseurl }}/assets/imgs/prototipos-mesa.jpg" alt="várias folhas com protótipos desenhados sobre a mesa" />
+![Várias folhas com protótipos desenhados sobre a mesa](/assets/imgs/prototipos-mesa.jpg){:.img-fluid.rounded}
 <em>Crédito: <a href="https://commons.wikimedia.org/wiki/File:Paper_prototype_of_website_user_interface,_2015-04-16.jpg" target="_blank">By Sage Ross (Own work) [CC BY-SA 4.0], via Wikimedia Commons</a></em>
 
 Quando se cria protótipos guiados, isto é, com a ajuda e considerações de outros envolvidos em volta, é bom que tenha-se um ambiente quieto e calmo a fim de facilitar a comunicação e não atrapalhar na criatividade. Porém, caso esteja criando protótipos sozinho, sem a comunicação com outros envolvidos durante o processo, uma boa música de fundo é essencial!
@@ -72,14 +72,13 @@ Utilizo canetas de tinta nanquim e particularmente as recomendo pois os traços 
 Possuo canetas nanquim do tipo profissional recarregável (Desegraph) e descartáveis (Uni). Recomendo fortemente as descartáveis pela praticidade e facilidade de uso.
 ### Materiais complementares
 
-
 <strong>Prancheta:</strong> tenha sempre uma por perto, elas possuem um custo baixíssimo e uma utilidade gigantesca: permitem que você realize seu traçados independentemente da superfície disponível, pois nem sempre temos aquela mesa bacana com espaço livre.
 
 <strong>Régua:</strong> facilita a criação dos traços retilíneos e a divisão simétrica dos elementos no protótipo, como exemplo, os grids estruturais. Lembrando que quanto mais retilíneos e simétricos forem seus traços e elementos, maior será a impressão de fidelidade do protótipo, já traços menos definidos e simétricos, dão a impressão de protótipos de baixa fidelidade. Ambos são importantes e possuem seu valor, o que depende é o objetivo de sua criação e utilização.
 
 <strong>Post-it:</strong> possibilitam o incremento de comentários em protótipos que não possuem mais espaço ou não podem/devem ser poluídos com informações ‘complementares’.
 
-<img src="{{ site.baseurl }}/assets/imgs/prototipos-materiais.jpg" alt="Canetas nankin, canetas coloridas, lápis, borracha, apontador, papel e prancheta sobre uma mesa" />
+![Canetas nankin, canetas coloridas, lápis, borracha, apontador, papel e prancheta sobre uma mesa](/assets/imgs/prototipos-materiais.jpg){:.img-fluid.rounded}
 
 Esses são os materiais que atualmente utilizo para prototipar:
 <ul>
@@ -102,7 +101,7 @@ Delimite a área a ser trabalhada com traços fortes.
 
 Com o intuito de facilitar o entendimento do usuário - do protótipo - e permitir uma melhor comparação com a realidade, o rascunho do dispositivo é altamente recomendado.
 
-<img src="{{ site.baseurl }}/assets/imgs/limites-prototipo.jpg" alt="Vários protótipos desenhados a mão" />
+![Vários protótipos desenhados a mão](/assets/imgs/limites-prototipo.jpg){:.img-fluid.rounded}
 <em>Crédito: <a href="http://raduluchian.com/sketching-the-web/" target="_blank">Radu Luchian - Tools of the trade: Sketching the web</a></em>
 
 Na internet é possível de encontrar diversos modelos e exemplos legais a serem utilizados.
@@ -124,7 +123,7 @@ Portanto, foque na experiência do usuário, isto é, crie seus protótipos pens
 
 Aplique ao máximo seus conhecimentos em usabilidade e acessibilidade. Facilite seu uso!
 
-<img src="{{ site.baseurl }}/assets/imgs/prototipo-experiencia-usuario.jpg" alt="Usuário manuseando protótipos feito a mão" />
+![Usuário manuseando protótipos feito a mão](/assets/imgs/prototipo-experiencia-usuario.jpg){:.img-fluid.rounded}
 <em>Crédito: <a href="http://walker.kim/" target="_blank">Walker Kim</a></em>
 
 ## 5. Inspire-se
@@ -134,7 +133,7 @@ Não é preciso reinventar a roda!
 
 Muitas telas e interações já foram profundamente estudadas por especialistas e aplicadas em inúmeros projetos. Quando elas funcionam bem, não se faz necessário reinventa-las, pelo contrário, aproveite-as em seus protótipos.
 
-<img src="{{ site.baseurl }}/assets/imgs/prototipos-feitos-a-mao.jpg" alt="Protótipos bem desenhados em um caderno e ao lado, caneta, régua e celular." />
+![Protótipos bem desenhados em um caderno e ao lado, caneta, régua e celular.](/assets/imgs/prototipos-feitos-a-mao.jpg){:.img-fluid.rounded}
 <em>Créditos: <a href="http://theguild.jp/" target="_blank">The Guild</a></em>
 
 Se você precisa de uma boa inspiração, encontre-a nos melhores.
@@ -148,7 +147,7 @@ Lembre-se sempre que há uma grande diferença entre se inspirar e copiar uma id
 
 O protótipo é a forma mais rápida e barata de se usar um produto. Este é seu objetivo!
 
-<img src="{{ site.baseurl }}/assets/imgs/experimentando-o-prototipo.jpg" alt="Usuário experimentando protótipo desenhado a mão" />
+![Usuário experimentando protótipo desenhado a mão](/assets/imgs/experimentando-o-prototipo.jpg){:.img-fluid.rounded}
 <em>Crédito: <a href="https://www.youtube.com/watch?v=Car4IlhY3_0" target="_blank">Low fidelity prototype testing of the EE app (The UX Playground / Youtube)</a></em>
 
 Quando criados em papéis, experimentar os protótipos com outros usuários se torna incrivelmente fácil uma vez que você precisa somente de apontar, seja com o dedo ou uma caneta para simular seu uso e colher feedbacks. Existem inclusive técnicas para estudo de usabilidade aplicáveis aos protótipos de papel. Faça bom uso!

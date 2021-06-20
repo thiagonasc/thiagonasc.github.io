@@ -34,7 +34,7 @@ Pois bem, saiba que a chance de falhar é imensa: os dias se passam, novos assun
 
 Importante também considerar a ‘oficialização’ de acordos e prazos, comuns em reuniões, para que posteriormente ambas as partes estejam alinhadas.
 
-<img src="{{ site.baseurl }}/assets/imgs/reuniao-requisitos.jpg" alt="Várias pessoas reunidas em uma mesa discutindo entre si requisitos" />
+![Várias pessoas reunidas em uma mesa discutindo entre si requisitos](/assets/imgs/reuniao-requisitos.jpg){:.img-fluid.rounded}
 
 Enfim, inúmeras razões óbvias afirmam a importância das atas. Caso ser um bom profissional é seu objetivo, independentemente de sua área de atuação, nunca deixe de relatar qualquer reunião e posteriormente alinhar as partes envolvidas.
 
@@ -57,7 +57,7 @@ Visando os objetivos principais de uma ata e sua efetividade, utilizo e recomend
 * **Definições:** muitas reuniões são realizadas com o objetivo de definições, estas também devem estar adequadamente registradas com o intuito de consolidar tais aos envolvidos e, futuramente, servir de memória para resgate de informações;
 * **Afazeres:** ao longo da reunião, algumas atividades ainda a serem executadas serão levantadas, e, visando a facilidade no expediente, recomenda-se que sejam relatadas separadamente e quando possível, identificando o responsável e prazo por sua execução.
 
-<img src="{{ site.baseurl }}/assets/imgs/modelo-exemplo.jpg" alt="Modelo de ata exemplo" />
+![Modelo de ata exemplo](/assets/imgs/modelo-exemplo.jpg){:.img-fluid.rounded}
 
 Importante ressaltar que as considerações levantadas neste artigo são resultados puramente de experiências empíricas, isto é, vivenciadas ao longo do dia-a-dia de meu trabalho.
 

@@ -36,16 +36,14 @@ O evento contou com uma programação extensa e dividida em 4 trilhas por dia, s
 
 Cada participante tinha a liberdade em escolher e participar das palestras que mais lhe interessavam, de acordo com as trilhas e disponibilidade.
 
-
 Haviam também dinâmicas como o interessante FishBowl, onde o público participa ativamente das discussões e compartilha conhecimentos e experiências entre todos os presentes.
-
 
 ## Das palestras que participei, destaco:
 
 ### Design e Agile - Esqueceram de combinar com os russos
 <strong>Palestrantes:</strong> Fabrício Dore (McKinsey) e Paola Mouro (McKinsey)
-	
-<img class="alignnone wp-image-616 size-full" src="{{ site.baseurl }}/assets/imgs/GOPR7478.jpg" alt="Fabrício Dore e Paola Mouro apresentando Design e Agile" />
+
+![Fabrício Dore e Paola Mouro apresentando Design e Agile](/assets/imgs/GOPR7478.jpg){:.img-fluid.rounded}
 	
 Use e abuse de artefatos visuais (user journeys, roadmaps, flowmap, quem é quem) nas salas de criação e desenvolvimento, eles estimulam a criatividade, facilitam o entendimento e geram melhores resultados.
 
@@ -66,7 +64,7 @@ Os níveis de maturidade em relação ao envolvimento do time de designer com o 
 ### Agile & UX - O despertar da força
 <strong>Palestrante:</strong> Giu Vicente (Softexpert)
 			
-<img class="alignnone size-full wp-image-617" src="{{ site.baseurl }}/assets/imgs/IMG_3588.jpg" alt="Giu Vicente e sua apresentação Agile &amp; UX" />
+![Giu Vicente e sua apresentação Agile &amp; UX](/assets/imgs/IMG_3588.jpg){:.img-fluid.rounded}
 
 User Experience Design precisa abranger todos os aspectos de interação entre um produto e as pessoas (seus usuários).
 
@@ -101,7 +99,7 @@ Processo do Diamante Duplo:
 ### Agile em escala é possível
 <strong>Palestrante: </strong>Rodolfo Linhares (IBM)
 
-<img class="alignnone size-full wp-image-618" src="{{ site.baseurl }}/assets/imgs/IMG_3606.jpg" alt="Rodolfo Linhares apresentando Agile em escala é possível" />
+![Rodolfo Linhares apresentando Agile em escala é possível](/assets/imgs/IMG_3606.jpg){:.img-fluid.rounded}
 
 Princípios 'Agile' da IBM: (1) <em>Clarity over certanty</em>, (2) <em>Innovation for everyone over selected few</em>, (3) <em>Course correct over perfection</em>, (4) <em>Talent density over process density</em> e (5) <em>Empowered teams over command &amp; control</em>.
 
@@ -111,7 +109,7 @@ Frase: <em>Find the best team and scale!</em>
 ### Desafios e dificuldades na jornada de adoção do ágil em uma organização de grande porte como o Itaú
 <strong>Palestrante:</strong> Edson Portilho (Itaú) e Cecilio Cosac Fraguas (Itaú)
 
-<img class="alignnone size-full wp-image-619" src="{{ site.baseurl }}/assets/imgs/IMG_3607.jpg" alt="Edson Portilho e Cecilio Cosac apresentando Desafios e dificuldades na jornada de adoção do ágil em uma organização de grande porte como o Itaú" />
+![Edson Portilho e Cecilio Cosac apresentando Desafios e dificuldades na jornada de adoção do ágil em uma organização de grande porte como o Itaú](/assets/imgs/IMG_3607.jpg){:.img-fluid.rounded}
 
 Benefícios de times estáveis: 
 * trabalham por um propósito único
@@ -154,8 +152,7 @@ Não confunda agilidade com velocidade. Não confunda maratona com 100 metros ra
 
 ## Pontos fortes do evento
 
-<p><img class="alignnone size-full wp-image-620" src="{{ site.baseurl }}/assets/imgs/IMG_3583.jpg" alt="Pessoas reunidas na abertura do evento." /></p>
-
+![Pessoas reunidas na abertura do evento.](/assets/imgs/IMG_3583.jpg){:.img-fluid.rounded}
 
 * **Local:** o <a href="http://www.convencoesreboucas.com.br/" target="_blank" rel="noopener noreferrer">Centro de Convenções Rebouças</a> além da excelente infra-estrutura, com salas espaçosas e confortáveis, está localizado no coração de São Paulo, na confluência das avenidas Paulista, Rebouças e Dr. Arnaldo, com fácil acesso via metrô, estando a 300m da estação Clínicas.
 * **Trilhas:** a divisão dos assuntos em trilhas permitiram que os participantes participassem das talks de acordo com seu interesse. Mesmo durante a apresentação, o participante tinha a liberdade em trocar de sala caso optasse por outra trilha.
@@ -164,12 +161,10 @@ Não confunda agilidade com velocidade. Não confunda maratona com 100 metros ra
 
 ##**Pontos a serem melhorados do evento**
 
-
 * **Credenciamento:** mesmo com um contingente relativamente satisfatório empenhados na organização, o atendimento pode ser melhorado. No primeiro dia de evento, já na entrada formou-se uma fila relativamente grande e com baixa vazão. Eu mesmo precisei passar por 3 pessoas até conseguir efetivar meu credenciamento. <em>(Não seria contraditório para um evento de Agile?)</em>
 * **Organização e pontualidade:** algumas apresentações, por razões diversas (em principal, organização) não respeitaram o tempo definido e toda a programação começou a ser comprometida: em vários momentos pode-se perceber participantes que ao tentarem trocar de trilha, não conseguiram realizar a entrada em outra (na maioria por questões de lotação) e não receberam uma assistência da organização. <em>É importante deixar registrado que a organização deu maior atenção à questão no segundo dia, melhorando a pontualidade.</em>
 * **Evento precedente a um feriado:** em razão do feriado na sexta-feira (e por morarmos longe, no interior de MG), vários colegas deixaram de ir e nós, que formos, tivemos de sair mais cedo na quinta-feira a fim de evitar trânsito, o que nos custou abrir mão da <em>Super Keynote </em>(ainda assim levamos boas horas no trânsito até conseguir sair da cidade).
 * **Wi-fi:** não consegui me conectar às redes encontradas e nem encontrei informações sobre "disponibilidade de Wi-Fi". Considerando que estávamos em horário comercial e fora do ambiente de trabalho, uma boa conexão à internet para muitos é necessidade. Claro que a rede móvel salva (3G/4G), mas em eventos relacionados à tecnologia, um bom wi-fi é sempre bem-vindo! #ficaadica</li>
-
 
 ## Conclusão
 

@@ -15,7 +15,8 @@ img:
 
 #### Participar de eventos com profissionais inquietos pela busca do aperfeiçoamento profissional e pessoal é com certeza uma das formas mais eficaz em nos expandir horizontes e mais ricas para absorver e compartilhar experiências.
 
-<p><img alt="Dairton Bassi de frente à plateia fazendo a abertura oficial do evento Agile Trends Gov 2018" src="{{ site.baseurl }}/assets/imgs/agile-trends-gov-2018/dairton-bassi-abertura-oficial.jpg"/><small>Abertura oficial do evento por Dairton Bassi, com a palestra Tendências e Inovação no Mundo Real. Foto: Divulgação.</small></p>
+![Dairton Bassi de frente à plateia fazendo a abertura oficial do evento Agile Trends Gov 2018](/assets/imgs/agile-trends-gov-2018/dairton-bassi-abertura-oficial.jpg){:.img-fluid.rounded}
+<small>Abertura oficial do evento por Dairton Bassi, com a palestra Tendências e Inovação no Mundo Real. Foto: Divulgação.</small>
 
 Realizado durante os dias 21 a 24 de agosto em Brasília (DF), o **Agile Trends Gov 2018**, um dos maiores eventos sobre ágil no Brasil, contou com diversos profissionais renomados, representando órgãos e instituições notáveis, como Agência Nacional da Aviação Civil, Banco do Brasil, Caixa Econômica Federal, IBM, Itamaraty, Ministério Público do Trabalho, Tribunal de Contas da União, Tribunal Superior do Trabalho, Petrobrás, Supremo Tribunal Federal e muitas outras.
 
@@ -24,13 +25,15 @@ Você pode conferir a programação completa através do site oficial: [**www.ag
 
 Este ano tive o grande prazer em participar e mais que isso, compartilhar experiências vivenciadas na Fundação de Desenvolvimento Científico e Cultural (FUNDECC), da Universidade Federal de Lavras (UFLA), através da talk "**[Como entregar mais valor ao cliente utilizando Ordens de Serviço e se mantendo ágil!](https://drive.google.com/file/d/0B6Iw4V_2TOLpRV9kVWNKYTI0ZlFzYWRyVmdlb3lTSlEzSHFR/view?usp=sharing){:target='_blank'}**", uma breve explicação do surgimento ao processo atual utilizado em contratos com os governos estaduais e federal.
 
-<p><img alt="Thiago Nascimento segurando o microfone, com as mãos erguidas, palestrando no Agile Trends Gov 2018" src="{{ site.baseurl }}/assets/imgs/agile-trends-gov-2018/thiago-nascimento-palestrante.jpg"/><small>Palestra: Como entregar mais valor ao cliente utilizando Ordens de Serviço e se mantendo ágil.  Foto: Divulgação.</small></p>
+![Thiago Nascimento segurando o microfone, com as mãos erguidas, palestrando no Agile Trends Gov 2018](/assets/imgs/agile-trends-gov-2018/thiago-nascimento-palestrante.jpg){:.img-fluid.rounded}
+<small>Palestra: Como entregar mais valor ao cliente utilizando Ordens de Serviço e se mantendo ágil.  Foto: Divulgação.</small>
 
 As palestras *(Trend Talks)* eram realizadas em simultâneo no mesmo salão e cada participante, com seu fone de ouvido, sintonizava no assunto de maior interesse ou até mesmo passeava entre as apresentações a fim de experimentar e absorver ao máximo os conteúdos.
 
 De forma extremamente elegante, a organização absorveu as considerações levantadas pelos participantes e agiu, à medida do possível, moldando o evento de forma a agregar mais valor a todos os presentes. Parabéns à organização pelo espírito ágil durante todo o evento!
 
-<p><img alt="Vários participantes, em pequenos grupos, sentados em suas cadeiras discutindo entre si." src="{{ site.baseurl }}/assets/imgs/agile-trends-gov-2018/momento-epic-fail.jpg"/><small>Momento #EpicFail, criado de forma ágil para interação e discussão entre os participantes. Foto: Divulgação.</small></p>
+![Vários participantes, em pequenos grupos, sentados em suas cadeiras discutindo entre si.](/assets/imgs/agile-trends-gov-2018/momento-epic-fail.jpg){:.img-fluid.rounded}
+<small>Momento #EpicFail, criado de forma ágil para interação e discussão entre os participantes. Foto: Divulgação.</small>
 
 Algumas frases e pensamentos notáveis citadas durante o evento que merecem (e muito) o compartilhamento:
 

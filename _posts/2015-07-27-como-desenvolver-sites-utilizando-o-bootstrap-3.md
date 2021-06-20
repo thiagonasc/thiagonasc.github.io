@@ -29,7 +29,7 @@ Mas pare e pense: nada adianta uma página bem desenvolvida se ela não atende o
 
 Portanto se inspire, pense, rabisque, faça <em>brainstorm’s</em>, peça opiniões, enfim, demande tempo... o quanto necessário, pois valerá a pena, pode confiar. ;)
 
-<img src="{{ site.baseurl }}/assets/imgs/site-concepcao-sketch.jpg" alt="Homem rascunhando em papel o desenho de um aplicativo"/>
+![Homem rascunhando em papel o desenho de um aplicativo](/assets/imgs/site-concepcao-sketch.jpg){:.img-fluid.rounded}
 
 <em>Como <strong>exemplo de caso</strong>, desenvolveremos um site com o objetivo de divulgar informações pessoais e profissionais de um indivíduo. A fase de concepção portanto se dá em descobrir quais serão esses dados e quais suas importâncias (para já se ter uma idéia da organização e disposição do conteúdo).</em>
 
@@ -43,7 +43,7 @@ Lembre-se de sempre pensar em grids! O <em><strong>Bootstrap</strong></em> traba
 
 Através de desenhos bem simples (chamados de <em>wireframes</em>) feitos à mão ou no próprio computador, você definirá onde e como ficará cada componente de seu site como o menu de navegação, rodapé, conteúdo e o que mais tiver.
 
-<img src="{{ site.baseurl }}/assets/imgs/wireframe-bootstrap.gif" alt="Imagem mostrando o layout sobrepondo os grids do bootstrap"/>
+![Imagem mostrando o layout sobrepondo os grids do bootstra](/assets/imgs/wireframe-bootstrap.gif){:.img-fluid.rounded}
 
 No <em>wireframe</em> acima é possível perceber a distribuição do conteúdo respeitando o sistema de <em>grids</em> (colunas de contorno azul), dividido em 12 porções iguais.
 
@@ -53,7 +53,7 @@ Em sua forma mais simples de utilização, preparar um ambiente utilizando <stro
 
 Acesse a página oficial do <em>framework</em> (<a href="http://www.getbootstrap.com/" target="_blank">http://www.getbootstrap.com/</a>) e faça o <em>download</em> de sua versão compilada.
 
-<img src="{{ site.baseurl }}/assets/imgs/bootstrap-download.jpg" alt="Seta apontando para o botão de download do Bootstrap" />
+![Seta apontando para o botão de download do Bootstrap](/assets/imgs/bootstrap-download.jpg){:.img-fluid.rounded}
 
 Descompacte o arquivo zip no local desejado e seu ambiente está <strong>pronto</strong>! Simples, não? =D
 
@@ -106,7 +106,7 @@ Nosso <em>layout</em> possui 3 componentes horizontais:
 </em><strong>2. seção principal: </strong><em>section;<br />
 </em><strong>3. rodapé: </strong><em>footer</em>.
 
-<img src="{{ site.baseurl }}/assets/imgs/grid-horizontal.gif" alt="Divisões estruturais da página em divs horizontais" />
+![Divisões estruturais da página em divs horizontais](/assets/imgs/grid-horizontal.gif){:.img-fluid.rounded}
 
 O código a ser inserido dentro do &lt;body&gt;&lt;/body&gt; de nosso arquivo "index.html" para realizar esta separação é bastante simples:
 
@@ -182,7 +182,7 @@ Conforme o desenho do <em>layout</em>, o componente central, definido na estrutu
 
 <strong>2.<em> article </em>(elemento à direita):</strong> elemento principal, onde virão os textos e descrições mais detalhadas.
 
-<img src="{{ site.baseurl }}/assets/imgs/aside-article-2.jpg" alt="Divisão em grids do layout utilizando o bootstrap" />
+![Divisão em grids do layout utilizando o bootstrap](/assets/imgs/aside-article-2.jpg){:.img-fluid.rounded}
 
 <em><strong>Lembrando as regras do sistema de grids:</strong> as colunas devem estar inseridas na &lt;div class="row"&gt;&lt;/div&gt; e a soma das mesmas não podem ultrapassar 12.</em>
 
@@ -303,7 +303,7 @@ O resultado é o seguinte código:
 
 <strong>Resultado final:</strong>
 
-<img src="{{ site.baseurl }}/assets/imgs/screenshot-resultado-final.jpg" alt="Layout final desenvolvido em bootstrap" />
+![Layout final desenvolvido em bootstrap](/assets/imgs/screenshot-resultado-final.jpg){:.img-fluid.rounded}
 
 <a class="btn btn-lg btn-success" href="https://htmlpreview.github.io/?https://github.com/thiagonasc/bootstrap-3-templates/blob/master/index.html" target="_blank" role="button"><span class="glyphicon glyphicon-eye-open"></span> Ver demo</a>
 <a class="btn btn-lg btn-success" href="https://github.com/thiagonasc/bootstrap-3-templates/archive/master.zip" target="_blank" role="button"><span class="glyphicon glyphicon-download-alt"></span> Baixar projeto</a>

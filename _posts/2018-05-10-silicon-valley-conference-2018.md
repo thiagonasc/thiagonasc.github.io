@@ -15,7 +15,7 @@ img:
 
 Representando a [Fundação de Desenvolvimento Científico e Cultural (FUNDECC)](http://www.fundecc.org.br/){:target='_blank'}, da [Universidade Federal de Lavras (UFLA)](http://www.ufla.br/){:target='_blank'}, participei junto à [Francine Hudson](https://www.linkedin.com/in/francinehudson/){:target='_blank'} do [Sillicon Valley Conferece 2018](https://lp.startse.com.br/evento/silicon-valley-conference/){:target='_blank'}, realizado em São Paulo pela [StartSe](https://startse.com/){:target='_blank'}, uma jovem empresa com a missão de ser o melhor integrador e o maior agente econômico do ecossistema brasileiro de Startups.
 
-<img src="{{ site.baseurl }}/assets/imgs/silicon-valley-conference-2018/thiago-nasc-francine-hudson.jpg" alt="Thiago Nascimento e Francine Hudson de frente a balcão da StartSe utilizado no credenciamento dos participantes"/>
+![Thiago Nascimento e Francine Hudson de frente a balcão da StartSe utilizado no credenciamento dos participantes](/assets/imgs/silicon-valley-conference-2018/thiago-nasc-francine-hudson.jpg){:.img-fluid.rounded}
 
 ## O evento
 
@@ -27,7 +27,7 @@ Com organizadores espalhados por todos os cantos, foi extremamente fácil encont
 
 O local dispensa comentários, com capacidade superior a 2 mil pessoas, o Golden Hall do [WTC Events Center](http://www.wtceventscenter.com.br/){:target='_blank'} (São Paulo / SP) dispõe de uma estrutura e arquitetura fantástica, além de ficar estrategicamente localizado em um complexo hoteleiro. Com um palco '360º', quatro enormes telões dispostos logo acima e um som de altíssima qualidade, a sensação de imersão foi incrível!
 
-<img src="{{ site.baseurl }}/assets/imgs/silicon-valley-conference-2018/wtc-hall-sao-paulo.jpg" alt="Estrutura de ferro grande com iluminação colorida, vermelha e azul, um enorme telão sobre os convidados e mais de 2.000 participantes em volta"/>
+![Estrutura de ferro grande com iluminação colorida, vermelha e azul, um enorme telão sobre os convidados e mais de 2.000 participantes em volta](/assets/imgs/silicon-valley-conference-2018/wtc-hall-sao-paulo.jpg){:.img-fluid.rounded}
 
 Os restaurantes do complexo, localizados no Shopping D&D, infelizmente não suportaram a demanda para o almoço e vários participantes optaram (fui um deles) por locais nas proximidades. Infelizmente não tive uma boa experiência já que a maioria dos restaurantes da região fecham aos finais de semana e os abertos, tinham longas filas de espera. O tempo para almoço foi relativamente curto e acabei perdendo parte de uma apresentação.
 
@@ -37,13 +37,13 @@ Os restaurantes do complexo, localizados no Shopping D&D, infelizmente não supo
 
 Sabe quando você percebe paixão pelo que faz? Foi exatamente assim que o Mauricio Benvenutti nos deu boas vindas ao evento e apresentou com maestria como as empresas estão reinventando a forma de usarmos os produtos.
 
-<img src="{{ site.baseurl }}/assets/imgs/silicon-valley-conference-2018/mauricio-benvenutti-startse.jpg" alt="Vários participantes sentados olhando para Mauricio Benvenutti no centro do palco, realizando sua apresentação"/>
+![Vários participantes sentados olhando para Mauricio Benvenutti no centro do palco, realizando sua apresentação](/assets/imgs/silicon-valley-conference-2018/mauricio-benvenutti-startse.jpg){:.img-fluid.rounded}
 
 #### **Mobility**<br><small>Por [Ryan Bethencourt](https://www.linkedin.com/in/bethencourt/){:target='_blank'}, CEO da [Wild Earth](https://www.wildearthpets.com/){:target='_blank'} e Partner da [Babel Ventures](https://www.babel.ventures/){:target='_blank'}</small>
 
 Ryan é um empreendedor de respeito, investidor e inclusive tem como um de seus parceiros o incrível (mito) Jeff Bezos. Ele apresentou seu incrível portfolio de investimentos na área de biotecnologia, as chamadas BioTechs, que pretendem revolucionar nossas vidas. Um exemplo é o [Cue](https://www.babel.ventures/cue){:target='_blank'}, um dispositivo criado para monitorar informações sobre nossa saúde a nível molecular. Atualmente o dispositivo já possibilita, em alguns minutos, monitorar níveis de 5 indicadores: inflamação, vitamina D, fertilidade, gripe e testosterona.
 
-<img src="{{ site.baseurl }}/assets/imgs/silicon-valley-conference-2018/ryan-bethencourt-wild-earth.jpg" alt="Ryan Bethencourt ao centro do palco, de terno claro, explicando sobre a startup Memphis Meat"/>
+![Ryan Bethencourt ao centro do palco, de terno claro, explicando sobre a startup Memphis Meat](/assets/imgs/silicon-valley-conference-2018/ryan-bethencourt-wild-earth.jpg){:.img-fluid.rounded}
 
 #### **Inteligência Artificial (AI)**<br><small>Por [Paul Bommarito](https://www.linkedin.com/in/paulbommarito/){:target='_blank'}, VP da [NVIDIA](http://www.nvidia.com.br/){:target='_blank'}</small>
 
@@ -51,7 +51,7 @@ O vice-presidente da NVIDIA apresentou a Inteligência Artificial como a próxim
 
 Atualmente há processadores capazes de avaliarem mais de 7.000 imagens por segundo. Toda essa tecnologia está por trás de grandes de grandes inovações, tais quais os carros autônomos e vários projetos com Deep Learning, utilizados pelas gigantes Alibaba, Amazon, Google, IBM e Microsoft.
 
-<img src="{{ site.baseurl }}/assets/imgs/silicon-valley-conference-2018/paul-bommarito-nvidia.jpg" alt="Paul Bommarito abaixo do telão com slide falando sobre o cérebro dos carros autônomos"/>
+![Paul Bommarito abaixo do telão com slide falando sobre o cérebro dos carros autônomos](/assets/imgs/silicon-valley-conference-2018/paul-bommarito-nvidia.jpg){:.img-fluid.rounded}
 
 #### **What is innovation for Silicon Valley**<br><small>Por [Cristiano Kruel](https://www.linkedin.com/in/cristianokruel/){:target='_blank'}, head de inovação da [StartSe](http://startse.com/){:target='_blank'}</small>
 
@@ -65,7 +65,7 @@ Resumido em 5 pontos, nos imergimos no Vale do Silício:
 4. Tecnologias mágicas: aposte nas possibilidades do impossível, isto é mágico! O futuro tem se mostrado com Inteligência Artificial, Machine Learning, Deep Learning. Aposte nessas tecnologias como a nova eletricidade!
 5. Educação a vida toda: "educação muda pessoas e pessoas mudam o mundo. Nunca pare de estudar e reinventar!
 
-<img src="{{ site.baseurl }}/assets/imgs/silicon-valley-conference-2018/cristiano-kruel-startse.jpg" alt="Cristiano Kruel no centro do palco apresentando um slide sobre mindset e toolset"/>
+![Cristiano Kruel no centro do palco apresentando um slide sobre mindset e toolset](/assets/imgs/silicon-valley-conference-2018/cristiano-kruel-startse.jpg){:.img-fluid.rounded}
 
 #### **Alumni StartSe e Equipe StartSe**<br><small>Por [Alessandra Morelle](https://www.linkedin.com/in/alessandra-morelle-932a0616/){:target='_blank'}, médica oncologista no [Hopsital Moinhos de Vento](http://www.hospitalmoinhos.org.br/){:target='_blank'} e [Rodrigo Vieira](https://www.linkedin.com/in/rvieira2606/){:target='_blank'}, partner da [Tozzini Freire](http://tozzinifreire.com.br/){:target='_blank'}</small>
 
@@ -75,7 +75,7 @@ Após a imersão, Rodrigo trouxe um novo propósito para a até então, tradicio
 
 Alessandra, médica oncologista, disse que tinha uma inquietação muito grande por acomparanhar os pacientes de uma forma mais ativa no dia a dia. Sempre que comentava sobre esta necessidade era orientada a manter o tradicional modelo de atendimento. Após experienciar o Vale do Silício, por somente uma única semana, mudou sua forma de pensar. Não guardou mais as ideias para si, pelo contrário, resolveu compartilhar e quanto mais se compartilha, mais insights e mais oportunidades. Criou então o aplicativo [Tummi](http://tummi.org/){:target='_blank'} (nome do Deus Inca da medicina) e vem se reinventando a forma de lidar com seus pacientes.
 
-<img src="{{ site.baseurl }}/assets/imgs/silicon-valley-conference-2018/alessandra-morelle-tummi.jpg" alt="Alessandra Morelle de pé explicando sobre seu aplicativo Tummi, enquanto o mesmo é exibido no telão"/>
+![Alessandra Morelle de pé explicando sobre seu aplicativo Tummi, enquanto o mesmo é exibido no telão](/assets/imgs/silicon-valley-conference-2018/alessandra-morelle-tummi.jpg){:.img-fluid.rounded}
 
 #### **Creativity**<br><small>Por [Sally Dominguez](https://www.linkedin.com/in/sallydominguez/){:target='_blank'}, pesquisadora da [Stanford University](https://www.stanford.edu/){:target='_blank'} e fundadora [Adventures Thinking](http://www.adventurousthinking.com/){:target='_blank'}</small>
 
@@ -112,7 +112,7 @@ Plinio nos contou que para o monitoramento, atualmente é necessário fazer um f
 
 Simplesmente fantástico!
 
-<img src="{{ site.baseurl }}/assets/imgs/silicon-valley-conference-2018/plinio-targa-braincare.jpg" alt="Plínio Targa de pé com a cinta na cabeça, exibindo o resultado da medição em tempo real através de seu celular"/>
+![Plínio Targa de pé com a cinta na cabeça, exibindo o resultado da medição em tempo real através de seu celular](/assets/imgs/silicon-valley-conference-2018/plinio-targa-braincare.jpg){:.img-fluid.rounded}
 
 #### **O Futuro do Trabalho**<br><small>Por [Felipe Lamounier](https://www.linkedin.com/in/lamounier/){:target='_blank'}, partner da [StartSe](http://startse.com/){:target='_blank'}</small>
 
@@ -122,7 +122,7 @@ Slide a slide, fomos apresentados aos novos profissionais, máquinas automatizad
 
 Probabilidade dos robôs roubarem o seu trabalho nos prórimos 20 anos:
 
-<figure><img src="{{ site.baseurl }}/assets/imgs/silicon-valley-conference-2018/keynote-probabilidade-robos.jpg" alt="Slide mostrando a probabilidade dos robôs roubarem o seu trabalho nos próximos 20 anos"><figcaption>Crédito: slide retirado da apresentação (Felipe Lamounier / O fuguro do trabalho)</figcaption></figure>
+![Slide mostrando a probabilidade dos robôs roubarem o seu trabalho nos próximos 20 anos"><figcaption>Crédito: slide retirado da apresentação (Felipe Lamounier / O fuguro ]<figure>(/assets/imgs/silicon-valley-conference-2018/keynote-probabilidade-robos.jpg)do trabalho)</figcaption></figure>{:.img-fluid.rounded}
 
 Claro que é estranho saber que nós mesmos estamos criamos máquinas que nos substituirão. E aí nos perguntamos: estamos loucos? Entram-se então pontos que as máquinas possivelmente não serão capazes de nos substituir: fazer com amor, ter empatia, ser criativo e ter pensamento crítico.
 
@@ -132,7 +132,7 @@ O Fórum Econômico Mundial estima que 33% dos empregos de 2020 não existem ain
 
 "Inovação é a habilidade de ver a mudança como uma oportunidade, não como uma ameaça." Steve Jobs
 
-<img src="{{ site.baseurl }}/assets/imgs/silicon-valley-conference-2018/felipe-lamounier-startse.jpg" alt="Felipe Lamounier no centro do palco apresentando o slide que mostra a probabilidade dos robôs roubarem nosso trabalho nos próximos 20 anos"/>
+![Felipe Lamounier no centro do palco apresentando o slide que mostra a probabilidade dos robôs roubarem nosso trabalho nos próximos 20 anos](/assets/imgs/silicon-valley-conference-2018/felipe-lamounier-startse.jpg){:.img-fluid.rounded}
 
 #### **The future of mobility**<br><small>Por [Steven Choi](https://www.linkedin.com/in/choiss/){:target='_blank'}, líder de carros autônomos no [Uber](https://www.uber.com/){:target='_blank'}</small>
 
@@ -144,7 +144,7 @@ Toda a tencologia é testada nos mínimos detalhes e de forma exaustiva para nã
 
 Um momento marcante foi após Steven ressaltar que cada vez mais será comum vermos inovações e tecnologias disruptivas mudando nossa forma de interagir com o mundo e nos provou ao pedir para a platéia levantar a mão quem foi ao evento de ônibus, logo depois, de metrô ou trem, dirigindo o próprio veículo e ao fim, quem foi através de Uber e, neste momento, uma maioria esmagadora levantou a mão, comprovando o que foi dito.
 
-<img src="{{ site.baseurl }}/assets/imgs/silicon-valley-conference-2018/steven-choi-uber.jpg" alt="Steven Choi no centro do palco apresentando slide sobre os carros autônomos do Uber"/>
+![Steven Choi no centro do palco apresentando slide sobre os carros autônomos do Uber](/assets/imgs/silicon-valley-conference-2018/steven-choi-uber.jpg){:.img-fluid.rounded}
 
 #### **Longevity**<br><small>Por [Carolina Oliveira](https://www.linkedin.com/in/carolina-reis-oliveira-a69b8a27/){:target='_blank'}, fundadora e CEO da [OneSkin](https://www.oneskintechnologies.com/){:target='_blank'}</small>
 

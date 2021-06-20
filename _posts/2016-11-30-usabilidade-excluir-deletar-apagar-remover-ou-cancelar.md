@@ -40,7 +40,8 @@ Os sistemas operacionais (SO's) devem ser considerados os melhores exemplos para
 
 Levando-se em conta portanto os SO's mais utilizados (segundo a <a href="https://pt.wikipedia.org/wiki/Sistema_operativo">Wikipedia</a>), em suas versões mais atuais, temos as seguintes representações:*
 
-<img title="UI do Windows, Linux, Mac OS" src="{{ site.baseurl }}/assets/imgs/sistemas-operacionais.jpg" alt="Usabilidade: botão excluir registro nos diversos SO's (Windows, Mac OS e Linux)" />
+![Usabilidade: botão excluir registro nos diversos SO's (Windows, Mac OS e Linux)](/assets/imgs/sistemas-operacionais.jpg){:.img-fluid.rounded}
+
 <em>*as representações da opção "excluir" ao clicar com o botão direito (do mouse) sobre um arquivo em cada Sistema Operacional.</em>
 
 * **Windows:** excluir

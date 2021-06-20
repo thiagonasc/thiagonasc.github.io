@@ -14,6 +14,8 @@ img:
  alt:	Homestation organizada com computador e mesa digitalizadora
 ---
 
+<!-- CONTINUAR -->
+
 Um Web Designer precisa de um ambiente agradável e aconchegante, como um bom home-office, já comentado no artigo <a title="10 Dicas para um bom home-office" href="http://thiagonasc.com/geral/10-dicas-para-um-bom-home-office">10 Dicas para um bom home-office</a> e de alguns equipamentos essenciais para exercer bem sua profissão.
 Vale ressaltar que a lista é apenas um "guia" de coisas que particularmente defino como equipamentos de um Web Designer. Há quem use tudo e mais um pouco, há quem não use metade, não importa. Afinal, o que realmente conta não é o que você usa mas sim o resultado que consegue!
 

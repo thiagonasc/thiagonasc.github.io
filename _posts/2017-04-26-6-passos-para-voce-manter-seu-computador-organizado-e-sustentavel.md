@@ -21,7 +21,7 @@ Manter o computador organizado e sustentável é uma tarefa super simples desde 
 
 O primeiro passo para a sustentabilidade na organização de seus arquivos é ter uma pasta raiz, qual chamo de repositório, para arquivar todos os seus arquivos importantes. Isso significa ter a segurança de que seus arquivos valiosos estarão organizados, acessíveis e facilmente armazenáveis em cópias de segurança.
 
-<img src="{{ site.baseurl }}/assets/imgs/pasta-raiz.jpg" alt="Vários ícones representando pastas ligando-se a um ícone central organizado, representando a pasta raíz." />
+![Vários ícones representando pastas ligando-se a um ícone central organizado, representando a pasta raíz.](/assets/imgs/pasta-raiz.jpg){:.img-fluid.rounded}
 
 Importante: ter um repositório único não significa necessariamente arquivar todos os arquivos de forma desorganizada dentro de uma mesma pasta. Significa que ter uma pasta raíz que se estratifica em diversas pastas de acordo com sua necessidade de organização.
 
@@ -35,7 +35,7 @@ Dentro de sua pasta raíz (repositório), mencionado no item anterior, crie as p
 
 Crie uma estrutura de pastas funcional, de forma que a navegação seja facilmente entendível. Com o tempo verá que ficará até divertido encontrar seus arquivos.
 
-<img src="{{ site.baseurl }}/assets/imgs/organizacao-pastas-exemplo.jpg" alt="Finder (janela) do Mac mostrando a estrutura de pastas robusta e organizada" />
+![Finder (janela) do Mac mostrando a estrutura de pastas robusta e organizada](/assets/imgs/organizacao-pastas-exemplo.jpg){:.img-fluid.rounded}
 
 **Mãos à obra:**
 
@@ -48,13 +48,13 @@ Um dos erros mais comuns e básicos que cometemos é deixar a área de trabalho 
 
 Pense: você é mais focado e produtivo quando seu ambiente de trabalho está limpo e organizado, com cada coisa em seus devidos lugares, ou quando está tudo desorganizado, jogado à sua frente? Pois bem, similar à vida real, nossa área de trabalho deve estar limpa e organizada, evitando distrações, nos mantendo focados em nossos objetivos e resultados.
 
-<img src="{{ site.baseurl }}/assets/imgs/mesa-baguncada-vs-mesa-organizada.jpg" alt="Mesa bagunçada ao lado de uma mesa minimalista e organizada." />
+![Mesa bagunçada ao lado de uma mesa minimalista e organizada.](/assets/imgs/mesa-baguncada-vs-mesa-organizada.jpg){:.img-fluid.rounded}
 
 Particularmente, trato a área de trabalho como uma “mesa real de trabalho”: deixo somente os arquivos que estou trabalhando naquele momento (quando os mesmos ainda não estão organizados em suas devidas pastas dentro de uma estrutura organizada).
 
 Lembre-se: os aplicativos estão facilmente acessíveis através de recursos do próprio sistema operacional, como o antigo menu “Iniciar” do Windows ou o “Spotlight” do Mac OS. Não precisando portanto estarem dispostos em sua área de trabalho.
 
-<img src="{{ site.baseurl }}/assets/imgs/desktop-thiagonasc.jpg" alt="Área de trabalho minimalista, sem nenhum atalho ou arquivo"/>
+![Área de trabalho minimalista, sem nenhum atalho ou arquivo"/>](/assets/imgs/desktop-thiagonasc.jpg){:.img-fluid.rounded}
 
 **Mãos à obra:**
 
@@ -85,7 +85,7 @@ Separe aqueles arquivos mais estratégicos quais precisa acessá-los a qualquer 
 
 Chegou no cinema para comprar o ingresso como estudante (meia-entrada) mas esqueceu sua carteirinha? Já aconteceu com você? Pois é… se seus documentos estiverem na nuvem, isto não é mais um problema!
 
-<img src="{{ site.baseurl }}/assets/imgs/arquivos-na-nuvem.jpg" alt="Mão segurando café e um celular, acessando arquivos na nuvem" />
+![Mão segurando café e um celular, acessando arquivos na nuvem](/assets/imgs/arquivos-na-nuvem.jpg){:.img-fluid.rounded}
 
 Particularmente, digitalizo todos os meus documentos pessoais, de veículos, declarações, certificados (e vários outros) e os armazeno na nuvem. Optei por utilizar o <a href="https://db.tt/46kSo8Ko" target="_blank" rel="noopener noreferrer">Dropbox</a> pela facilidade de uso no computador, na web e em meus dispositivos móveis, como o celular e tablet.
 
@@ -101,7 +101,7 @@ Este item vem por último mas é tão - ou mais - importante quanto todos! Nada 
 
 Muitos acham complexa a atividade de realizar o backup por possuirem arquivos espalhados por todo o computador. Porém, caso esteja utilizando o repositório, como dito no próprio artigo, basta copiar sua pasta raíz para um dispositivo externo (seja um pendrive, HD, DVD ou onde preferir) e pronto!
 
-<img src="{{ site.baseurl }}/assets/imgs/hd-externo.jpg" alt="HD externo ligado ao computador realizando backup" />
+![HD externo ligado ao computador realizando backup](/assets/imgs/hd-externo.jpg){:.img-fluid.rounded}
 
 Sugiro que você procure por soluções mais práticas, como o Time Machine (aplicativo nativo do Mac) que basta plugar um HD externo, realizar uma única vez a configuração e pronto! Todas as vezes que o plugar novamente, ele fará backups de forma automática.
 

@@ -26,7 +26,7 @@ Essa "filosofia" deve ser compartilhada a todos os envolvidos nas reuniões inic
 
 Este alinhamento com o requisitante na etapa inicial do levantamento de requisitos, em geral, deixa-o mais confortável para expor suas necessidades e mais confiante no processo, uma vez que o analista demonstra domínio da atividade e toma para si a responsabilidade da execução.
 
-<img class="alignnone size-full wp-image-537" src="{{ site.baseurl }}/assets/imgs/levantamento-de-requisitos.jpg" alt="Pessoas reunidas para levantamento de requisitos em volta de uma mesa" />
+![Pessoas reunidas para levantamento de requisitos em volta de uma mesa](/assets/imgs/levantamento-de-requisitos.jpg){:.img-fluid.rounded}
 
 É fundamental nesta fase inicial do levantamento de requisitos que o analista conheça a maturidade do requisitante quanto a suas necessidades e anseios. Na maioria das vezes, para não dizer sempre, o requisitante ainda não sabe de fato o que realmente precisa, é neste momento que as habilidades de um bom analista se faz fundamental para o alcance do objetivo inicial: maturar as necessidades.
 
