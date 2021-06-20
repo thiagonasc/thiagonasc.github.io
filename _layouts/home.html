@@ -11,7 +11,7 @@ layout: default
 {%- if site.posts.size > 0 -%}
 <ul class="post-list">
   {%- for post in site.posts -%}
-  <li>
+  <li class="mb-5">
     <span class="post-meta">{% include date.html date=post.date %}</span>
     <h3>
       <a class="post-link" href="{{ post.url | relative_url }}">

@@ -24,11 +24,11 @@ img:
 
 É engraçado como temos receio do novo. Me acostumei a desenvolver sites do zero, desde a primeira linha de código. Achava estranho a ideia de utilizar um <em>framework</em> para <em>front-end</em> até surgir a necessidade de criar e editar constantemente páginas e mais páginas de formulários. Neste cenário cresceu meu desejo de utilizar grids padronizados que facilitassem e agilizassem o desenvolvimento.
 
-Após pesquisas e testes, decidi me aventurar com o <strong>Bootstrap</strong> e digo: vale e muito a pena!
+Após pesquisas e testes, decidi me aventurar com o **Bootstrap** e digo: vale e muito a pena!
 
 ## 1. Apresentação
 
-<img src="{{ site.baseurl }}/assets/imgs/bootstrap-apresentacao.jpg" alt="bootstrap-apresentacao" />
+![bootstrap-apresentacao](/assets/imgs/bootstrap-apresentacao.jpg){:.img-fluid.rounded}
 
 Desenvolvido pela equipe do <a title="Visitar site" href="http://twitter.com/" target="_blank">Twitter</a>, o Bootstrap é um <em>framework</em> <em>front-end</em> de código aberto (<em>opensource</em>). Em palavras simples, é um conjunto de ferramentas criadas para facilitar o desenvolvimento de sites e sistemas web.
 
@@ -51,7 +51,7 @@ Como qualquer outra ferramenta, possui suas vantagens e desvantagens. É import
 
 ## 2. Como funciona
 
-<img src="{{ site.baseurl }}/assets/imgs/bootstrap-estrutura.jpg" alt="bootstrap-estrutura" />
+![bootstrap-estrutura](/assets/imgs/bootstrap-estrutura.jpg){:.img-fluid.rounded}
 
 A estrutura é simples e seu pacote contém três tipos diferentes de arquivos (CSS, JavaScrpipt e Fonts), que vêm devidamente organizados em suas pastas.
 
@@ -62,7 +62,7 @@ O uso efetivo dos grids é fundamental para um bom projeto com o Bootstrap e ent
 
 O sistema de grids possibilita a divisão em até 12 colunas de mesma largura:
 
-<img src="{{ site.baseurl }}/assets/imgs/bootstrap-grid-1.jpg" alt="bootstrap-grid-1" />
+![bootstrap-grid-1](/assets/imgs/bootstrap-grid-1.jpg){:.img-fluid.rounded}
 
 Se você não deseja dividir seu conteúdo, basta usar uma única coluna de largura 12 (Caso 1).
 
@@ -70,23 +70,23 @@ Se você deseja dividir seu conteúdo em 2 partes iguais, de mesma largura, bast
 
 Se você deseja dividir seu conteúdo em 4 partes iguais, de mesma largura, basta criar 4 colunas de largura 4 cada uma (Caso 3).
 
-<img class="alignnone wp-image-279 size-full" src="{{ site.baseurl }}/assets/imgs/bootstrap-grid-22.jpg" alt="bootstrap-grid-2" />
+![bootstrap-grid-2](assets/imgs/bootstrap-grid-22.jpg){:.img-fluid.rounded}
 
 A mesma lógica se segue para qualquer divisão. Portanto se você deseja dividir seu conteúdo em 4 partes diferentes, utilizando larguras diferentes para cada coluna, basta criá-las, cada uma com sua largura específica, de modo que o resultado da soma das larguras seja sempre 12 (exemplos abaixo).
 
-<img src="{{ site.baseurl }}/assets/imgs/bootstrap-grid-21.jpg" alt="bootstrap-grid-2" />
+![bootstrap-grid-2](/assets/imgs/bootstrap-grid-21.jpg){:.img-fluid.rounded}
 
 O uso de grids possibilita mudar o visual de um site ou sistema de maneira fácil e rápida, alterando apenas o valor da largura das colunas.
 
 E o melhor vem agora: as grids são nativamente responsivas! Você pode definir grids diferentes para cada tipo de resolução. Esses comportamentos são definidos através das classes xs (dispositivos muito pequenos), sm (dispositivos pequenos), md (dispositivos médios) e lg (dispositivos grandes).
 
-<img src="{{ site.baseurl }}/assets/imgs/bootstrap-grid-responsive.jpg" alt="bootstrap-grid-responsive" />
+![bootstrap-grid-responsive](/assets/imgs/bootstrap-grid-responsive.jpg){:.img-fluid.rounded}
 
 ## 3. Criando o primeiro projeto
 
-<img src="{{ site.baseurl }}/assets/imgs/bootstrap-projeto.jpg" alt="bootstrap-projeto" />
+![bootstrap-projeto](/assets/imgs/bootstrap-projeto.jpg){:.img-fluid.rounded}
 
-Faça o download da versão compilada do <strong>Bootstrap</strong> no <a title="Visitar site oficial" href="http://getbootstrap.com/" target="_blank">site oficial</a> e descompacte os arquivos para iniciar seu projeto.
+Faça o download da versão compilada do **Bootstrap** no <a title="Visitar site oficial" href="http://getbootstrap.com/" target="_blank">site oficial</a> e descompacte os arquivos para iniciar seu projeto.
 
 Crie um arquivo HTML (na raíz da pasta) utilizando a estrutura básica abaixo:
 
@@ -104,16 +104,16 @@ Bootstrap Template
 
 O código declara o HTML5, carrega os arquivos necessários (CSS + JavaScript) e define uma estrutura básica para o projeto.
 
-Concluído! O <strong>Bootstrap</strong> está configurado e pronto para receber suas linhas!
+Concluído! O **Bootstrap** está configurado e pronto para receber suas linhas!
 
 O site oficial disponibiliza alguns <a title="Visitar templates de exemplo" href="http://getbootstrap.com/getting-started/#examples" target="_blank">templates de exemplo</a> que são bastante úteis, principalmente para quem começa a se aventurar agora.
 
 ## 4. Conclusão
 
-<img src="{{ site.baseurl }}/assets/imgs/bootstrap-produtividade.jpg" alt="bootstrap-produtividade" />
+![bootstrap-produtividade](/assets/imgs/bootstrap-produtividade.jpg){:.img-fluid.rounded}
 
 Altamente recomendado para desenvolvedores inciantes com conhecimento básico em HTML e CSS, desenvolvedores avançados que buscam o aumento da produtividade (utilizando recursos como o sistema de grids) e programadores back-end, o Bootstrap possui recursos e componentes suficientes para desenvolver um site ou sistema web por completo.
 
 Como já dito, há vantagens e desvantagens, indicações e contra-indicações de seu uso, assim como qualquer outro <em>framework</em>. O importante é entender seu funcionamento para saber o momento certo de usá-lo.
 
-Por fim, uma coisa é inegável: <strong>Bootstrap</strong> aumenta sua produtividade de desenvolvimento, tornando fácil a criação e edição de páginas responsivas.
+Por fim, uma coisa é inegável: **Bootstrap** aumenta sua produtividade de desenvolvimento, tornando fácil a criação e edição de páginas responsivas.

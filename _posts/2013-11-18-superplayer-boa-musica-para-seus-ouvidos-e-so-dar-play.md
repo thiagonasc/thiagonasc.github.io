@@ -24,4 +24,4 @@ Com uma interface simples (lembrando muito o visual do novo Windows) e intuitiva
 
 E o melhor: de graça!
 
-<a title="SuperPlayer" href="http://www.superplayer.fm" target="_blank"><img class="alignnone size-full wp-image-156" alt="superplayer" src="{{ site.baseurl }}/assets/imgs/superplayer1.jpg" width="750" height="652" /></a>
+<a title="SuperPlayer" href="http://www.superplayer.fm" target="_blank">![superplayer](/assets/imgs/superplayer1.jpg){:.img-fluid.rounded}</a>
