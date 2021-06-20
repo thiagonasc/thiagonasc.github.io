@@ -7,7 +7,6 @@ published: true
 status: publish
 categories:
 - usabilidade
-tags: []
 ---
 
 ### Um breve estudo sobre o melhor termo que represente a funcionalidade.
