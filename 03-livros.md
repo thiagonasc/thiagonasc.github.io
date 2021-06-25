@@ -5,6 +5,14 @@ permalink:	/livros/
 
 livro:
  lendo:
+  2:
+   titulo: "A Startup Enxuta"
+   subtitulo: "Como usar a inovação contínua para criar negócios radicalmente bem-sucedidos."
+   autor: "Eric Ries"
+   url: "https://amzn.to/2ROZg5M"
+   img-asin: "8543108624"
+
+ lidos-2021:
   1:
    titulo: "Ikigai"
    subtitulo: "Os cinco passos para encontrar seu propósito de vida e ser mais feliz."
@@ -12,19 +20,12 @@ livro:
    url: "https://amzn.to/3zmQkWi"
    img-asin: "8582467311"
   2:
-   titulo: "A Startup Enxuta"
-   subtitulo: "Como usar a inovação contínua para criar negócios radicalmente bem-sucedidos."
-   autor: "Eric Ries"
-   url: "https://amzn.to/2ROZg5M"
-   img-asin: "8543108624"
- lidos-2021:
-  1:
    titulo: "Simplificando coisas que parecem complicadas"
    subtitulo: "O guia do tipo faça você mesmo para descobrir e consertar problemas de usabilidade."
    autor: "Steve Krug"
    url: "https://amzn.to/3c6JTNZ"
    img-asin: "8576084511"
-  2:
+  3:
    titulo: "Essencialismo"
    subtitulo: "A busca disciplinada por menos."
    autor: "Greg McKeown"

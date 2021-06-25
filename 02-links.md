@@ -56,7 +56,29 @@ categorias:
         url:	"https://blush.design/pt/collections"
       - nome:	"Pixabay"
         url:	"https://pixabay.com/"
-
+  - titulo: "Frameworks Front-end"
+    itens:
+      - nome: "Bootstrap"
+        url:  "https://getbootstrap.com/"
+      - nome: "Tailwind CSS"
+        url:  "https://tailwindcss.com/"
+      - nome: "Foundation"
+        url:  "https://get.foundation/"
+      - nome: "Bulma"
+        url:  "https://bulma.io/"
+      - nome: "UIkit"
+        url:  "https://getuikit.com/"
+      - nome: "Materialize"
+        url:  "https://materializecss.com/"
+      - nome: "Element"
+        url:  "https://element.eleme.io/"
+  - titulo: "Outros compilados de links"
+    itens:
+      - nome: "Design Notes"
+        url:  "https://www.designnotes.co/"
+      - nome: "Design Resources"
+        url:  "https://www.designresourc.es/"
+        
 ---
 
 <p>Compartilho aqui links dos sites que mais utilizo para referências e recursos:</p>
