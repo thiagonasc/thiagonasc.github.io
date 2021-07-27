@@ -1,1 +1,0 @@
-https://medium.com/aela/como-placeholders-mal-aplicados-podem-ser-prejudiciais-para-seu-formul%C3%A1rio-bf9ba83d62ff
