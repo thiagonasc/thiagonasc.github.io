@@ -5,6 +5,12 @@ permalink:	/livros/
 
 livro:
  lendo:
+  1:
+   titulo: "Pipeline de Liderança"
+   subtitulo: "O desenvolvimento de líderes como diferencial competitivo."
+   autor: "Ram Charan, Stephen Drotter, James Noel"
+   url: "https://amzn.to/3BKE9DV"
+   img-asin: "8543106052"
   2:
    titulo: "A Startup Enxuta"
    subtitulo: "Como usar a inovação contínua para criar negócios radicalmente bem-sucedidos."
@@ -96,7 +102,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 	<div class="feature col py-4">
 		<div class="feature-icon">
 			<a href="{{ livro[1].url }}" target="_blank">
-				<img class="rounded" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
+				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
 			</a>
 		</div><br>
 		<h5 class="card-title">
@@ -121,7 +127,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 	<div class="feature col py-4">
 		<div class="feature-icon">
 			<a href="{{ livro[1].url }}" target="_blank">
-				<img class="rounded" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
+				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
 			</a>
 		</div><br>
 		<h5 class="card-title">
@@ -142,7 +148,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 	<div class="feature col py-4">
 		<div class="feature-icon">
 			<a href="{{ livro[1].url }}" target="_blank">
-				<img class="rounded" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
+				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
 			</a>
 		</div><br>
 		<h5 class="card-title">
@@ -163,7 +169,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 	<div class="feature col py-4">
 		<div class="feature-icon">
 			<a href="{{ livro[1].url }}" target="_blank">
-				<img class="rounded" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
+				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
 			</a>
 		</div><br>
 		<h5 class="card-title">

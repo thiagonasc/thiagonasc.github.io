@@ -1,6 +1,6 @@
 ---
-layout:		page
-title:		Links
+layout:     page
+title:		  Links
 permalink:	/links/
 
 categorias:
