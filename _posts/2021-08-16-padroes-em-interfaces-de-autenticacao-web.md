@@ -26,7 +26,7 @@ h4 small {
 Interfaces ou telas de autenticação são extremamente comuns em sites e sistemas. Através delas realizamos nossa identificação e entrada. No entanto, é comum encontrarmos diferentes formas de utilização, algumas proporcionando experiências extremamente agradáveis e outras, longe disso!
 
 <blockquote class="blockquote">
-"Usuários passam a maioria do tempo navegando em outros sites."
+	"Usuários passam a maioria do tempo navegando em outros sites."
 </blockquote>
 <blockquote class="blockquote-footer">
 	<cite title="Source Title">Jakob Nielsen</cite>
@@ -36,7 +36,9 @@ A citação acima, de um dos maiores especialsitas em usabilidade da web, pode s
 
 Até aqui, sem grandes novidades ou mistérios. No entanto, quais os melhores elementos e padrões a serem utilizados? Login, nome de usuário, e-mail ou CPF? Senha ou palavra-chave? Entrar ou autenticar? Cadastrar ou inscrever?
 
-<h2 class="my-5 border-bottom">Metodologia</h2>
+<h2 class="my-5 border-bottom">
+	Metodologia
+</h2>
 
 Entenda como foi realizada a pesquisa e quais critérios utilizados:
 
@@ -62,7 +64,9 @@ Ainda sobre a ótica do exemplo anterior, para o campo **senha** foram analisada
 
 Cada site e elemento foi individualmente acessado e todos os dados  captados, inseridos em uma planilha estruturada a fim de facilitar o acesso, leitura e posterior extração das informações.
 
-<h2 class="my-5 border-bottom">Resultados</h2>
+<h2 class="my-5 border-bottom">
+	Resultados
+</h2>
 
 ### Página inicial
 
@@ -77,6 +81,10 @@ Identifica como estão descritas, na página inicial, as <u>chamadas para as aç
 <!-- 28px/dado -->
 
 <div class="my-4" id="grafico1a" style="width:100%; height:400px;"></div>
+
+* **Formulário direto:** considerado quando a página inicial disponibiliza o formulário de autenticação diretamente, sem a necessidade de uma chamada de acesso à funcionalidade;
+
+* **Ícone de usuário:** considerado quando a página inicial disponibiliza um ícone de usuário (imagem representando uma pessoa) para chamada de acesso à funcionalidade.
 
 <h4>
 	Texto utilizado em chamada para <u>autenticar</u>,
@@ -93,6 +101,8 @@ Identifica como estão descritas, na página inicial, as <u>chamadas para as aç
 </h4>
 
 <div class="my-4" id="grafico2a" style="width: 100%; height: 500px;"></div>
+
+* **Não possui / não utiliza:** considerado quando não é disponibilizada uma chamada direta para cadastro na página inicial.
 
 <h4>
 	Texto utilizado em chamada para <u>cadastrar</u>,
@@ -244,7 +254,9 @@ Considera-se a interface propriamente dita para inserção dos dados de autentic
 * Em casos de elementos duplicados, considerou-se a opção mais relevante ao usuário (por visibilidade e/ou acessibilidade);
 * Esta é uma pesquisa proprietária e realizada para publicação primariamente na internet, sendo assim, não foram utilizados critérios acadêmicos;
 
-<h2 class="my-5 border-bottom">Conclusão</h2>
+<h2 class="my-5 border-bottom">
+	Conclusão
+</h2>
 
 É fato que projetistas lidam com algumas incertezas durante a criação de uma interface de autenticação, uma vez que mesmos os grandes sites, como pudemos ver, não utilizam elementos únicos e padronizados.
 
@@ -391,7 +403,7 @@ function drawLoginTipoDado() {
 var data = new google.visualization.arrayToDataTable([
 	['', 'Quantitativo'],
 	['E-mail', 38],
-	['Usuário', 15],
+	['Nome de Usuário', 15],
 	['Telefone/Celular', 10],
 	['CPF/CNPJ', 7],
 	['Outros', 2]
