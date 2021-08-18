@@ -36,6 +36,8 @@ A citação acima, de um dos maiores especialsitas em usabilidade da web, pode s
 
 Até aqui, sem grandes novidades ou mistérios. No entanto, quais os melhores elementos e padrões a serem utilizados? Login, nome de usuário, e-mail ou CPF? Senha ou palavra-chave? Entrar ou autenticar? Cadastrar ou inscrever?
 
+![Animação mostrando uma interface de autenticação com diversos rótulos mudando a cada segundo.](https://cdn.dribbble.com/users/213873/screenshots/16262854/media/01e56d55462771eff4674b6c5630b341.gif){:.img-fluid.rounded}
+
 <h2 class="my-5 border-bottom">
 	Metodologia
 </h2>
@@ -64,9 +66,11 @@ Ainda sobre a ótica do exemplo anterior, para o campo **senha** foram analisada
 
 Cada site e elemento foi individualmente acessado e todos os dados  captados, inseridos em uma planilha estruturada a fim de facilitar o acesso, leitura e posterior extração das informações.
 
-<h2 class="my-5 border-bottom">
+<h2 class="mt-5 border-bottom">
 	Resultados
 </h2>
+
+<br>
 
 ### Formulário de autenticação
 
@@ -74,6 +78,7 @@ Considera-se a interface propriamente dita para inserção dos dados de autentic
 
 * **Usuário:** forma de identificação do usuário, também conhecida como login, podendo ser utilizado de diversas formas;
 * **Senha:** combinação de caracteres secreta utilizada como sinal de reconhecimento e validação do login.
+
 
 <h4>
 	Texto utilizado para identificação do campo <u>usuário</u>,
@@ -87,7 +92,7 @@ Considera-se a interface propriamente dita para inserção dos dados de autentic
 
 <h4>
 	Tipo de dado solicitado para identificação do <u>usuário</u>,
-	presente na interface de autenticação<br>
+	presente no formulário de autenticação<br>
 	<small>Resultado individual</small>
 </h4>
 
@@ -95,7 +100,7 @@ Considera-se a interface propriamente dita para inserção dos dados de autentic
 
 <h4>
 	Tipo de dado solicitado para identificação do <u>usuário</u>,
-	presente na interface de autenticação<br>
+	presente no formulário de autenticação<br>
 	<small>Resultado combinado/agregado</small>
 </h4>
 
@@ -107,7 +112,7 @@ Considera-se a interface propriamente dita para inserção dos dados de autentic
 
 <h4>
 	Texto utilizado para identificação do campo <u>senha</u>,
-	presente na interface de autenticação<br>
+	presente no formulário de autenticação<br>
 	<small>Resultado individual</small>
 </h4>
 
@@ -116,8 +121,8 @@ Considera-se a interface propriamente dita para inserção dos dados de autentic
 <div class="my-4" id="grafico6" style="width: 100%; height: 200px;"></div>
 
 <h4>
-	Forma utilizada para acionar recurso de exibição dos caracteres inseridos no campo <u>senha</u>,
-	presente na interface de autenticação<br>
+	Recurso utilizado para exibir os caracteres inseridos no campo <u>senha</u>,
+	presente no formulário de autenticação<br>
 	<small>Resultado individual</small>
 </h4>
 
@@ -126,14 +131,16 @@ Considera-se a interface propriamente dita para inserção dos dados de autentic
 <br>
 
 <h4>
-	Texto utilizado para a ação de <u>autenticar</u>, presente na interface de autenticação<br>
+	Texto utilizado para identificação da ação <u>autenticar</u>,
+	presente na interface de autenticação<br>
 	<small>Resultado individual</small>
 </h4>
 
 <div class="my-4" id="grafico8" style="width: 100%; height: 300px;"></div>
 
 <h4>
-	Cor predominante utilizada no botão de <u>autenticar</u>, presente na interface de autenticação<br>
+	Cor predominante utilizada no botão de <u>autenticar</u>,
+	presente na interface de autenticação<br>
 	<small>Resultado individual</small>
 </h4>
 
@@ -142,7 +149,7 @@ Considera-se a interface propriamente dita para inserção dos dados de autentic
 <br>
 
 <h4>
-	Texto utilizado para chamada ao recurso de <u>recuperação dos dados de acesso</u>,
+	Texto utilizado para identificação da ação <u>recuperar dados de acesso</u>,
 	presente na interface de autenticação<br>
 	<small>Resultado individual</small>
 </h4>
@@ -152,7 +159,7 @@ Considera-se a interface propriamente dita para inserção dos dados de autentic
 <br>
 
 <h4>
-	Texto utilizado em chamada para <u>cadastrar</u>,
+	Texto utilizado para identificação de acesso ao <u>cadastro de usuário</u>,
 	presente na interface de autenticação<br>
 	<small>Resultado individual</small>
 </h4>
@@ -173,7 +180,7 @@ Considera-se a interface propriamente dita para inserção dos dados de autentic
 <br>
 
 <h4>
-	Disponibilização de recurso <u>Single Sign-On</u> (SSO) e tipo de sistema habilitado<br>
+	Recurso <u>Single Sign-On</u> (SSO) e sistema utilizado<br>
 	<small>Resultado individual</small>
 </h4>
 
@@ -182,7 +189,6 @@ Considera-se a interface propriamente dita para inserção dos dados de autentic
 <div class="my-4" id="grafico13" style="width: 100%; height: 200px;"></div>
 
 <h4>
-	Disponibilização de recurso <u>Single Sign-On</u> (SSO) e tipo de sistema habilitado<br>
 	<small>Resultado combinado/agregado</small>
 </h4>
 
@@ -191,7 +197,7 @@ Considera-se a interface propriamente dita para inserção dos dados de autentic
 <br>
 
 <h4>
-	Tipo de recurso utilizado nos campos do formulário de autenticação: <u>label</u> e/ou <u>placeholder</u><br>
+	Recursos utilizados nos campos do formulário de autenticação: <u>label</u> e/ou <u>placeholder</u><br>
 	<small>Resultado combinado/agregado</small>
 </h4>
 
@@ -208,7 +214,7 @@ Considera-se a interface propriamente dita para inserção dos dados de autentic
 Identifica como estão descritas, na página inicial, as <u>chamadas para as ações</u> *(call-to-action)* de autenticar e cadastrar no site.
 
 <h4>
-	Texto utilizado em chamada para <u>autenticar</u>,
+	Texto utilizado para identificação de acesso à funcionalidade de <u>autenticar</u>,
 	presente na página inicial<br>
 	<small>Resultado individual</small>
 </h4>
@@ -217,39 +223,40 @@ Identifica como estão descritas, na página inicial, as <u>chamadas para as aç
 
 <div class="my-4" id="grafico1a" style="width:100%; height:400px;"></div>
 
-* **Formulário direto:** considerado quando a página inicial disponibiliza o formulário de autenticação diretamente, sem a necessidade de uma chamada de acesso à funcionalidade;
-
-* **Ícone de usuário:** considerado quando a página inicial disponibiliza um ícone de usuário (imagem representando uma pessoa) para chamada de acesso à funcionalidade.
-
 <h4>
-	Texto utilizado em chamada para <u>autenticar</u>,
-	presente na página inicial<br>
 	<small>Resultado percentual</small>
 </h4>
 
 <div id="grafico1b" style="width:100%; height:450px;"></div>
 
+Observações:
+
+* **Formulário direto:** considerado quando a página inicial disponibiliza o formulário de autenticação diretamente, sem a necessidade de uma chamada de acesso à funcionalidade;
+* **Ícone de usuário:** considerado quando a página inicial disponibiliza um ícone de usuário (imagem representando uma pessoa) para chamada de acesso à funcionalidade.
+
+<br>
+
 <h4>
-	Texto utilizado em chamada para <u>cadastrar</u>,
+	Texto utilizado para identificação de acesso à funcionalidade de <u>cadastrar</u>,
 	presente na página inicial<br>
 	<small>Resultado individual</small>
 </h4>
 
 <div class="my-4" id="grafico2a" style="width: 100%; height: 500px;"></div>
 
-* **Não possui / não utiliza:** considerado quando não é disponibilizada uma chamada direta para cadastro na página inicial.
-
 <h4>
-	Texto utilizado em chamada para <u>cadastrar</u>,
-	presente na página inicial<br>
 	<small>Resultado percentual</small>
 </h4>
 
 <div id="grafico2b" style="width:100%; height:450px;"></div>
 
+Observação:
+
+* **Não possui / não utiliza:** considerado quando não é disponibilizada uma chamada direta para cadastro na página inicial.
+
 <br>
 
-**Observações e considerações:**
+#### Observações gerais:
 
 * Em casos de elementos duplicados, considerou-se a opção mais relevante ao usuário (por visibilidade e/ou acessibilidade);
 * Esta é uma pesquisa proprietária e realizada para publicação primariamente na internet, sendo assim, não foram utilizados critérios acadêmicos;
