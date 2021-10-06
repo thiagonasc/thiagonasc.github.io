@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Ata de reunião: como fazer de forma efetiva e ágil. (Atualizado!)'
+description: 'Dicas para criar uma ata de reunião simples mas efetiva! Publicado por Thiago Nascimento.'
 date: 2020-11-21 20:00:00
 type: post
 published: true

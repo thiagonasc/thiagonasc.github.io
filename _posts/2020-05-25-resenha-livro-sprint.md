@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Resenha: Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias (livro)'
+description: 'Uma breve resenha sobre a obra Sprint do autor Jake Knapp. Publicado por Thiago Nascimento.'
 date: 2020-05-24 18:45:00 -03:00
 type: post
 published: true

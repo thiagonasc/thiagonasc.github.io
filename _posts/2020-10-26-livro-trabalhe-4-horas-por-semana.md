@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Resenha do Livro: Trabalhe 4 horas por semana (Timothy Ferriss)'
+description: 'Um simples resumo da obra Trabalhe 4 horas por semana, de Timthy Ferris. Publicado por Thiago Nascimento.'
 date: 2020-11-03 21:20:00 -03:00
 type: post
 published: true

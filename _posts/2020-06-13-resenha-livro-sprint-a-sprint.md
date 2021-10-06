@@ -1,6 +1,7 @@
 ---
 layout:		post
 title:		"Resenha: Sprint a Sprint: Erros e acertos na transformação cultural de um time ágil (Livro)"
+description: 'Uma breve resenha sobre a obra Sprint a Sprint, de Paulo Caroli e Mary Provinciatto. Publicado por Thiago Nascimento.'
 date:		2020-06-14 17:00:00 -03:00
 type:		post
 published:	true

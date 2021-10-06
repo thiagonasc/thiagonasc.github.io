@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Usabilidade em interfaces CRUD: o guia completo"
+description: 'Um guia simples de como criar interfaces CRUD com boa usabilidade. Publicado por Thiago Nascimento.'
 date: 2018-04-01 14:00:00.000000000 -03:00
 type: post
 published: true

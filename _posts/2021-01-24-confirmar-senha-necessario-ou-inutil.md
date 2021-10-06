@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Confirmar senha: necessário ou inútil?'
+description: 'Utilizar ou não o campo de confirmação de senha em minhas interfaces? Publicado por Thiago Nascimento.'
 date: 2021-01-24 18:50:00
 type: post
 published: true

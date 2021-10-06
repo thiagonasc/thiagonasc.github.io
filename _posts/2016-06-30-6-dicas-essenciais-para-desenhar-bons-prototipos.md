@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 6 dicas essenciais para desenhar bons protótipos
+description: 'Dicas de como desenhar protótipos inesquecíveis. Publicado por Thiago Nascimento.'
 date: 2016-06-30 22:06:05.000000000 -03:00
 type: post
 published: true

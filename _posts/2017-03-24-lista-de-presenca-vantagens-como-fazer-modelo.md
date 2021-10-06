@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Lista de presença: suas vantagens, dicas de como fazer e modelo para download'
+description: 'Como fazer uma lista de presença e modelos para download. Publicado por Thiago Nascimento.'
 date: 2017-03-24 12:00:24.000000000 -03:00
 type: post
 published: true

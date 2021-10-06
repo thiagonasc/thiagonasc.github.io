@@ -1,6 +1,7 @@
 ---
 layout:		post
 title:		"Experiência do Cliente: pedido de assistência mecânica na Porto Seguro Auto"
+description: 'Um breve relato sobre minha experiência de consumidor com a Porto Seguro Auto. Publicado por Thiago Nascimento.'
 date:		2020-06-24 22:20:00 -03:00
 type:		post
 published:	true

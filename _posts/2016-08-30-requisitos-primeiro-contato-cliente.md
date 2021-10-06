@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Levantamento de requisitos: o primeiro contato com o cliente'
+description: 'Um breve relato e dicas sobre sobre o primeiro contato com o cliente. Publicado por Thiago Nascimento.'
 date: 2016-08-30 23:52:16.000000000 -03:00
 type: post
 published: true

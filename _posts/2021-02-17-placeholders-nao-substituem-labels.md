@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Usabilidade em formulários: placeholders não substituem labels'
+description: 'Placeholders ou labels? Qual utilizar? Um substitui o outro? Publicado por Thiago Nascimento.'
 date: 2021-02-20 19:42:00
 type: post
 published: true

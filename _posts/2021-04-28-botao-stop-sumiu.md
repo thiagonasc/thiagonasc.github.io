@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'O botão STOP sumiu e você provavelmente nem sentiu falta'
+description: 'Você percebeu que um dos botões mais icônicos, o STOP, simplesmente sumiu das interfaces? Publicado por Thiago Nascimento.'
 date: 2021-04-28 23:20:00
 type: post
 published: true

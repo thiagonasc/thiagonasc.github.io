@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Resenha: TED Talks - O guia oficial para falar em público (Livro)"
+description: 'Uma breve resenha sobre a obra TED Talks do autor Chris Anderson. Publicado por Thiago Nascimento.'
 date: 2017-07-19 12:40:00.000000000 -03:00
 type: post
 published: true

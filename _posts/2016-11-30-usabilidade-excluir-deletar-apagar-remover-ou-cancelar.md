@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Usabilidade: excluir, deletar, apagar, remover ou cancelar?'
+description: 'Qual o melhor rótulo para a funcionalidade: excluir, deletar, apagar, remover ou cancelar? Publicado por Thiago Nascimento.'
 date: 2016-11-30 16:19:04.000000000 -02:00
 type: post
 published: true

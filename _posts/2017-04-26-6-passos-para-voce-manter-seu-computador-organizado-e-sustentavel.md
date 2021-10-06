@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 6 passos para você manter seu computador organizado e sustentável
+description: 'Como organizar e manter meu computador organizado? Publicado por Thiago Nascimento.'
 date: 2017-04-26 14:06:30.000000000 -03:00
 type: post
 published: true

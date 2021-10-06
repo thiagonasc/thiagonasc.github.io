@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Novo layout (ou quase isso)'
+description: 'Uma simples repaginação de layout mas com grande valor. Coisa boa vem por aí! Publicado por Thiago Nascimento.'
 date: 2021-06-17 22:30:00 -03:00
 type: post
 published: true

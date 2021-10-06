@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Review: Headset Sennheiser Impact SC 60, vale a pena?'
+description: 'Resenha detalhada do Headset Sennheiser Impact SC 60. Publicado por Thiago Nascimento.'
 date: 2021-05-16 14:00:00 -03:00
 type: post
 published: true

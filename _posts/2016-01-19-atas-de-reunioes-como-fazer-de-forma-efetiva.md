@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Ata de reunião: como fazer de forma efetiva'
+description: 'Como criar uma ata de reunião efetiva? Publicado por Thiago Nascimento.'
 date: 2016-01-19 08:36:19.000000000 -02:00
 type: post
 published: true

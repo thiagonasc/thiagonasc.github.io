@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Pesquisa: padrões em interfaces de autenticação web'
+description: 'Quais atributos e campos mais utilizados em interfaces de autenticação web? Um breve estudo. Publicado por Thiago Nascimento.'
 date: 2021-08-16 23:25:00 -03:00
 type: post
 published: true

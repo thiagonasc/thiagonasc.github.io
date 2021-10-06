@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Afinal, quando apresentar meu protótipo?'
+description: 'Qual o momento certo de mostrar meu protótipo? Publicado por Thiago Nascimento.'
 date: 2021-09-21 07:00:00 -03:00
 type: post
 published: true
