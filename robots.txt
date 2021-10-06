@@ -1,1 +1,4 @@
-Sitemap: {{ "sitemap.xml" | absolute_url }}
+user-agent: *
+disallow: /assets/downloads/
+
+sitemap: https://thiagonasc.com/robots.txt
