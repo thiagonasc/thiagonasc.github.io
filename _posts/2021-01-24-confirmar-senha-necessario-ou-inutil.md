@@ -71,6 +71,6 @@ Ficarei honrado em receber seu comentário!.*
 
 ## Referências e leituras complementares
 
-* [Stop Password Masking (Nielsen Norman Group)](https://www.nngroup.com/articles/stop-password-masking/){:target="_blank"}
-* [Why the confirm password field must die (UX Movement)](https://uxmovement.com/forms/why-the-confirm-password-field-must-die/){:target="_blank"}
-* [How to stop passwords causing users to abandon your form (Zuko)](https://www.zuko.io/blog/password-advice-for-online-forms){:target="_blank"}
+* [Stop Password Masking (Nielsen Norman Group)](https://www.nngroup.com/articles/stop-password-masking/){:target="_blank" rel="noopener"}
+* [Why the confirm password field must die (UX Movement)](https://uxmovement.com/forms/why-the-confirm-password-field-must-die/){:target="_blank" rel="noopener"}
+* [How to stop passwords causing users to abandon your form (Zuko)](https://www.zuko.io/blog/password-advice-for-online-forms){:target="_blank" rel="noopener"}

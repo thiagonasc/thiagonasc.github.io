@@ -13,7 +13,7 @@ img:
  alt:	Logotipo do Bootstrap sobre fundo de códigos de programação
 ---
 
-No artigo <a href="http://thiagonasc.com/desenvolvimento-web/desenvolvendo-com-bootstrap-3-um-framework-front-end-que-vale-a-pena" target="_blank">Desenvolvendo com Bootstrap 3: um framework front-end que vale a pena!</a> fiz uma breve apresentação do <em>framework</em> apontando seus pontos positivos e negativos, explicando o funcionamento do sistema de grids e como se inicia um projeto.
+No artigo <a href="http://thiagonasc.com/desenvolvimento-web/desenvolvendo-com-bootstrap-3-um-framework-front-end-que-vale-a-pena" target="_blank" rel="noopener">Desenvolvendo com Bootstrap 3: um framework front-end que vale a pena!</a> fiz uma breve apresentação do <em>framework</em> apontando seus pontos positivos e negativos, explicando o funcionamento do sistema de grids e como se inicia um projeto.
 
 Mas agora chegou a hora de colocar a mão na massa pra valer!
 
@@ -39,7 +39,7 @@ Portanto se inspire, pense, rabisque, faça <em>brainstorm’s</em>, peça opini
 
 Com a concepção elaborada, chegou a hora de definir o layout, isto é, a estrutura visual de seu site.
 
-Lembre-se de sempre pensar em grids! O <em><strong>Bootstrap</strong></em> trabalha com até 12 colunas e seu layout deve respeitar esses limites. <em>(O sistema de grids foi explicado no artigo citado no início desta postagem - <a href="http://thiagonasc.com/desenvolvimento-web/desenvolvendo-com-bootstrap-3-um-framework-front-end-que-vale-a-pena" target="_blank">ver artigo</a>).</em>
+Lembre-se de sempre pensar em grids! O <em><strong>Bootstrap</strong></em> trabalha com até 12 colunas e seu layout deve respeitar esses limites. <em>(O sistema de grids foi explicado no artigo citado no início desta postagem - <a href="http://thiagonasc.com/desenvolvimento-web/desenvolvendo-com-bootstrap-3-um-framework-front-end-que-vale-a-pena" target="_blank" rel="noopener">ver artigo</a>).</em>
 
 Através de desenhos bem simples (chamados de <em>wireframes</em>) feitos à mão ou no próprio computador, você definirá onde e como ficará cada componente de seu site como o menu de navegação, rodapé, conteúdo e o que mais tiver.
 
@@ -51,7 +51,7 @@ No <em>wireframe</em> acima é possível perceber a distribuição do conteúdo 
 
 Em sua forma mais simples de utilização, preparar um ambiente utilizando <strong><em>Bootstrap</em></strong> é extremamente fácil e rápido.
 
-Acesse a página oficial do <em>framework</em> (<a href="http://www.getbootstrap.com/" target="_blank">http://www.getbootstrap.com/</a>) e faça o <em>download</em> de sua versão compilada.
+Acesse a página oficial do <em>framework</em> (<a href="http://www.getbootstrap.com/" target="_blank" rel="noopener">http://www.getbootstrap.com/</a>) e faça o <em>download</em> de sua versão compilada.
 
 ![Seta apontando para o botão de download do Bootstrap](/assets/imgs/bootstrap-download.jpg){:.img-fluid.rounded}
 
@@ -129,7 +129,7 @@ Com as estruturas horizontais prontas, partimos para codificação de cada compo
 
 O <em><strong>Bootstrap</strong></em> já possui uma barra de navegação (ou <em>navbar</em>) como um componente pronto para uso (e isso significa que você não precisará codificar uma linha sequer para isso). ;)
 
-Basta entrar na documentação disponível no site oficial <a href="http://www.getbootstrap.com" target="_blank">http://www.getbootstrap.com</a> e procurar pela <em>navbar</em> na página de <a href="http://getbootstrap.com/components/" target="_blank">componentes</a>.
+Basta entrar na documentação disponível no site oficial <a href="http://www.getbootstrap.com" target="_blank" rel="noopener">http://www.getbootstrap.com</a> e procurar pela <em>navbar</em> na página de <a href="http://getbootstrap.com/components/" target="_blank" rel="noopener">componentes</a>.
 
 Copie e cole o código da barra de navegação dentro de sua <em>header</em>.
 

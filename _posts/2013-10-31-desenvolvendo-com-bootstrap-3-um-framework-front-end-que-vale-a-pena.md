@@ -30,7 +30,7 @@ Após pesquisas e testes, decidi me aventurar com o **Bootstrap** e digo: vale e
 
 ![bootstrap-apresentacao](/assets/imgs/bootstrap-apresentacao.jpg){:.img-fluid.rounded}
 
-Desenvolvido pela equipe do <a title="Visitar site" href="http://twitter.com/" target="_blank">Twitter</a>, o Bootstrap é um <em>framework</em> <em>front-end</em> de código aberto (<em>opensource</em>). Em palavras simples, é um conjunto de ferramentas criadas para facilitar o desenvolvimento de sites e sistemas web.
+Desenvolvido pela equipe do <a title="Visitar site" href="http://twitter.com/" target="_blank" rel="noopener">Twitter</a>, o Bootstrap é um <em>framework</em> <em>front-end</em> de código aberto (<em>opensource</em>). Em palavras simples, é um conjunto de ferramentas criadas para facilitar o desenvolvimento de sites e sistemas web.
 
 Compatível com HTML5 e CSS3, o <em>framework</em> possibilita a criação de layouts responsivos e o uso de gris, permitindo que seu conteúdo seja organizado em até 12 colunas e que comporte-se de maneira diferente para cada resolução.
 
@@ -55,7 +55,7 @@ Como qualquer outra ferramenta, possui suas vantagens e desvantagens. É import
 
 A estrutura é simples e seu pacote contém três tipos diferentes de arquivos (CSS, JavaScrpipt e Fonts), que vêm devidamente organizados em suas pastas.
 
-Montar um layout é simples e rápido utilizando sua <a title="Acessar documentação" href="http://getbootstrap.com/getting-started/" target="_blank">documentação</a>. Como toda a estrutura do CSS já vem definida, basta procurar o componente necessário e adicionar seu código. Em poucos minutos seu layout toma forma e está pronto para uso! E o mesmo acontece com o JavaScript.
+Montar um layout é simples e rápido utilizando sua <a title="Acessar documentação" href="http://getbootstrap.com/getting-started/" target="_blank" rel="noopener">documentação</a>. Como toda a estrutura do CSS já vem definida, basta procurar o componente necessário e adicionar seu código. Em poucos minutos seu layout toma forma e está pronto para uso! E o mesmo acontece com o JavaScript.
 <h3>O sistema de grids</h3>
 
 O uso efetivo dos grids é fundamental para um bom projeto com o Bootstrap e entender sua lógica é simples.
@@ -86,7 +86,7 @@ E o melhor vem agora: as grids são nativamente responsivas! Você pode definir 
 
 ![bootstrap-projeto](/assets/imgs/bootstrap-projeto.jpg){:.img-fluid.rounded}
 
-Faça o download da versão compilada do **Bootstrap** no <a title="Visitar site oficial" href="http://getbootstrap.com/" target="_blank">site oficial</a> e descompacte os arquivos para iniciar seu projeto.
+Faça o download da versão compilada do **Bootstrap** no <a title="Visitar site oficial" href="http://getbootstrap.com/" target="_blank" rel="noopener">site oficial</a> e descompacte os arquivos para iniciar seu projeto.
 
 Crie um arquivo HTML (na raíz da pasta) utilizando a estrutura básica abaixo:
 
@@ -106,7 +106,7 @@ O código declara o HTML5, carrega os arquivos necessários (CSS + JavaScript) e
 
 Concluído! O **Bootstrap** está configurado e pronto para receber suas linhas!
 
-O site oficial disponibiliza alguns <a title="Visitar templates de exemplo" href="http://getbootstrap.com/getting-started/#examples" target="_blank">templates de exemplo</a> que são bastante úteis, principalmente para quem começa a se aventurar agora.
+O site oficial disponibiliza alguns <a title="Visitar templates de exemplo" href="http://getbootstrap.com/getting-started/#examples" target="_blank" rel="noopener">templates de exemplo</a> que são bastante úteis, principalmente para quem começa a se aventurar agora.
 
 ## 4. Conclusão
 

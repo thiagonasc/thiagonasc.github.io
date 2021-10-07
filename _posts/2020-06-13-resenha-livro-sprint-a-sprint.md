@@ -11,7 +11,7 @@ categories:
 - livros
 ---
 
-Numa abordagem enxuta, [Mary Provinciatto](https://www.linkedin.com/in/maryprovinciatto/){:target="_blank"} e [Paulo Caroli](https://www.linkedin.com/in/paulocaroli/){:target="_blank"}, transcrevem as experiências vivenciadas junto a um time de desenvolvimento ágil, do início do projeto à entrega do produto mínimo viável (MVP), literalmente "**Sprint a Sprint**".
+Numa abordagem enxuta, [Mary Provinciatto](https://www.linkedin.com/in/maryprovinciatto/){:target="_blank" rel="noopener"} e [Paulo Caroli](https://www.linkedin.com/in/paulocaroli/){:target="_blank" rel="noopener"}, transcrevem as experiências vivenciadas junto a um time de desenvolvimento ágil, do início do projeto à entrega do produto mínimo viável (MVP), literalmente "**Sprint a Sprint**".
 
 ![Notebook sobre a mesa com o e-book Sprint a Sprint aberto em sua capa](/assets/imgs/livro-sprint-a-sprint/livro-sprint-a-sprint-capa.jpg){:.img-fluid.rounded}
 
@@ -28,7 +28,7 @@ E segundo, porém não menos importante, a leitura reforça ainda mais minha con
 ![Notebook sobre a mesa com o e-book Sprint a Sprint aberto em sua capa](/assets/imgs/livro-sprint-a-sprint/livro-sprint-a-sprint-trecho.jpg){:.img-fluid.rounded}
 Muito interessante ver a atenção e cuidado na comunicação, desde a linguagem utilizada nas mensagens à visibilidade e organização das agendas.
 
-Como curiosidade, Mary Provinciatto conta a história de como surgiu o livro [neste post publicado em seu próprio site](https://maryprovinciatto.com/como-surgiu-o-livro-sprint-a-sprint/){:target="_blank"}.
+Como curiosidade, Mary Provinciatto conta a história de como surgiu o livro [neste post publicado em seu próprio site](https://maryprovinciatto.com/como-surgiu-o-livro-sprint-a-sprint/){:target="_blank" rel="noopener"}.
 
 # Seleção de 10 frases e trechos do livro
 

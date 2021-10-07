@@ -91,7 +91,7 @@ categorias:
 	<div class="col-sm-9">
 		<ul>
 			{% for item in categoria.itens %}
-			<li><a target="_blank" href="{{ item.url }}">{{ item.nome }} ↗</a></li>
+			<li><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.nome }} ↗</a></li>
 			{% endfor %}
 		</ul>
 	</div>

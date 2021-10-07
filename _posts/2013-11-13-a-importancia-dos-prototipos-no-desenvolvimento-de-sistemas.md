@@ -94,7 +94,7 @@ Há diversas metodologias e formas de se iniciar o desenvolvimento de um sistema
 ## Referências
 
 * PRESSMAN, Roger S. Software Engineering: a Practitioner's Approach. 6. ed. McGraw-Hill, 2005
-* <a href="http://en.wikipedia.org/wiki/Software_prototyping" target="_blank">Prototyping, Wikipédia</a>
-* <a href="http://pt.wikipedia.org/wiki/Prototipa%C3%A7%C3%A3o" target="_blank">Prototipação, Wikipédia</a>
-* <a href="http://disciplinas.lia.ufc.br/es062/arquivos/Captulo_8-Prototipacao.pdf" target="_blank">Prototipação de software - Engenharia de Software (UNESP)</a>
-* <a href="http://dinobrasilis.pro.br/mod_inic_1.pdf" target="_blank">Modelos de Desenvolvimento de Software (Dino Brasilis)</a>
+* <a href="http://en.wikipedia.org/wiki/Software_prototyping" target="_blank" rel="noopener">Prototyping, Wikipédia</a>
+* <a href="http://pt.wikipedia.org/wiki/Prototipa%C3%A7%C3%A3o" target="_blank" rel="noopener">Prototipação, Wikipédia</a>
+* <a href="http://disciplinas.lia.ufc.br/es062/arquivos/Captulo_8-Prototipacao.pdf" target="_blank" rel="noopener">Prototipação de software - Engenharia de Software (UNESP)</a>
+* <a href="http://dinobrasilis.pro.br/mod_inic_1.pdf" target="_blank" rel="noopener">Modelos de Desenvolvimento de Software (Dino Brasilis)</a>

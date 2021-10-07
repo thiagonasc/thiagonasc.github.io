@@ -17,7 +17,7 @@ img:
  alt:	Protótipo desenhado a mão de componentes de paginação
 ---
 
-Sempre que temos uma página com muitos itens a exibir, a paginação se faz necessária, ou melhor, um mal necessário, como diz <a title="Wikipédia - Jakob Nielsen" href="http://pt.wikipedia.org/wiki/Jacob_Nielsen" target="_blank">Jakob Nielsen</a>. Ele se refere assim por considerar que a melhor opção, claro, seria mostrar tudo em uma única página, sem a necessidade do usuário percorrer várias até encontrar o que procura.
+Sempre que temos uma página com muitos itens a exibir, a paginação se faz necessária, ou melhor, um mal necessário, como diz <a title="Wikipédia - Jakob Nielsen" href="http://pt.wikipedia.org/wiki/Jacob_Nielsen" target="_blank" rel="noopener">Jakob Nielsen</a>. Ele se refere assim por considerar que a melhor opção, claro, seria mostrar tudo em uma única página, sem a necessidade do usuário percorrer várias até encontrar o que procura.
 
 Mas conhecendo os cenários e suas realidades, sabemos que no caso de listas, como na exibição de produtos em lojas virtuais ou resultados de pesquisas em sistemas, a necessidade não é exibir todos os itens de uma única vez, mas sim organizá-los de forma eficaz, facilitando seu acesso e tornando as páginas mais rápidas e usuais.
 
@@ -84,7 +84,7 @@ E lembre-se: a melhor paginação é aquela que funciona!
 ### Referências
 
 <ul>
-	<li><a href="http://www.nngroup.com/articles/item-list-view-all/" target="_blank">Users' Pagination Preferences and 'View All' - Jakob Nielsen</a></li>
-	<li><a href="https://gist.github.com/mislav/622561" target="_blank">Article: Pagination 101 - by: Faruk Ates</a></li>
-	<li><a href="http://www.smashingmagazine.com/2007/11/16/pagination-gallery-examples-and-good-practices/" target="_blank">Pagination Gallery: Example and Good Pratices - Smashing Magazine</a></li>
+	<li><a href="http://www.nngroup.com/articles/item-list-view-all/" target="_blank" rel="noopener">Users' Pagination Preferences and 'View All' - Jakob Nielsen</a></li>
+	<li><a href="https://gist.github.com/mislav/622561" target="_blank" rel="noopener">Article: Pagination 101 - by: Faruk Ates</a></li>
+	<li><a href="http://www.smashingmagazine.com/2007/11/16/pagination-gallery-examples-and-good-practices/" target="_blank" rel="noopener">Pagination Gallery: Example and Good Pratices - Smashing Magazine</a></li>
 </ul>

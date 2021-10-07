@@ -105,7 +105,7 @@ Alguns exemplos clássicos:
 * ***placeholders*** são exibidos em cinza claro, por padrão, fornecendo contraste insuficiente a muitos usuários com baixa sensibilidade ou acuidade visual;
 * a falta de ***labels*** diminui o espaçamento entre os campos, reduz as áreas de clique e por consequência, dificultam os acessos aos campos corretos.
 
-Há um artigo da *Smashing Magazine* que defende a **não utilização** do ***placeholder*** e explica os motivos em detalhes ([acessar artigo](https://www.smashingmagazine.com/2018/06/placeholder-attribute/){:target="_blank"}).
+Há um artigo da *Smashing Magazine* que defende a **não utilização** do ***placeholder*** e explica os motivos em detalhes ([acessar artigo](https://www.smashingmagazine.com/2018/06/placeholder-attribute/){:target="_blank" rel="noopener"}).
 
 ## Quero simplificar e usar somente um!
 
@@ -130,6 +130,6 @@ Veja que o Google utiliza desse recurso em seu Material Design:
 
 ## Referências e leituras complementares
 
-* [W3C Recommendation - HTML 5.2](https://www.w3.org/TR/html52/sec-forms.html#the-placeholder-attribute){:target="_blank"}
-* [SmashingMagazine - Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/){:target="_blank"}
-* [CSS Tricks - Placeholder Shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/){:target="_blank"}
+* [W3C Recommendation - HTML 5.2](https://www.w3.org/TR/html52/sec-forms.html#the-placeholder-attribute){:target="_blank" rel="noopener"}
+* [SmashingMagazine - Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/){:target="_blank" rel="noopener"}
+* [CSS Tricks - Placeholder Shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/){:target="_blank" rel="noopener"}

@@ -33,7 +33,7 @@ As seções devem seguir a ordem cronológica de uso e as ações mais comuns de
 
 As melhores interfaces são invisíveis ao usuário.
 
-Que tal o **Google Chrome** como exemplo? O navegador mais utilizado do mundo (fonte: <a href="http://pt.wikipedia.org/wiki/Anexo:Lista_de_navegadores" target="_blank">Wikipédia</a>) tem uma das interfaces mais simples que se possa imaginar. E engana-se quem pensa que ele é tão simples quanto seu visual, muito pelo contrário, é um aplicativo robusto e recheado de recursos, porém ficam "invisíveis" à primeira vista mas facilmente acessíveis, exatamente como deve ser.
+Que tal o **Google Chrome** como exemplo? O navegador mais utilizado do mundo (fonte: <a href="http://pt.wikipedia.org/wiki/Anexo:Lista_de_navegadores" target="_blank" rel="noopener">Wikipédia</a>) tem uma das interfaces mais simples que se possa imaginar. E engana-se quem pensa que ele é tão simples quanto seu visual, muito pelo contrário, é um aplicativo robusto e recheado de recursos, porém ficam "invisíveis" à primeira vista mas facilmente acessíveis, exatamente como deve ser.
 
 ![Aplicativo do Google Chrome aberto: interface extremamente simplista](/assets/imgs/googlechrome.jpg){:.img-fluid.rounded}
 
@@ -43,7 +43,7 @@ Evite elementos desnecessários e entregue os demais de maneira limpa e direta.
 
 ![Exemplo de caixa de texto com ferramentas difíceis de serem utilizadas.](/assets/imgs/evitar11.jpg){:.img-fluid.rounded}
 
-**Exemplo de ferramenta para estilização de texto <em>(richtext)</em> do <a href="http://www.gmail.com" target="_blank">Gmail</a>:** todas as ações de maneiras simples e fácil de se utilizar. Como o uso (em sua maioria) é mandar um texto simples, sem estilização, a ferramenta fica disponível ao usuário porém "escondida". E ainda que ele a acesse, as opções não vem todas já disponíveis de primeira, causando confusões em meio a tantos ícones. Elas surgem à medida de suas necessidades.
+**Exemplo de ferramenta para estilização de texto <em>(richtext)</em> do <a href="http://www.gmail.com" target="_blank" rel="noopener">Gmail</a>:** todas as ações de maneiras simples e fácil de se utilizar. Como o uso (em sua maioria) é mandar um texto simples, sem estilização, a ferramenta fica disponível ao usuário porém "escondida". E ainda que ele a acesse, as opções não vem todas já disponíveis de primeira, causando confusões em meio a tantos ícones. Elas surgem à medida de suas necessidades.
 
 ![Caixa de texto do Gmail: fácil de ser utilizada, simples e direta.](/assets/imgs/bomexemplo1.gif){:.img-fluid.rounded}
 
@@ -63,7 +63,7 @@ A família **Microsoft Office**, como podemos ver acima (Word, Excel e PowerPoin
 
 Priorize o reconhecimento ao invés de recordação. É melhor que o usuário entenda e reconheça uma ação do que ter de lembrar o que aconteceu em situações anteriores.
 
-Um exemplo que presenciei recentemente e ilustra bem essa questão foi o requisito de um botão para duplicar o código do usuário. A primeira versão - inteligentemente (sem ironia) - proposta foi a de um botão circular com o desenho de uma ovelha dentro. Fantástico! A ovelha fazia alusão à <a href="http://pt.wikipedia.org/wiki/Ovelha_Dolly" target="_blank">Dolly</a>, primeiro mamífero clonado com sucesso, em 1996, e que dava total sentido à ação que era "clonar". Porém, isso demandaria um grande esforço do usuário e definitivamente, não funcionaria. Uma boa opção é recorrer à padrões, que no caso, um documento sobre o outro (mais a dica de tela ao passar o mouse indicando o nome da ação "Duplicar") ou utilizar a própria legenda/texto como o ícone do botão (somente caso a dimensão não atrapalhe a leitura ou a identidade do sistema).
+Um exemplo que presenciei recentemente e ilustra bem essa questão foi o requisito de um botão para duplicar o código do usuário. A primeira versão - inteligentemente (sem ironia) - proposta foi a de um botão circular com o desenho de uma ovelha dentro. Fantástico! A ovelha fazia alusão à <a href="http://pt.wikipedia.org/wiki/Ovelha_Dolly" target="_blank" rel="noopener">Dolly</a>, primeiro mamífero clonado com sucesso, em 1996, e que dava total sentido à ação que era "clonar". Porém, isso demandaria um grande esforço do usuário e definitivamente, não funcionaria. Uma boa opção é recorrer à padrões, que no caso, um documento sobre o outro (mais a dica de tela ao passar o mouse indicando o nome da ação "Duplicar") ou utilizar a própria legenda/texto como o ícone do botão (somente caso a dimensão não atrapalhe a leitura ou a identidade do sistema).
 
 ![Três ícones diferentes representando a mesma ação: duplicar.](/assets/imgs/duplicar-botao1.jpg){:.img-fluid.rounded}
 
@@ -103,7 +103,7 @@ Elementos com bom contraste saltam aos olhos, o contrário, por sua vez, passa m
 
 ![Duas tabelas mostrando o exemplo de como o contraste chama a atenção do usuário](/assets/imgs/contraste.jpg){:.img-fluid.rounded}
 
-<p style="color: #313130; padding-left: 60px;">Na imagem acima <em>(uma releitura do <a href="http://usabilitypost.com/2008/08/14/using-light-color-and-contrast-effectively-in-ui-design/" target="_blank">UsabilityPost</a>)</em>, fica evidente o poder do contraste. Utilizando-se dos mesmos elementos e textos, variando somente os cinzas, podemos perceber que à esquerda, a atenção é voltada ao texto e à direita, o botão "Comprar" nos saltam aos olhos.</p>
+<p style="color: #313130; padding-left: 60px;">Na imagem acima <em>(uma releitura do <a href="http://usabilitypost.com/2008/08/14/using-light-color-and-contrast-effectively-in-ui-design/" target="_blank" rel="noopener">UsabilityPost</a>)</em>, fica evidente o poder do contraste. Utilizando-se dos mesmos elementos e textos, variando somente os cinzas, podemos perceber que à esquerda, a atenção é voltada ao texto e à direita, o botão "Comprar" nos saltam aos olhos.</p>
 
 <p style="color: #313130;">Utilize do recurso e gerencie a atenção do usuário para o que realmente é necessário.</p>
 
@@ -157,10 +157,10 @@ Tenha sempre em mente a regra: melhor que mensagens de erro são formas de preve
 E lembre-se: **fale sempre a linguagem do usuário!**
 <h3>Referências:</h3>
 <ul>
-<li><a href="http://www.usability.gov/what-and-why/user-interface-design.html" target="_blank">User Interface Design Basics</a></li>
-<li><a href="http://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank">10 usability heuristics for user interface design</a></li>
-<li><a href="http://usabilitypost.com/2009/04/15/8-characteristics-of-successful-user-interfaces/#forgiving" target="_blank">8 Characteristics Of Successful User Interfaces</a></li>
-<li><a href="http://www.smashingmagazine.com/2009/10/07/minimizing-complexity-in-user-interfaces/" target="_blank">Minimizing Complexity In User Interfaces</a></li>
-<li><a href="http://blog.teamtreehouse.com/affordances-web-design" target="_blank">What Are Affordances in Web Design?</a></li>
-<li><a href="http://usabilityfriction.com/2010/11/08/how-to-write-a-good-empty-state/" target="_blank">How to Write a Good Empty State</a></li>
+<li><a href="http://www.usability.gov/what-and-why/user-interface-design.html" target="_blank" rel="noopener">User Interface Design Basics</a></li>
+<li><a href="http://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank" rel="noopener">10 usability heuristics for user interface design</a></li>
+<li><a href="http://usabilitypost.com/2009/04/15/8-characteristics-of-successful-user-interfaces/#forgiving" target="_blank" rel="noopener">8 Characteristics Of Successful User Interfaces</a></li>
+<li><a href="http://www.smashingmagazine.com/2009/10/07/minimizing-complexity-in-user-interfaces/" target="_blank" rel="noopener">Minimizing Complexity In User Interfaces</a></li>
+<li><a href="http://blog.teamtreehouse.com/affordances-web-design" target="_blank" rel="noopener">What Are Affordances in Web Design?</a></li>
+<li><a href="http://usabilityfriction.com/2010/11/08/how-to-write-a-good-empty-state/" target="_blank" rel="noopener">How to Write a Good Empty State</a></li>
 </ul>

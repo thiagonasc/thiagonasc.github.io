@@ -24,11 +24,11 @@ img:
 
 #### Web Design = desenho para web (produto)
 
-Definição: Pode ser visto como uma extensão da prática do design, onde o foco do projeto é a criação de web sites e documentos disponíveis no ambiente da <em>World Wide Web</em> (<a title="Visitar site - Wikipédia" href="http://pt.wikipedia.org/wiki/Web_design" target="_blank">Wikipédia</a>).
+Definição: Pode ser visto como uma extensão da prática do design, onde o foco do projeto é a criação de web sites e documentos disponíveis no ambiente da <em>World Wide Web</em> (<a title="Visitar site - Wikipédia" href="http://pt.wikipedia.org/wiki/Web_design" target="_blank" rel="noopener">Wikipédia</a>).
 
 #### Web Designer = desenhista para web (profissional)
 
-Definição: Web designer é o profissional responsável pela elaboração e criação do projeto estético e funcional de um web site (<a href="http://pt.wikipedia.org/wiki/Web_designer" target="_blank">Wikipédia</a>).
+Definição: Web designer é o profissional responsável pela elaboração e criação do projeto estético e funcional de um web site (<a href="http://pt.wikipedia.org/wiki/Web_designer" target="_blank" rel="noopener">Wikipédia</a>).
 
 Portanto **WebDesigner** é o profissional responsável pela criação do produto **WebDesign**.
 
@@ -48,8 +48,8 @@ Cada programa tem suas aplicações e especificidades. Obviamente um é mais ade
 
 #### Ferramentas Online
 
-* **Protótipos e wireframes:** <a title="Visitar site" href="https://gomockingbird.com/" target="_blank">MockingBird</a> / <a title="Visitar site" href="http://builds.balsamiq.com/b/mockups-web-demo/" target="_blank">Balsamiq</a> / <a title="Visitar site" href="http://www.gliffy.com/gliffy/" target="_blank">Gliffy</a>
-* **Paleta de Cores:** <a title="Visitar site" href="http://kuler.adobe.com/" target="_blank">Kuler</a> / <a title="Visitar site" href="http://www.colourlovers.com/" target="_blank">Colour Lovers</a>
+* **Protótipos e wireframes:** <a title="Visitar site" href="https://gomockingbird.com/" target="_blank" rel="noopener">MockingBird</a> / <a title="Visitar site" href="http://builds.balsamiq.com/b/mockups-web-demo/" target="_blank" rel="noopener">Balsamiq</a> / <a title="Visitar site" href="http://www.gliffy.com/gliffy/" target="_blank" rel="noopener">Gliffy</a>
+* **Paleta de Cores:** <a title="Visitar site" href="http://kuler.adobe.com/" target="_blank" rel="noopener">Kuler</a> / <a title="Visitar site" href="http://www.colourlovers.com/" target="_blank" rel="noopener">Colour Lovers</a>
 
 ## 3. Inspirações e Referências.
 
@@ -65,10 +65,10 @@ Se existem profissionais que são referências na área, com certeza este estudo
 
 **Sites de inspirações de web/design:**
 
-* AWWWAWARDS - <a href="http://www.awwwards.com/" target="_blank">http://www.awwwards.com/</a>
-* Best Web Gallery - <a href="http://bestwebgallery.com/" target="_blank">http://bestwebgallery.com/</a>
-* CSS Design Awards - <a href="http://bestwebgallery.com/" target="_blank">http://www.cssdesignawards.com/</a>
-* Abduzeedo - <a href="http://abduzeedo.com/" target="_blank">http://abduzeedo.com/</a>
+* AWWWAWARDS - <a href="http://www.awwwards.com/" target="_blank" rel="noopener">http://www.awwwards.com/</a>
+* Best Web Gallery - <a href="http://bestwebgallery.com/" target="_blank" rel="noopener">http://bestwebgallery.com/</a>
+* CSS Design Awards - <a href="http://bestwebgallery.com/" target="_blank" rel="noopener">http://www.cssdesignawards.com/</a>
+* Abduzeedo - <a href="http://abduzeedo.com/" target="_blank" rel="noopener">http://abduzeedo.com/</a>
 
 
 Outra dica: sempre que encontrar um site legal, uma imagem que lhe agrada, guarde o endereço ou dê um print-screen. Ter um repositório de inspirações é sempre interessante.

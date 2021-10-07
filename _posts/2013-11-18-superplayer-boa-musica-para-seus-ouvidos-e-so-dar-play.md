@@ -16,7 +16,7 @@ img:
  alt:	Mulher curtindo uma boa música no fone de ouvido
 ---
 
-Em busca da música ideal para o momento? Essa é a proposta do <a title="SuperPlayer" href="http://www.superplayer.fm" target="_blank"><strong>SuperPlayer</strong></a>: um reprodutor online de músicas que reúne coleções feitas por especialistas, classificadas por gênero, atividade e sentimento.
+Em busca da música ideal para o momento? Essa é a proposta do <a title="SuperPlayer" href="http://www.superplayer.fm" target="_blank" rel="noopener"><strong>SuperPlayer</strong></a>: um reprodutor online de músicas que reúne coleções feitas por especialistas, classificadas por gênero, atividade e sentimento.
 
 As seleções são as mais variadas e para todas as ocasiões: ler, estudar, programar, focar no trabalho, receber a galera, dormir, fazer amor e até curar ressaca!
 
@@ -24,4 +24,4 @@ Com uma interface simples (lembrando muito o visual do novo Windows) e intuitiva
 
 E o melhor: de graça!
 
-<a title="SuperPlayer" href="http://www.superplayer.fm" target="_blank">![superplayer](/assets/imgs/superplayer1.jpg){:.img-fluid.rounded}</a>
+<a title="SuperPlayer" href="http://www.superplayer.fm" target="_blank" rel="noopener">![superplayer](/assets/imgs/superplayer1.jpg){:.img-fluid.rounded}</a>

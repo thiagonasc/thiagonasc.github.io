@@ -41,12 +41,12 @@ O mais curioso é que muitos de nós nem percebemos essa alteração! Fantástic
 
 Se pararmos para pensar... daqui alguns anos, é provável que muitos nem mais reconhecerão o ícone facilmente.
 
-O que me lembra de uma [pesquisa interessante](https://www.cnet.com/news/surprise-kids-dont-know-what-the-save-icon-stands-for/){:target="_blank"} onde um disquete físico foi apresentado a crianças e ao serem questionadas, algumas não conseguiram identificar o objeto e outras o identificaram como o ícone do "botão salvar".
+O que me lembra de uma [pesquisa interessante](https://www.cnet.com/news/surprise-kids-dont-know-what-the-save-icon-stands-for/){:target="_blank" rel="noopener"} onde um disquete físico foi apresentado a crianças e ao serem questionadas, algumas não conseguiram identificar o objeto e outras o identificaram como o ícone do "botão salvar".
 
 E você? Já parou para pensar que alguns botões de suas interfaces poderiam ser removidas sem ninguém sentir falta? Já fez este exercício? Conta pra gente!
 
 ### Links complementares:
 
-* [Artigo: Surprise! Kids don't know what the save icon stands for (CNET)](https://www.cnet.com/news/surprise-kids-dont-know-what-the-save-icon-stands-for/){:target="_blank"}
-* [Vídeo: Kids react to old computer (YouTube)](https://www.youtube.com/watch?v=PF7EpEnglgk){:target="_blank"}
-* [Artigo: Ainda faz sentido usar o disquete como ícone de "salvar"? (UX Collective)](https://brasil.uxdesign.cc/ainda-faz-sentido-usar-o-disquete-como-%C3%ADcone-de-salvar-3bd2a735025e){:target="_blank"}
+* [Artigo: Surprise! Kids don't know what the save icon stands for (CNET)](https://www.cnet.com/news/surprise-kids-dont-know-what-the-save-icon-stands-for/){:target="_blank" rel="noopener"}
+* [Vídeo: Kids react to old computer (YouTube)](https://www.youtube.com/watch?v=PF7EpEnglgk){:target="_blank" rel="noopener"}
+* [Artigo: Ainda faz sentido usar o disquete como ícone de "salvar"? (UX Collective)](https://brasil.uxdesign.cc/ainda-faz-sentido-usar-o-disquete-como-%C3%ADcone-de-salvar-3bd2a735025e){:target="_blank" rel="noopener"}

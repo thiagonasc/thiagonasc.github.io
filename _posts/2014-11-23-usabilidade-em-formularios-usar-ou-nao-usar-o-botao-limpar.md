@@ -44,7 +44,7 @@ Portanto, salvo os raros casos em que se faz necessário, formulários que neces
 ### Referências
 
 <ul>
-  <li><a href="http://www.nngroup.com/articles/reset-and-cancel-buttons/" target="_blank">Reset and Cancel Buttons (Nielsen Norman Group)</a></li>
-  <li><a href="http://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank">10 Usability Heuristics for User Interface Design (Nielsen Norman Group)</a></li>
-  <li><a href="http://fator.ws/botao-limpar/" target="_blank">A maldição do botão Limpar (Fator W)</a></li>
+  <li><a href="http://www.nngroup.com/articles/reset-and-cancel-buttons/" target="_blank" rel="noopener">Reset and Cancel Buttons (Nielsen Norman Group)</a></li>
+  <li><a href="http://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank" rel="noopener">10 Usability Heuristics for User Interface Design (Nielsen Norman Group)</a></li>
+  <li><a href="http://fator.ws/botao-limpar/" target="_blank" rel="noopener">A maldição do botão Limpar (Fator W)</a></li>
 </ul>

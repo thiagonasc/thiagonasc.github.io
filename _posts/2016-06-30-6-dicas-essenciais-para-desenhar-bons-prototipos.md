@@ -36,7 +36,7 @@ Os itens básicos e obrigatórios no ambiente para se prototipar são o espaço 
 Recomenda-se que tenha uma mesa grande livre para poder espalhar seus materiais, deixando-os visíveis e fáceis de serem manuseados. Outro ponto importante é com este espaço poder espalhar as várias folhas já desenhadas a fim de facilitar a visibilidade dos protótipos.
 
 ![Várias folhas com protótipos desenhados sobre a mesa](/assets/imgs/prototipos-mesa.jpg){:.img-fluid.rounded}
-<em>Crédito: <a href="https://commons.wikimedia.org/wiki/File:Paper_prototype_of_website_user_interface,_2015-04-16.jpg" target="_blank">By Sage Ross (Own work) [CC BY-SA 4.0], via Wikimedia Commons</a></em>
+<em>Crédito: <a href="https://commons.wikimedia.org/wiki/File:Paper_prototype_of_website_user_interface,_2015-04-16.jpg" target="_blank" rel="noopener">By Sage Ross (Own work) [CC BY-SA 4.0], via Wikimedia Commons</a></em>
 
 Quando se cria protótipos guiados, isto é, com a ajuda e considerações de outros envolvidos em volta, é bom que tenha-se um ambiente quieto e calmo a fim de facilitar a comunicação e não atrapalhar na criatividade. Porém, caso esteja criando protótipos sozinho, sem a comunicação com outros envolvidos durante o processo, uma boa música de fundo é essencial!
 
@@ -103,7 +103,7 @@ Delimite a área a ser trabalhada com traços fortes.
 Com o intuito de facilitar o entendimento do usuário - do protótipo - e permitir uma melhor comparação com a realidade, o rascunho do dispositivo é altamente recomendado.
 
 ![Vários protótipos desenhados a mão](/assets/imgs/limites-prototipo.jpg){:.img-fluid.rounded}
-<em>Crédito: <a href="http://raduluchian.com/sketching-the-web/" target="_blank">Radu Luchian - Tools of the trade: Sketching the web</a></em>
+<em>Crédito: <a href="http://raduluchian.com/sketching-the-web/" target="_blank" rel="noopener">Radu Luchian - Tools of the trade: Sketching the web</a></em>
 
 Na internet é possível de encontrar diversos modelos e exemplos legais a serem utilizados.
 ### Defina os grids
@@ -125,7 +125,7 @@ Portanto, foque na experiência do usuário, isto é, crie seus protótipos pens
 Aplique ao máximo seus conhecimentos em usabilidade e acessibilidade. Facilite seu uso!
 
 ![Usuário manuseando protótipos feito a mão](/assets/imgs/prototipo-experiencia-usuario.jpg){:.img-fluid.rounded}
-<em>Crédito: <a href="http://walker.kim/" target="_blank">Walker Kim</a></em>
+<em>Crédito: <a href="http://walker.kim/" target="_blank" rel="noopener">Walker Kim</a></em>
 
 ## 5. Inspire-se
 
@@ -135,7 +135,7 @@ Não é preciso reinventar a roda!
 Muitas telas e interações já foram profundamente estudadas por especialistas e aplicadas em inúmeros projetos. Quando elas funcionam bem, não se faz necessário reinventa-las, pelo contrário, aproveite-as em seus protótipos.
 
 ![Protótipos bem desenhados em um caderno e ao lado, caneta, régua e celular.](/assets/imgs/prototipos-feitos-a-mao.jpg){:.img-fluid.rounded}
-<em>Créditos: <a href="http://theguild.jp/" target="_blank">The Guild</a></em>
+<em>Créditos: <a href="http://theguild.jp/" target="_blank" rel="noopener">The Guild</a></em>
 
 Se você precisa de uma boa inspiração, encontre-a nos melhores.
 
@@ -149,15 +149,15 @@ Lembre-se sempre que há uma grande diferença entre se inspirar e copiar uma id
 O protótipo é a forma mais rápida e barata de se usar um produto. Este é seu objetivo!
 
 ![Usuário experimentando protótipo desenhado a mão](/assets/imgs/experimentando-o-prototipo.jpg){:.img-fluid.rounded}
-<em>Crédito: <a href="https://www.youtube.com/watch?v=Car4IlhY3_0" target="_blank">Low fidelity prototype testing of the EE app (The UX Playground / Youtube)</a></em>
+<em>Crédito: <a href="https://www.youtube.com/watch?v=Car4IlhY3_0" target="_blank" rel="noopener">Low fidelity prototype testing of the EE app (The UX Playground / Youtube)</a></em>
 
 Quando criados em papéis, experimentar os protótipos com outros usuários se torna incrivelmente fácil uma vez que você precisa somente de apontar, seja com o dedo ou uma caneta para simular seu uso e colher feedbacks. Existem inclusive técnicas para estudo de usabilidade aplicáveis aos protótipos de papel. Faça bom uso!
 
 ## Referências e leituras complementares
 
 <ul>
-  <li><a href="https://en.wikipedia.org/wiki/Software_prototyping" target="_blank">Software Prototyping (Wikipédia)</a></li>
-  <li><a href="http://www.teach-ict.com/as_a2_ict_new/ocr/A2_G063/331_systems_cycle/prototyping_RAD/miniweb/pg5.htm" target="_blank">Benefits of prototyping (Teach ICT)</a></li>
-  <li><a href="http://sixrevisions.com/user-interface/wireframing-benefits/" target="_blank">Wiframe benefits (Six Revisions)</a></li>
-  <li><a href="http://raduluchian.com/sketching-the-web/" target="_blank">Tools of the trade: Sketching the web (Radu Luchian)</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Software_prototyping" target="_blank" rel="noopener">Software Prototyping (Wikipédia)</a></li>
+  <li><a href="http://www.teach-ict.com/as_a2_ict_new/ocr/A2_G063/331_systems_cycle/prototyping_RAD/miniweb/pg5.htm" target="_blank" rel="noopener">Benefits of prototyping (Teach ICT)</a></li>
+  <li><a href="http://sixrevisions.com/user-interface/wireframing-benefits/" target="_blank" rel="noopener">Wiframe benefits (Six Revisions)</a></li>
+  <li><a href="http://raduluchian.com/sketching-the-web/" target="_blank" rel="noopener">Tools of the trade: Sketching the web (Radu Luchian)</a></li>
 </ul>

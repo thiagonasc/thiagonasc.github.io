@@ -72,8 +72,8 @@ Um site ou sistema com técnicas de acessibilidade bem aplicadas oferece uma bo
 ### Referências
 
 <ul>
-  <li><a href="http://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html" target="_blank">W3C Brasil - Cartilha: acessibilidade na web</a></li>
-  <li><a href="http://www.w3.org/TR/WAI-WEBCONTENT/" target="_blank">W3C - Web Content Accessibility Guidelines 1.0</a></li>
-  <li><a href="http://acessibilidadelegal.com/13-tudotem.php" target="_blank">Acessibilidade web: tudo tem sua primeira vez - Parte 1</a></li>
-  <li><a href="http://acessibilidadelegal.com/13-tudotem2.php" target="_blank">Acessibilidade web: tudo tem sua primeira vez - Parte 2</a></li>
+  <li><a href="http://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html" target="_blank" rel="noopener">W3C Brasil - Cartilha: acessibilidade na web</a></li>
+  <li><a href="http://www.w3.org/TR/WAI-WEBCONTENT/" target="_blank" rel="noopener">W3C - Web Content Accessibility Guidelines 1.0</a></li>
+  <li><a href="http://acessibilidadelegal.com/13-tudotem.php" target="_blank" rel="noopener">Acessibilidade web: tudo tem sua primeira vez - Parte 1</a></li>
+  <li><a href="http://acessibilidadelegal.com/13-tudotem2.php" target="_blank" rel="noopener">Acessibilidade web: tudo tem sua primeira vez - Parte 2</a></li>
 </ul>

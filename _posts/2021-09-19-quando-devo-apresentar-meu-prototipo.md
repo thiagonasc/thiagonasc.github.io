@@ -36,7 +36,7 @@ Há outro interessante paradoxo do protótipo:
 
 <figure class="figure">
   <img src="/assets/imgs/quando-apresentar-prototipo/testando-prototipo-celular.jpg" class="figure-img img-fluid rounded" alt="Fotografia do ponto de vista de uma pessoa segurando um celular com a mão esquerda e o dedo indicador da mão direita indo em direção à tela para manusear a interface com diversas fotos.">
-  <figcaption class="figure-caption">Foto de <a href="https://www.pexels.com/pt-br/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels" target="_blank">cottonbro</a> no <a href="https://www.pexels.com/pt-br/foto/aplicativo-app-aplicacao-solicitacao-5082579/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels" target="_blank">Pexels</a></figcaption>
+  <figcaption class="figure-caption">Foto de <a href="https://www.pexels.com/pt-br/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels" target="_blank" rel="noopener">cottonbro</a> no <a href="https://www.pexels.com/pt-br/foto/aplicativo-app-aplicacao-solicitacao-5082579/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels" target="_blank" rel="noopener">Pexels</a></figcaption>
 </figure>
 
 Pode soar estranho em primeiro momento, mas basta pedirmos a um inexperiente que crie um protótipo. Ele fará alguns rabiscos e pronto, fácil assim!

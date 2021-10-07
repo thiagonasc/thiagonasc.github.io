@@ -14,7 +14,7 @@ categories:
 
 ![Livro Sprint colocado sobre uma cabeceira de madeira e duas canetas ao lado](/assets/imgs/livro-sprint/livro-sprint-capa.jpg){:.img-fluid.rounded}
 
-O título do livro **[Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias](https://amzn.to/2LRY6jv){:target="_blank"}** já é auto explicativo, mas em linhas ainda simples, sabe aquela ideia brilhante de um novo produto ou mesmo a evolução de um serviço? Então, por onde exatamente começar?
+O título do livro **[Sprint - O método usado no Google para testar e aplicar novas ideias em apenas cinco dias](https://amzn.to/2LRY6jv){:target="_blank" rel="noopener"}** já é auto explicativo, mas em linhas ainda simples, sabe aquela ideia brilhante de um novo produto ou mesmo a evolução de um serviço? Então, por onde exatamente começar?
 
 ### A metodologia
 
@@ -37,7 +37,7 @@ Há diversas ilustrações que sintetizam a dinâmica e outras que reproduzem os
 
 Tive a oportunidade de participar de diversos Design Sprints e ainda que o autor considere que "com o livro você tem tudo o que precisa, podendo ser um facilitador sem nenhuma experiência", digo categoricamente que para resultados expressivos, nada melhor que a prática! E óbvio, afinal, a prática nos leva ao aperfeiçoamento. Mas digo isso com o intuito de enfatizar que as primeiras experiências podem não ter o resultado esperado, no entanto, a cada dinâmica as atividades passam a fazer mais sentido, o processo se torna mais fluído, conciso e consequentemente, os resultados se tornam mais contundentes.
 
-Caso se interesse em aprofundar mais no método, há diversos materiais e ferramentas interessantes disponíveis no site oficial ([thesprintbook.com](https://www.thesprintbook.com/){:target="_blank"}), que funciona muito bem como uma extensão do livro.
+Caso se interesse em aprofundar mais no método, há diversos materiais e ferramentas interessantes disponíveis no site oficial ([thesprintbook.com](https://www.thesprintbook.com/){:target="_blank" rel="noopener"}), que funciona muito bem como uma extensão do livro.
 
 ### Conclusão
 

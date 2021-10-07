@@ -33,7 +33,7 @@ Lembre-se: um bom processador e uma boa quantidade de memória-ram faz toda a di
 
 ![Vários computadores sobre bancada.](/assets/imgs/computador.jpg){:.img-fluid.rounded}
 
-Ao escolher, prefira um processador mais potente à memória-ram, pois a memória (na maioria das vezes) você pode fazer <em>upgrade</em> futuramente, o que não acontece com o processador. E se a ideia é investir em peso e fazer uma máquina potente pra valer, considere (e muito) a compra de um <a title="HD SSD - Wikipédia" href="http://pt.wikipedia.org/wiki/SSD" target="_blank">HD SSD</a>, tornando seus acessos e escrita de arquivos aproximadamente 5x mais rápidos do que num HD convencional!
+Ao escolher, prefira um processador mais potente à memória-ram, pois a memória (na maioria das vezes) você pode fazer <em>upgrade</em> futuramente, o que não acontece com o processador. E se a ideia é investir em peso e fazer uma máquina potente pra valer, considere (e muito) a compra de um <a title="HD SSD - Wikipédia" href="http://pt.wikipedia.org/wiki/SSD" target="_blank" rel="noopener">HD SSD</a>, tornando seus acessos e escrita de arquivos aproximadamente 5x mais rápidos do que num HD convencional!
 
 ## Monitor
 
@@ -74,7 +74,7 @@ Cada web designer possui suas especificidade e necessidades, alguns se restringe
 Serei genérico neste artigo (para me aprofundar em outro, mais específico) e me limitarei à indicação de alguns dos softwares mais necessários e utilizados.
 
 * **Navegadores:** Google Chrome, Mozilla Firefox, Safari, Opera, IE<del>ca</del>.
-* **Prototipação:** Balsamiq, <a href="http://pencil.evolus.vn/" target="_blank">Pencil Project</a>, <a href="http://www.justinmind.com/" target="_blank">Prototyper</a>, <a href="https://moqups.com/" target="_blank">Moqups</a> (online), <a href="https://gomockingbird.com/" target="_blank">Mockingbird</a> (online), MockFlow, OmniGraffle, Axure Pro.
+* **Prototipação:** Balsamiq, <a href="http://pencil.evolus.vn/" target="_blank" rel="noopener">Pencil Project</a>, <a href="http://www.justinmind.com/" target="_blank" rel="noopener">Prototyper</a>, <a href="https://moqups.com/" target="_blank" rel="noopener">Moqups</a> (online), <a href="https://gomockingbird.com/" target="_blank" rel="noopener">Mockingbird</a> (online), MockFlow, OmniGraffle, Axure Pro.
 * **Edição gráfica:** Adobe Fireworks, Adobe Photoshop, Adobe Illustrator, Gimp, Inkscape.
 * **Editores de código:** Sublime Text, TextMate, TextWrangler, BBEdit, Notepad++, Bluefish, Brackets, Coda, Smultron, Vim, NetBeans, Dreamweaver.
 * **Clientes FTP:** FileZilla, Transmit, CuteFTP, SmartFTP, WinSCP, Cyberduck.

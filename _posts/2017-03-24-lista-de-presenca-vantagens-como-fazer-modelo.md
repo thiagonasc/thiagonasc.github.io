@@ -14,7 +14,7 @@ img:
  alt:	Mãos de um homem de terno assinando documento
 ---
 
-A ata, conforme visto no artigo “<a href="http://thiagonasc.com/produtividade/atas-de-reunioes-como-fazer-de-forma-efetiva" target="_blank">Ata de Reunião: como fazer de forma efetiva</a>" é item obrigatório em qualquer reunião, é nela que se reunem todas as informações discutidas, as definições e encaminhamentos realizados durante o ‘evento’. Mas ela não deve estar sozinha, a <strong>Lista de Presença</strong> ou <strong>Registro de Presença</strong> (como preferir), é outro item essencial que não deve ser negligenciado.
+A ata, conforme visto no artigo “<a href="http://thiagonasc.com/produtividade/atas-de-reunioes-como-fazer-de-forma-efetiva" target="_blank" rel="noopener">Ata de Reunião: como fazer de forma efetiva</a>" é item obrigatório em qualquer reunião, é nela que se reunem todas as informações discutidas, as definições e encaminhamentos realizados durante o ‘evento’. Mas ela não deve estar sozinha, a <strong>Lista de Presença</strong> ou <strong>Registro de Presença</strong> (como preferir), é outro item essencial que não deve ser negligenciado.
 
 ## Vantagens em se utilizar a lista de presença nas reuniões:
 

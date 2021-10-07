@@ -12,7 +12,7 @@ categories:
 
 #### O título *(Trabalhe 4 horas por semana)* até me chamou a atenção, muito diferente do subtítulo *(Fuja da rotina, viva onde quiser e fique rico)* que soou definitivamente muito clichê.
 
-Mas como grande interessado em perspectivas e pensamentos sobre **produtividade**, preferi não desconsiderar uma obra com mais de 1,5 milhão de exemplares vendidos em todo o mundo, listado como _best-seller_ durante anos em importantes publicações como *[New York Times](https://www.nytimes.com/books/best-sellers/){:target="_blank"}* e *[Wall Street Journal](https://www.wsj.com/news/types/best-selling-books){:target="_blank"}*.
+Mas como grande interessado em perspectivas e pensamentos sobre **produtividade**, preferi não desconsiderar uma obra com mais de 1,5 milhão de exemplares vendidos em todo o mundo, listado como _best-seller_ durante anos em importantes publicações como *[New York Times](https://www.nytimes.com/books/best-sellers/){:target="_blank" rel="noopener"}* e *[Wall Street Journal](https://www.wsj.com/news/types/best-selling-books){:target="_blank" rel="noopener"}*.
 
 Como disse Napoleon Hill: "**O caminho do sucesso é a busca contínua pelo conhecimento**".
 

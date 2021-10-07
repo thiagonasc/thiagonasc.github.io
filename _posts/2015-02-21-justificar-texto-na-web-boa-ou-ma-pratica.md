@@ -46,7 +46,7 @@ Os grandes blocos uniformes tornam sua tarefa de ir à próxima linha mais difí
 As fontes são especialmente desenhadas levando em conta milimetricamente o espaçamento entre as letras e palavras de forma a oferecer uma leitura e um visual agradável. Ao justificar, toda essa 'atenção’ é descartada.
 
 ![Detalhes da anatomia de uma tipografia](/assets/imgs/anatomy-of-type.jpg){:.img-fluid.rounded}
-<em>Imagem: <a href="http://typophile.com/" target="_blank">TypoHile</a></em>
+<em>Imagem: <a href="http://typophile.com/" target="_blank" rel="noopener">TypoHile</a></em>
 
 ## Conclusão
 
@@ -57,8 +57,8 @@ Porém, para a web, onde a formação desses blocos é dinâmica por formatos e 
 ## Referências e leituras complementares
 
 <ul>
-	<li><a href="http://designforhackers.com/blog/never-justify-type-on-the-web/" target="_blank">Never Justify Type on the Web (Design Hackers)</a></li>
-	<li><a href="http://www.castlegateit.co.uk/2013/09/can-justified-text-be-justifed-for-the-web/" target="_blank">Can justified text be justified for the web? (CastleGate IT)</a></li>
-	<li><a href="http://wmich.edu/writing/readability" target="_blank">Readability Do's and Dont's - Writing Style Guide (Wester Michigan University)</a></li>
-	<li><a href="http://tableless.com.br/um-guia-completo-de-tipografia-para-a-web/" target="_blank">Um guia completo de tipografia para a web (Tableless)</a></li>
+	<li><a href="http://designforhackers.com/blog/never-justify-type-on-the-web/" target="_blank" rel="noopener">Never Justify Type on the Web (Design Hackers)</a></li>
+	<li><a href="http://www.castlegateit.co.uk/2013/09/can-justified-text-be-justifed-for-the-web/" target="_blank" rel="noopener">Can justified text be justified for the web? (CastleGate IT)</a></li>
+	<li><a href="http://wmich.edu/writing/readability" target="_blank" rel="noopener">Readability Do's and Dont's - Writing Style Guide (Wester Michigan University)</a></li>
+	<li><a href="http://tableless.com.br/um-guia-completo-de-tipografia-para-a-web/" target="_blank" rel="noopener">Um guia completo de tipografia para a web (Tableless)</a></li>
 </ul>

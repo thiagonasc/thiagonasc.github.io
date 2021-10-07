@@ -13,21 +13,21 @@ categories:
 
 #### Aos olhos menos atentos passa de forma imperceptível, mas o site ganhou um novo layout, ou melhor: quase isso!
 
-Quando criei o site e blog, em 2013, utilizava o [WordPress][1]{:target="_blank"} por considerá-lo uma ferramenta robusta (e de fato é). No entanto, devido sua própria robustez, as alterações acabam sendo morosas.
+Quando criei o site e blog, em 2013, utilizava o [WordPress][1]{:target="_blank" rel="noopener"} por considerá-lo uma ferramenta robusta (e de fato é). No entanto, devido sua própria robustez, as alterações acabam sendo morosas.
 
-Tendendo para uma vida mais essencialista e refletindo esses princípios em todas as áreas da vida, em 2017 decidi me aventurar com o [Jekyll][2]{:target="_blank"}, um gerador de site estático simples e bastante eficiente. 
+Tendendo para uma vida mais essencialista e refletindo esses princípios em todas as áreas da vida, em 2017 decidi me aventurar com o [Jekyll][2]{:target="_blank" rel="noopener"}, um gerador de site estático simples e bastante eficiente. 
 
 Me surpreendi tão positivamente com a ferramenta que sigo utilizando-a.
 
-Para ser prático, utilizei o tema original [Minima][3]{:target="_blank"}. Um layout bastante simples mas também muito eficiente aos meus objetivos. Claro que um ajuste aqui outro lá, mas a essência do tema sempre se manteve.
+Para ser prático, utilizei o tema original [Minima][3]{:target="_blank" rel="noopener"}. Um layout bastante simples mas também muito eficiente aos meus objetivos. Claro que um ajuste aqui outro lá, mas a essência do tema sempre se manteve.
 
 ![Printscreen mostrando o layout antigo do site com o tema minima: menu no topo em cinza claro e conteúdo corrido da página de livros](/assets/imgs/novo-layout/thiagonasc-layout-antigo-minima.jpg){:.img-fluid.rounded.border}
 
-Alguns anos se passaram, novas ideias surgiram, e enfim... a necessidade de maior flexibilidade do layout me fez voltar aos códigos e imergir novamente no mundo do [Bootstrap][4]{:target="_blank"}.
+Alguns anos se passaram, novas ideias surgiram, e enfim... a necessidade de maior flexibilidade do layout me fez voltar aos códigos e imergir novamente no mundo do [Bootstrap][4]{:target="_blank" rel="noopener"}.
 
 Como tive boa experiência no passado (v3), conhecer a última versão (v5), com todas suas novidades, foi extremamente divertido! Me impressionei com o quanto evoluiu!
 
-E assim surge o novo layout, ou melhor, quase isso: a ideia inicial foi manter a mesma essência do [Minima][3]{:target="_blank"}, por isso passa quase imperceptível, no entanto há pequenas mudanças em razão do [Bootstrap][4]{:target="_blank"} e claro, algumas melhorias que há algum tempo desejava aplicar.
+E assim surge o novo layout, ou melhor, quase isso: a ideia inicial foi manter a mesma essência do [Minima][3]{:target="_blank" rel="noopener"}, por isso passa quase imperceptível, no entanto há pequenas mudanças em razão do [Bootstrap][4]{:target="_blank" rel="noopener"} e claro, algumas melhorias que há algum tempo desejava aplicar.
 
 ![Printscreen mostrando o layout novo do site com o tema em Bootstrap: menu no topo em fundo branco e conteúdo da página de livros mostrando-os de forma mais organizada, um ao lado do outro](/assets/imgs/novo-layout/thiagonasc-layout-novo-bootstrap.jpg){:.img-fluid.rounded.border}
 

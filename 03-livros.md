@@ -101,7 +101,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 	{% for livro in page.livro.lendo %}
 	<div class="feature col py-4">
 		<div class="feature-icon">
-			<a href="{{ livro[1].url }}" target="_blank">
+			<a href="{{ livro[1].url }}" target="_blank" rel="noopener">
 				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
 			</a>
 		</div><br>
@@ -111,7 +111,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 		</h5>
 		<p>{{ livro[1].subtitulo }}</p>
 		{%- if livro[1].resenha -%}<a href="{{ livro[1].resenha }}" class="icon-link">Ler resenha »</a><br>{%- endif -%}
-		<a href="{{ livro[1].url }}" class="icon-link" target="_blank">Ver na Amazon »</a>
+		<a href="{{ livro[1].url }}" class="icon-link" target="_blank" rel="noopener">Ver na Amazon »</a>
 	</div>
 	{% endfor %}
 </div>
@@ -126,7 +126,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 	{% for livro in page.livro.lidos-2021 %}
 	<div class="feature col py-4">
 		<div class="feature-icon">
-			<a href="{{ livro[1].url }}" target="_blank">
+			<a href="{{ livro[1].url }}" target="_blank" rel="noopener">
 				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
 			</a>
 		</div><br>
@@ -136,7 +136,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 		</h5>
 		<p>{{ livro[1].subtitulo }}</p>
 		{%- if livro[1].resenha -%}<a href="{{ livro[1].resenha }}" class="icon-link">Ler resenha »</a><br>{%- endif -%}
-		<a href="{{ livro[1].url }}" class="icon-link" target="_blank">Ver na Amazon »</a>
+		<a href="{{ livro[1].url }}" class="icon-link" target="_blank" rel="noopener">Ver na Amazon »</a>
 	</div>
 	{% endfor %}
 </div>
@@ -147,7 +147,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 	{% for livro in page.livro.lidos-2020 %}
 	<div class="feature col py-4">
 		<div class="feature-icon">
-			<a href="{{ livro[1].url }}" target="_blank">
+			<a href="{{ livro[1].url }}" target="_blank" rel="noopener">
 				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
 			</a>
 		</div><br>
@@ -157,7 +157,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 		</h5>
 		<p>{{ livro[1].subtitulo }}</p>
 		{%- if livro[1].resenha -%}<a href="{{ livro[1].resenha }}" class="icon-link">Ler resenha »</a><br>{%- endif -%}
-		<a href="{{ livro[1].url }}" class="icon-link" target="_blank">Ver na Amazon »</a>
+		<a href="{{ livro[1].url }}" class="icon-link" target="_blank" rel="noopener">Ver na Amazon »</a>
 	</div>
 	{% endfor %}
 </div>
@@ -168,7 +168,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 	{% for livro in page.livro.lidos-outros %}
 	<div class="feature col py-4">
 		<div class="feature-icon">
-			<a href="{{ livro[1].url }}" target="_blank">
+			<a href="{{ livro[1].url }}" target="_blank" rel="noopener">
 				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
 			</a>
 		</div><br>
@@ -178,7 +178,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 		</h5>
 		<p>{{ livro[1].subtitulo }}</p>
 		{%- if livro[1].resenha -%}<a href="{{ livro[1].resenha }}" class="icon-link">Ler resenha »</a><br>{%- endif -%}
-		<a href="{{ livro[1].url }}" class="icon-link" target="_blank">Ver na Amazon »</a>
+		<a href="{{ livro[1].url }}" class="icon-link" target="_blank" rel="noopener">Ver na Amazon »</a>
 	</div>
 	{% endfor %}
 </div>
