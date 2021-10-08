@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Como o Google previne o erro mais comum de seus usuários no Gmail?'
-description: ''
+description: 'Um recurso extremamente simples no entanto poderoso previne o erro mais comum dos usuários no Gmail'
 date: 2021-10-07 22:40:00 -03:00
 type: post
 published: true

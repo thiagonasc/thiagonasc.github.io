@@ -24,6 +24,7 @@ description: "Experiências, estudos e conteúdo interessantes (pessoais e profi
 baseurl: ""
 url: "http://www.thiagonasc.com"
 author: "Thiago Nascimento"
+timezone: America/Sao_Paulo
 
 # Build settings
 theme: minima
