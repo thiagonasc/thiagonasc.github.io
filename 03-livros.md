@@ -6,8 +6,24 @@ permalink:	/livros/
 livro:
  lendo:
   1:
-   titulo: "Pipeline de Liderança"
+   titulo: "O lado difícil das situações difíceis"
+   subtitulo: "Como constuir um negócio quando não existem respostas prontas."
+   autor: " Ben Horowitz"
+   url: "https://amzn.to/3yBKqmf"
+   img-asin: "857827976X"
+ 
+ lidos-2022:
+  1:
+   titulo: "Sonho grande"
    subtitulo: "O desenvolvimento de líderes como diferencial competitivo."
+   autor: "Cristiane Correa"
+   url: "https://amzn.to/38okwYA"
+   img-asin: "8575429108"
+
+ lidos-2021:
+  1:
+   titulo: "Pipeline de Liderança"
+   subtitulo: "Como Jorge Paulo Lemann, Marcel Telles e Beto Sicupira revolucionaram o capitalismo brasileiro e conquistaram o mundo."
    autor: "Ram Charan, Stephen Drotter, James Noel"
    url: "https://amzn.to/3BKE9DV"
    img-asin: "8543106052"
@@ -17,21 +33,19 @@ livro:
    autor: "Eric Ries"
    url: "https://amzn.to/2ROZg5M"
    img-asin: "8543108624"
-
- lidos-2021:
-  1:
+  3:
    titulo: "Ikigai"
    subtitulo: "Os cinco passos para encontrar seu propósito de vida e ser mais feliz."
    autor: "Ken Mogi"
    url: "https://amzn.to/3zmQkWi"
    img-asin: "8582467311"
-  2:
+  4:
    titulo: "Simplificando coisas que parecem complicadas"
    subtitulo: "O guia do tipo faça você mesmo para descobrir e consertar problemas de usabilidade."
    autor: "Steve Krug"
    url: "https://amzn.to/3c6JTNZ"
    img-asin: "8576084511"
-  3:
+  5:
    titulo: "Essencialismo"
    subtitulo: "A busca disciplinada por menos."
    autor: "Greg McKeown"
@@ -119,6 +133,27 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 ## Lidos
 
 <br>
+
+### 2022
+
+<div class="row row-cols-1 row-cols-md-4">
+	{% for livro in page.livro.lidos-2022 %}
+	<div class="feature col py-4">
+		<div class="feature-icon">
+			<a href="{{ livro[1].url }}" target="_blank" rel="noopener">
+				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
+			</a>
+		</div><br>
+		<h5 class="card-title">
+			{{ livro[1].titulo }}<br>
+			<small class="text-muted">{{ livro[1].autor }}</small>
+		</h5>
+		<p>{{ livro[1].subtitulo }}</p>
+		{%- if livro[1].resenha -%}<a href="{{ livro[1].resenha }}" class="icon-link">Ler resenha »</a><br>{%- endif -%}
+		<a href="{{ livro[1].url }}" class="icon-link" target="_blank" rel="noopener">Ver na Amazon »</a>
+	</div>
+	{% endfor %}
+</div>
 
 ### 2021
 
