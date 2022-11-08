@@ -26,3 +26,10 @@
 .post-link {
   text-decoration: none;
 }
+
+a.anchor {
+  display: block;
+  position: relative;
+  top: -90px;
+  visibility: hidden;
+}

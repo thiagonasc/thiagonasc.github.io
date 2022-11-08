@@ -6,14 +6,20 @@ permalink:	/livros/
 livro:
  lendo:
   1:
-   titulo: "O lado difícil das situações difíceis"
-   subtitulo: "Como constuir um negócio quando não existem respostas prontas."
-   autor: " Ben Horowitz"
-   url: "https://amzn.to/3yBKqmf"
-   img-asin: "857827976X"
+   titulo: "O Mais Importante para o Investidor"
+   subtitulo: "Lições de um Gênio do Mercado Financeiro."
+   autor: "Howard Marks"
+   url: "https://amzn.to/3DMAzec"
+   img-asin: "6556600202"
  
  lidos-2022:
   1:
+   titulo: "O lado difícil das situações difíceis"
+   subtitulo: "Como constuir um negócio quando não existem respostas prontas."
+   autor: "Ben Horowitz"
+   url: "https://amzn.to/3yBKqmf"
+   img-asin: "857827976X"  
+  2:
    titulo: "Sonho grande"
    subtitulo: "O desenvolvimento de líderes como diferencial competitivo."
    autor: "Cristiane Correa"
