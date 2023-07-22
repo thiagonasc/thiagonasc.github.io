@@ -9,11 +9,11 @@ Prazer, **Thiago Nascimento**.
 Transformando ideias em produtos.<br>
 Um eterno apaixonado por interfaces que funcionam e interações que satisfazem.
 
-Innovation Partner em <a href="https://www.youxgroup.com.br/" target="_blank">YouX Group</a>.
+CTO em <a href="https://www.gooxxy.com/" target="_blank">Gooxxy</a>
 
 ### Sobre mim
 
-Nasci em Macaé/RJ mas fui criado em Três Pontas no sul das Minas Gerais. Ainda criança tive a grata oportunidade de conhecer o computador e à partir dali, com muita curiosidade e interesse, fui me aventurando e descobrindo o mundo do desenvolvimento e design. O que era uma simples brincadeira se tornou em uma apaixonante profissão.
+Nasci em Macaé/RJ mas fui criado em Três Pontas no sul das Minas Gerais. Ainda criança tive a grata oportunidade de conhecer o computador e à partir dali, com muita curiosidade e interesse, fui me aventurando e descobrindo o mundo da tecnologia. O que era uma simples brincadeira se tornou em uma apaixonante profissão!
 
 ### Formação
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Resenha: O mais importante para o investidor (Howard Marks)'
-description: ''
+description: 'O que é o mais importane para o investidor? O livro não te ensinará o caminho mais curto ou o tiro mais certeiro... é um livro de princípios, a ser lido, relido e revisitado... sempre que possível ou necessário!'
 date: 2023-04-17 20:00:00 -03:00
 type: post
 published: true
@@ -41,7 +41,7 @@ Citando *Donald Miller* em [Storybrand][1]{:target="_blank"}: "as pessoas não c
 
 Curiosamente, esperava com a leitura entender rapidamente sobre o mundo dos investimentos e finalizo-a, talvez não tão rapidamente quanto esperava, mas com a convicção de entender melhor sobre este universo e ainda considerando a obra como um dos melhores produtos (tratando-se de livros de investimentos)!
 
-Não me aprofundarei em explicar quem é o gênio do mercado financeiro **Howard Marks** (afinal estes conteúdos da [Wikipédia][2] e [YouTube][3] poderão explicar melhor), mas talvez seja suficiente mencionar que com mais de 50 anos de experiência, gerencia cerca de US$150 bilhões, tendo *Warren Buffett* como grande incentivador à escrita do livro e também quem assina seu prefácio.
+Não me aprofundarei em explicar quem é o gênio do mercado financeiro **Howard Marks** (afinal estes conteúdos da [Wikipédia][2] e [YouTube][3] poderão explicar melhor), mas talvez seja suficiente mencionar que com mais de 50 anos de experiência, gerencia cerca de US$ 150 bilhões, tendo *Warren Buffett* como grande incentivador à escrita do livro e também quem assina seu prefácio.
 
 Em especial, o primeiro capítulo: **o pensamento de segundo nível**, carrega um princípio de extremo valor, aplicável em diversas, se não todas as áreas da vida:
 

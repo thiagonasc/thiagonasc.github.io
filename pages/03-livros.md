@@ -6,27 +6,33 @@ permalink:	/livros/
 livro:
  lendo:
   1:
+    titulo: "High Output Management"
+    subtitulo: "This is a user-friendly guide to the art and science of management from Andrew S. Grove, the president of America's leading manufacturer of computer chips."
+    autor: "Andrew S. Grove"
+    url: "https://amzn.to/44Q95A8"
+    img-asin: "0679762884"
+ 
+ lidos-2022:
+  1:
     titulo: "Avalie o que importa"
     subtitulo: "Como o Google, Bono Vox e a Fundação Gates sacudiram o mundo com os OKRs."
     autor: "John Doerr"
     url: "https://amzn.to/41hx4qP"
     img-asin: "855080455X"
- 
- lidos-2022:
-  1:
+  2:
    titulo: "O Mais Importante para o Investidor"
    subtitulo: "Lições de um Gênio do Mercado Financeiro."
    autor: "Howard Marks"
    url: "https://amzn.to/3DMAzec"
    img-asin: "6556600202"
+  3:
    resenha: resenha-o-mais-importante-para-o-investidor
-  2:
    titulo: "O lado difícil das situações difíceis"
    subtitulo: "Como constuir um negócio quando não existem respostas prontas."
    autor: "Ben Horowitz"
    url: "https://amzn.to/3yBKqmf"
    img-asin: "857827976X"  
-  3:
+  4:
    titulo: "Sonho grande"
    subtitulo: "O desenvolvimento de líderes como diferencial competitivo."
    autor: "Cristiane Correa"
@@ -118,32 +124,35 @@ livro:
 
 ---
 
-Acompanhe aqui minhas principais leituras em andamento e finalizadas. Alguns deles contam com uma breve resenha publicada no blog (os links estão abaixo).
+Desde que criei o site, passei a listar minhas leituras nesta página. Acompanhe portanto minhas principais leituras em andamento e finalizadas.
 
-Para adquirir qualquer título, basta clicar na capa do livro abaixo:
+Alguns deles contam com uma breve resenha publicada no blog (os links estão abaixo).
 
-## Lendo
+## Lendo agora
 
-<div class="row row-cols-1 row-cols-md-4">
+<div class="row row-cols-2 py-4">
 	{% for livro in page.livro.lendo %}
-	<div class="feature col py-4">
+	<div class="feature col-3">
 		<div class="feature-icon">
 			<a href="{{ livro[1].url }}" target="_blank" rel="noopener">
-				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
+				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL300_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
 			</a>
 		</div><br>
-		<h5 class="card-title">
-			{{ livro[1].titulo }}<br>
-			<small class="text-muted">{{ livro[1].autor }}</small>
-		</h5>
-		<p>{{ livro[1].subtitulo }}</p>
-		{%- if livro[1].resenha -%}<a href="{{ livro[1].resenha }}" class="icon-link">Ler resenha »</a><br>{%- endif -%}
-		<a href="{{ livro[1].url }}" class="icon-link" target="_blank" rel="noopener">Ver na Amazon »</a>
 	</div>
+  <div class="feature col-9">
+  <h5 class="card-title">
+    {{ livro[1].titulo }}<br>
+    <small class="text-muted">{{ livro[1].autor }}</small>
+  </h5>
+  <p>{{ livro[1].subtitulo }}</p>
+  {%- if livro[1].resenha -%}<a href="{{ livro[1].resenha }}" class="icon-link">Ler resenha »</a><br>{%- endif -%}
+  <a href="{{ livro[1].url }}" class="icon-link" target="_blank" rel="noopener">Ver na Amazon »</a>
+  </div>
+
 	{% endfor %}
 </div>
 
-## Lidos
+## Já lidos
 
 <br>
 
@@ -154,7 +163,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 	<div class="feature col py-4">
 		<div class="feature-icon">
 			<a href="{{ livro[1].url }}" target="_blank" rel="noopener">
-				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
+				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL240_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
 			</a>
 		</div><br>
 		<h5 class="card-title">
@@ -175,7 +184,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 	<div class="feature col py-4">
 		<div class="feature-icon">
 			<a href="{{ livro[1].url }}" target="_blank" rel="noopener">
-				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
+				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL240_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
 			</a>
 		</div><br>
 		<h5 class="card-title">
@@ -196,7 +205,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 	<div class="feature col py-4">
 		<div class="feature-icon">
 			<a href="{{ livro[1].url }}" target="_blank" rel="noopener">
-				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
+				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL240_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
 			</a>
 		</div><br>
 		<h5 class="card-title">
@@ -217,7 +226,7 @@ Para adquirir qualquer título, basta clicar na capa do livro abaixo:
 	<div class="feature col py-4">
 		<div class="feature-icon">
 			<a href="{{ livro[1].url }}" target="_blank" rel="noopener">
-				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
+				<img class="img-thumbnail" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro[1].img-asin }}&Format=_SL240_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" alt="...">
 			</a>
 		</div><br>
 		<h5 class="card-title">

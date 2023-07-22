@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paginação tradicional: como os grandes sites utilizam'
-description: ''
+description: 'Como paginar itens em sistemas de forma eficaz? Este artigo traz de forma simples como os maiores sites disponibilizam seus recursos de paginação.'
 date: 2022-11-07 22:20:00 -03:00
 type: post
 published: true
