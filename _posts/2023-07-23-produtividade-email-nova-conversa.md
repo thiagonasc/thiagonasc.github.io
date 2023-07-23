@@ -28,6 +28,18 @@ Em minha experiência de uso, definir que a mensagem mais nova deva ser exibida 
 
 Pode até soar contra-intuitivo em primeiro momento, mas há uma razão lógica e prática: acessar o e-mail por ordem de chegada, isto é, aquele que lhe enviou a mais tempo terá minha leitura e ação primeiro.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5699384142279766"
+	 crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+	 style="display:block; text-align:center;"
+	 data-ad-layout="in-article"
+	 data-ad-format="fluid"
+	 data-ad-client="ca-pub-5699384142279766"
+	 data-ad-slot="2841101662"></ins>
+<script>
+	 (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## 2. Utilize categorias simples em seus e-mails
 
 Qualquer e-mail possui fundamentalmente 5 possíveis ações:
