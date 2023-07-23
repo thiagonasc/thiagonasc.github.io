@@ -41,7 +41,7 @@ Citando *Donald Miller* em [Storybrand][1]{:target="_blank"}: "as pessoas não c
 
 Curiosamente, esperava com a leitura entender rapidamente sobre o mundo dos investimentos e finalizo-a, talvez não tão rapidamente quanto esperava, mas com a convicção de entender melhor sobre este universo e ainda considerando a obra como um dos melhores produtos (tratando-se de livros de investimentos)!
 
-Não me aprofundarei em explicar quem é o gênio do mercado financeiro **Howard Marks** (afinal estes conteúdos da [Wikipédia][2] e [YouTube][3] poderão explicar melhor), mas talvez seja suficiente mencionar que com mais de 50 anos de experiência, gerencia cerca de US$ 150 bilhões, tendo *Warren Buffett* como grande incentivador à escrita do livro e também quem assina seu prefácio.
+Não me aprofundarei em explicar quem é o gênio do mercado financeiro **Howard Marks** (afinal estes conteúdos da [Wikipédia][2]{:target='_blank'} e [YouTube][3]{:target='_blank'} poderão explicar melhor), mas talvez seja suficiente mencionar que com mais de 50 anos de experiência, gerencia cerca de US$ 150 bilhões, tendo *Warren Buffett* como grande incentivador à escrita do livro e também quem assina seu prefácio.
 
 Em especial, o primeiro capítulo: **o pensamento de segundo nível**, carrega um princípio de extremo valor, aplicável em diversas, se não todas as áreas da vida:
 
