@@ -58,7 +58,7 @@ Simples assim mas complexo!
 
 <hr class="my-4">
 
-| <a target="_blank" href="https://www.amazon.com.br/Mais-Importante-para-Investidor-Financeiro/dp/6556600202?&linkCode=li2&tag=finlist-20&linkId=d83337536919d84a5b7e5fad48bf92fb&language=pt_BR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=6556600202&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=finlist-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=finlist-20&language=pt_BR&l=li2&o=33&a=6556600202" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **O mais importante para o investidor**<br>Lições de um gênio do mercado financeiro<br>*Por: Howard Marks*<br>[🛒 Comprar na Amazon][1] |
+| <a target="_blank" href="https://amzn.to/3q17QiV" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=6556600202&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=thiagonasc-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=thiagonasc-20&language=pt_BR&l=li2&o=33&a=6556600202" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **O mais importante para o investidor**<br>Lições de um gênio do mercado financeiro<br>*Por: Howard Marks*<br>[🛒 Comprar na Amazon][1] |
 
 *PS: recomendo fortemente a versão em capa dura da Edipro.*
 
