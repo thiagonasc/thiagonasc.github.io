@@ -28,18 +28,6 @@ Em minha experiência de uso, definir que a mensagem mais nova deva ser exibida 
 
 Pode até soar contra-intuitivo em primeiro momento, mas há uma razão lógica e prática: acessar o e-mail por ordem de chegada, isto é, aquele que lhe enviou a mais tempo terá minha leitura e ação primeiro.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5699384142279766"
-	 crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-	 style="display:block; text-align:center;"
-	 data-ad-layout="in-article"
-	 data-ad-format="fluid"
-	 data-ad-client="ca-pub-5699384142279766"
-	 data-ad-slot="2841101662"></ins>
-<script>
-	 (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## 2. Utilize categorias simples em seus e-mails
 
 Qualquer e-mail possui fundamentalmente 5 possíveis ações:
@@ -81,6 +69,18 @@ Uma caixa de entrada vazia lhe minimiza o sentimento de sobrecarga e estresse, s
 E, por fim, e-mails devidamente categorizados lhe permitirá executar as ações em seu devido tempo, cabendo executar aqueles marcados como **aguardando ação**, acompanhar periodicamente à aqueles **aguardando repostas**, ler os categorizados para **ler depois**. E mais, com a tranquilidade em saber que informações importantes que não carecem de ação estão devidamente **armazenadas**.
 
 Simples recursos que o auxiliará a manter-se no caminho certo: **focado, produtivo e eficiente**.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5699384142279766"
+	 crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+	 style="display:block; text-align:center;"
+	 data-ad-layout="in-article"
+	 data-ad-format="fluid"
+	 data-ad-client="ca-pub-5699384142279766"
+	 data-ad-slot="2841101662"></ins>
+<script>
+	 (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 [1]: https://support.google.com/mail/answer/3094499?hl=pt-BR&co=GENIE.Platform%3DAndroid
 [2]: https://support.microsoft.com/pt-br/office/usar-categorias-no-outlook-com-a0f709a4-9bd8-45d7-a2b3-b6f8c299e079
