@@ -5,7 +5,6 @@ description: '...'
 date: 2023-04-17 20:00:00 -03:00
 type: post
 published: false
-status: publish
 comments: true
 categories:
 - livros
