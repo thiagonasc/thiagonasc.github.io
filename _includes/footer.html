@@ -12,16 +12,15 @@
       </div>
       <div class="col-md-2 offset-md-1">
         <h5>Site</h5>
-        {%- if page_paths -%}
         <ul class="list-unstyled text-small">
-          {%- for path in page_paths -%}
-          {%- assign my_page = site.pages | where: "path", path | first -%}
-          {%- if my_page.title -%}
-          <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+          {% for pages in site.pages %}
+          {% unless pages.excludemenu %}
+          {% if pages.title %}
+          <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ pages.url | prepend: site.baseurl }}">{{ pages.title }}</a></li>
           {%- endif -%}
+          {% endunless %}
           {%- endfor -%}
         </ul>
-        {%- endif -%}
       </div>
       <div class="col-md-3">
         <h5>Redes sociais</h5>
@@ -37,7 +36,7 @@
 
     <div class="row my-4">
       <div class="col-md-9">
-        <small class="text-muted">&copy; 2013-2021 • Desenvolvido com ♥ utilizando <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a> e <a href="https://getbootstrap.com/" target="_blank" rel="noopener">Bootstrap</a></small>
+        <small class="text-muted">&copy; 2013-2023 • Desenvolvido com ♥ utilizando <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a> e <a href="https://getbootstrap.com/" target="_blank" rel="noopener">Bootstrap</a> | <a href="/politica-de-privacidade">Política de Privacidade</a></small>
       </div>
       <div class="col-md-3 text-end">
         <a href="#topo">Voltar ao topo ↑</a>
@@ -47,3 +46,5 @@
 </div>
 
 <script src="{{ "/assets/js/bootstrap.bundle.min.js" | relative_url }}"></script>
+
+{% include cookie-consent.html %}

@@ -21,7 +21,7 @@ Bacharel em Sistemas de Informação<br>
 <small>Universidade Federal de Lavras (UFLA)</small>
 
 Master Business Administration em Gestão de Projetos<br>
-<small>Universidade de São Paulo (USP/Esqalq)</small>
+<small>Universidade de São Paulo (USP)</small>
 
 Advanced Topics in Project Management<br>
 <small>University of La Verne / California (ULV)</small>
