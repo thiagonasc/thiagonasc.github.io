@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A melhor maneira de organizar ScreenShots em seu macOS'
-description: '...'
+description: 'Por padrão o macOS salva seus ScreenShots na Mesa (área de Trabalho) e isso pode causar uma bagunça em seu computador ao final do dia! A boa notícia é que é facilmente possível mudar essa situação!'
 date: 2023-08-28 22:45:00 -03:00
 type: post
 published: true
