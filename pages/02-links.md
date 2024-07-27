@@ -40,14 +40,16 @@ categorias:
         url:	"https://www.stockvault.net/"
   - titulo: "Ícones"
     itens:
-      - nome:	"Font Awesome"
-        url:	"https://fontawesome.com/"
+      - nome: "Font Awesome"
+        url:  "https://fontawesome.com/"
       - nome:	"Icons 8"
         url:	"https://icons8.com.br/icons"
       - nome:	"flaticon"
         url:	"https://www.flaticon.com/br/"
       - nome:	"The Noun Project"
         url:	"https://thenounproject.com/icons/"
+      - nome: "Line Icons"
+        url:  "https://lineicons.com/icons/"
   - titulo: "Ilustrações"
     itens:
       - nome:	"O! Ouch"

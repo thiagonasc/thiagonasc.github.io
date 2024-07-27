@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '3 recursos simples para gerenciar e-mails de forma mais eficiente'
-description: '...'
+description: 'Aumente sua produtividade ao gerenciar emails com estes 3 simples recursos.'
 date: 2023-07-23 18:00:00 -03:00
 type: post
 published: true
